@@ -9,8 +9,8 @@
     * 22120412 - [Nguyễn Anh Tường.](https://github.com/richardnguyen0715)
     * 22120384 - [Nguyễn Đình Trí.](https://github.com/dinhtri2305)
     * 22120398 - [Vũ Hoàng Nhật Trường.](https://github.com/Truong5724)
-    * 22120424 - [Phạm Ngọc Bảo Uyên](https://github.com/phamuyen171)
-    * 22120449 - [Lê Nguyễn Huyền Vy](https://github.com/lorchidee1005)
+    * 22120424 - [Phạm Ngọc Bảo Uyên.](https://github.com/phamuyen171)
+    * 22120449 - [Lê Nguyễn Huyền Vy.](https://github.com/lorchidee1005)
 6. **Time**: Oct 01, 2024 - Dec 24, 2024.
 ## Main Topic
 
