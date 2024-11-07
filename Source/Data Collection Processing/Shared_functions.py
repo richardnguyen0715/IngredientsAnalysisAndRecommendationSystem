@@ -56,4 +56,6 @@ def read_from_file(filepath: str, how : str):
                 return content
         except Exception as err:
             print(f'{how} is not one of the supported values.')
+            
+#Comment to change commit!
     
