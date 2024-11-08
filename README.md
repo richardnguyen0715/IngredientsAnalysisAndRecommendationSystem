@@ -3,7 +3,7 @@
 ## Group Information
 1. **Class:** 22_21.
 2. **Theory Class Lecturer:** Mr. Le Ngoc Thanh.
-3. **Practice Class Lecturer:** Mr. Le Nhat Nam.
+3. **Practice Class Lecturer:** Mr. Le Nhut Nam.
 4. **Group ID:** 9.
 5. **Member's information:** ID - Name
     * 22120412 - [Nguyễn Anh Tường.](https://github.com/richardnguyen0715)
