@@ -57,7 +57,23 @@ def read_from_file(filepath: str, how : str):
         except Exception as err:
             print(f'{how} is not one of the supported values.')
 
-#Comment to change commit!
-def commit_func():
-    pass
+def create_file_path():
+    current_directory = Path(__file__)
+    parent_directory = current_directory.parent.parent
+    # Testing the read_input_file method
+    filename = str(parent_directory)
+    return filename
+
+def clean_text(text):
+    text = text.replace("\n", "").replace(" \n", " ").replace("\n ", " ").strip()
+    text = ' '.join(text.split())
+    return text
+
+
+def save_dataset(filename, df):
+    dataset_path = create_file_path() + '\\Assert'
+    cleaned_data = {title: clean_text(ingredients) for title, ingredients in df.items()}
+    df_return = pd.DataFrame(list(cleaned_data.items()), columns=['Title', 'Ingredients'])
+    df_return.to_csv(dataset_path + '\\' + filename, index=False, encoding="utf-8")
+    
     
