@@ -1,0 +1,803 @@
+﻿Ingredient,Type,Context,Flavor,Smell
+active yeast,Fermenting Agent,Fermentation,Umami,Yeasty
+agave nectar,Sweetener,Sweetening,Sweet,Floral
+all-purpose flour,Grain,Main Ingredient,Neutral,Neutral
+almond,Nut,Flavoring,Sweet,Nutty
+almond extract,Nut,Flavoring,Sweet,Nutty
+almond flour,Nut,Flavoring,Sweet,Nutty
+almond milk,Nut,Beverage,Sweet,Nutty
+aloe vera,Vegetable,Moisturizing,Neutral,Fresh
+amaretto,Beverage,Flavoring,Sweet,"Fruity Nutty"""
+american beef belly,Meat,Main Ingredient,Umami,Earthy
+anchovy,Seafood,Main Ingredient,Umami,"Fishy"""
+annatto powder,Spice,Coloring,Neutral,Earthy
+annatto seeds,Spice,Coloring,Neutral,Earthy
+apple,Fruit,Topping,Sweet,Fruity
+apple cider vinegar,Condiment,Fermentation,Sour,"Fruity, Yeasty"
+apple juice,Beverage,Main Ingredient,"Sweet, Sour","Fruity, Fresh"
+apricot,Fruit,Flavoring,"Sweet, Sour","Fruity, Floral"
+apricot jam,Fruit,Sweetening,Sweet,Fruity
+arrowroot powder,Grain,Thickening,Neutral,Earthy
+artichoke,Vegetable,Main Ingredient,Bitter,Earthy
+asparagus,Vegetable,Main Ingredient,Umami,Earthy
+avocado,Fruit,Main Ingredient,Umami,Fruity
+back ribs tips,Meat,Main Ingredient,Umami,"Smoky"""
+back-fat,Meat,Main Ingredient,Umami,Savory
+bacon,Meat,Main Ingredient,"Salty, Umami","Smoky, Umami"
+bagel,Bread,Main Ingredient,Umami,Yeasty
+baguette,Bread,Main Ingredient,Umami,Yeasty
+baking powder,Condiment,Binding Agent,Neutral,Neutral
+baking soda,Fermenting Agent,Binding Agent,Neutral,Neutral
+balsamic vinegar,Condiment,Flavoring,Sour,"Fruity, Umami"
+balut eggs,Meat,Main Ingredient,Umami,Earthy
+bamboo shoots,Vegetable,Main Ingredient,Umami,Earthy
+bamboo skewers,Grain,Main Ingredient,Neutral,Earthy
+banana,Fruit,Flavoring,Sweet,Fruity
+banana flower,Fruit,Main Ingredient,Bitter,Fruity
+banana leaves,Vegetable,Wrapping,Neutral,Fresh
+barilla pesto sauce,Sauce,Flavoring,Umami,Herbal
+barilla spaghetti,Pasta,Main Ingredient,Neutral,Neutral
+barilla tomato sauce,Sauce,Flavoring,Umami,"Fruity, Earthy"
+basic quiche crust,Grain,Base,Salty,Neutral
+basil,Herb,Flavoring,Umami,"Fresh, Floral, Herbal"
+basil leaves,Herb,Flavoring,Umami,"Fresh, Herbal"
+basil powder,Herb,Flavoring,Umami,Fresh
+basil seeds,Herb,Thickening,Neutral,Fresh
+bay leaf,Herb,Flavoring,Umami,Herbal
+bay leaves,Herb,Flavoring,Umami,Herbal
+bbq marinade,"Spice, Fruit, Condiment, Oil, Sauce","Flavoring, Tenderizing, Moisturizing, Emulsifying, Binding","Spicy, Sweet, Sour, Umami","Smoky, Fruity, Spicy, Umami"
+bbq sauce,Sauce,Flavoring,"Sweet, Spicy, Umami","Smoky, Fruity, Savory"
+bean,Legume,Main Ingredient,Umami,Earthy
+bean sprouts,Vegetable,Main Ingredient,Umami,"Fresh"""
+beat,Vegetable,Main Ingredient,Umami,Earthy
+beef,Meat,Main Ingredient,Umami,Earthy
+beef blood,Meat,Main Ingredient,Umami,"Earthy"""
+beef bone,Meat,Base,Umami,Smoky
+beef bones,Meat,Base,Umami,Savory
+beef brisket,Meat,Main Ingredient,Umami,Smoky
+beef broth,Meat,Base,Umami,Savory
+beef fillet,Meat,Main Ingredient,Umami,Savory
+beef loin,Meat,Main Ingredient,Umami,Earthy
+beef ribs,Meat,Main Ingredient,Umami,Smoky
+beef roast,Meat,Main Ingredient,Umami,Savory
+beef shank,Meat,Main Ingredient,Umami,Earthy
+beet,Vegetable,Main Ingredient,"Sweet, Sour",Earthy
+bell pepper,Vegetable,Main Ingredient,Sweet,Earthy
+bell peppers,Vegetable,Main Ingredient,Sweet,Earthy
+betel leaves,Herb,Flavoring,Bitter,Earthy
+biscuit,Grain,Main Ingredient,Sweet,Nutty
+black bean sauce,Sauce,Flavoring,"Salty, Umami","Umami, Earthy"
+black beans,Legume,Main Ingredient,Umami,Earthy
+black coffee,Beverage,Base,Bitter,"Smoky"""
+black olives,Vegetable,Preserving,Umami,Smoky
+black pepper,Spice,Flavoring,Spicy,Pungent
+black pepper powder,Spice,Flavoring,Spicy,"Pungent"""
+black pepper sauce,Sauce,Flavoring,Spicy,Pungent
+black sesame,Nut,Flavoring,Sweet,Nutty
+black tea,Beverage,Fermentation,Bitter,"Smoky, Herbal"
+black-veined tiger prawns,Seafood,Main Ingredient,Umami,Fresh
+blueberry,Fruit,Flavoring,Sweet,Fruity
+blueberry jam,"Fruit, Condiment","Flavoring, Topping, Preserving","Sweet, Sour","Fruity, Sweet"
+bo bo,Sweetener,Sweetening,Sweet,Fruity
+bok choy,Vegetable,Main Ingredient,Umami,Earthy
+bone broth,Meat,Base,Umami,Savory
+brandy,Beverage,Fermentation,Sweet,Fruity
+bread,Bread,Main Ingredient,Umami,Yeasty
+bread flour,Grain,Main Ingredient,Neutral,Yeasty
+bread yeast,Fermenting Agent,Fermentation,Neutral,Yeasty
+breadcrumb,Bread,Coating,Neutral,Nutty
+brew coffee,Beverage,Main Ingredient,Bitter,Earthy
+broccoli,Vegetable,Main Ingredient,Umami,Earthy
+broccoli noodles,"Vegetable, Pasta",Main Ingredient,"Umami, Sour","Earthy, Savory"
+brown m&m's,Sweetener,Sweetening,Sweet,Sweet
+brown reishi mushroom,Mushroom,Main Ingredient,Umami,Earthy
+brown sugar,Sweetener,Sweetening,Sweet,Earthy
+burger buns,Bread,Main Ingredient,Sweet,Yeasty
+butter,Dairy,Emulsifying,Umami,Milky
+butter biscuits,"Dairy, Grain, Sweetener","Main Ingredient, Tenderizing, Emulsifying, Moisturizing",Sweet,"Milky, Fruity, Nutty"
+buttermilk,Dairy,Fermentation,Sour,Milky
+button mushrooms,Mushroom,Main Ingredient,Umami,Earthy
+cabbage,Vegetable,Main Ingredient,Umami,Earthy
+cake,"Sweetener, Grain, Oil, Dairy, Flavoring Agent","Main Ingredient, Sweetening, Binding, Moisturizing, Emulsifying","Sweet, Sour, Umami","Sweet, Fruity, Nutty, Yeasty, Milky"
+cake base,"Sweetener, Bread, Oil, Condiment, Grain, Dairy, Sweetener","Base, Moisturizing, Flavoring, Binding, Tenderizing, Emulsifying, Coloring","Sweet, Umami, Sour","Sweet, Nutty, Milky, Floral, Fresh"
+cake body,"Sweetener, Bread, Oil, Condiment, Grain, Dairy, Sweetener","Sweetening, Moisturizing, Binding, Base","Sweet, Umami","Sweet, Milky, Floral"
+cake flour,Grain,Base,Neutral,Neutral
+cane sugar,Sweetener,Sweetening,Sweet,Sweet
+cantaloupe,Fruit,Main Ingredient,Sweet,Fruity
+caper,Condiment,Flavoring,Sour,Fruity
+caramel sauce,Sauce,Topping,Sweet,Sweet
+cardamom pods,Spice,Flavoring,Spicy,Floral
+cardamom powder,Spice,Flavoring,Spicy,Floral
+carp,Seafood,Main Ingredient,Umami,Fishy
+carrot,Vegetable,Main Ingredient,Sweet,Earthy
+cashew,Nut,Main Ingredient,Sweet,Nutty
+cashew nuts,Nut,Main Ingredient,Umami,Nutty
+cassava,Vegetable,Main Ingredient,Neutral,Earthy
+catfish,Seafood,Main Ingredient,Umami,Fishy
+cauliflower,Vegetable,Main Ingredient,Umami,Earthy
+cayenne pepper,Spice,Flavoring,Spicy,Earthy
+celery,Vegetable,Main Ingredient,Umami,Earthy
+cellophane noodles,Pasta,Main Ingredient,Neutral,Neutral
+cereal,Grain,Main Ingredient,Sweet,Neutral
+certo fruit pectin,Condiment,Thickening,Neutral,Neutral
+chaat masala spice powder,Spice,Flavoring,"Spicy, Sour, Sweet","Spicy, Umami, Fruity, Herbal, Earthy"
+cheddar cheese,Dairy,Fermentation,Umami,Milky
+cheese,Dairy,Fermentation,Sour,Pungent
+cheese powder,Dairy,Flavoring,Umami,Milky
+cheese tofu,Dairy,Main Ingredient,Umami,Milky
+cherry,Fruit,Flavoring,Sweet,Fruity
+cherry tomatoes,Fruit,Main Ingredient,"Sweet, Sour","Fresh, Fruity"
+chestnut,Nut,Main Ingredient,Sweet,Nutty
+chia cream,Grain,Thickening,Neutral,"Neutral"""
+chia seeds,Grain,Thickening,Neutral,Earthy
+chicken,Meat,Main Ingredient,Umami,Savory
+chicken bones,Meat,Base,Umami,Savory
+chicken bouillon powder,Meat,Flavoring,Umami,"Savory"""
+chicken breast,Meat,Main Ingredient,Umami,"Neutral"""
+chicken breast bone,Meat,Main Ingredient,Umami,"Savory"""
+chicken breasts,Meat,Main Ingredient,Umami,Neutral
+chicken broth,Meat,Base,Umami,Savory
+chicken feet,Meat,Main Ingredient,Umami,"Savory"""
+chicken fillet,Meat,Main Ingredient,Umami,"Neutral"""
+chicken marinade,"Spice, Vegetable, Condiment, Oil, Sauce",,"Spicy, Sour, Umami","Spicy, Herbal, Earthy, Savory"
+chicken skeleton,Meat,Base,Umami,Savory
+chicken thigh,Meat,Main Ingredient,Umami,Savory
+chicken thigh bones,Meat,Main Ingredient,Umami,"Earthy"""
+chicken thighs,Meat,Main Ingredient,Umami,Savory
+chicken wings,Meat,Main Ingredient,Umami,Savory
+chickpea,Legume,Main Ingredient,Umami,Earthy
+chili,Spice,Flavoring,Spicy,Pungent
+chili garlic sauce,Condiment,Flavoring,Spicy,Spicy
+chili lemongrass dipping sauce,Condiment,Flavoring,"Spicy, Sour, Umami","Citrusy, Herbal, Spicy"
+chili lemongrass fish sauce,"Condiment, Sauce, Seafood, Herb, Spice, Flavoring",,"Salty, Spicy, Sour, Umami","Fishy, Citrusy, Herbal, Pungent"
+chili powder,Spice,Flavoring,Spicy,"Earthy, Smoky, Pungent"
+chili sauce,Condiment,Flavoring,Spicy,Spicy
+chilli,Spice,Flavoring,Spicy,Pungent
+chinese bok choy,Vegetable,Main Ingredient,Umami,Fresh
+chinese cabbage,Vegetable,Main Ingredient,Umami,Earthy
+chinese coriander,Herb,Flavoring,Spicy,"Fresh, Herbal, Earthy"
+chinese medicine,Herb,Main Ingredient,Bitter,Herbal
+chinese sausages,Meat,Main Ingredient,Salty Umami,"Smoky Umami"""
+chip,Vegetable,Snacking,Salty,Neutral
+chipotle smoked pepper powder,Spice,Flavoring,Spicy,Smoky
+chive,Vegetable,Garnishing,Umami,Fresh
+chocolate,Sweetener,Sweetening,Sweet,Milky
+chocolate chips,Sweetener,Flavoring,Sweet,Milky
+chocolate condensed milk,"Sweetener, Dairy, Condiment","Binding, Thickening, Flavoring, Sweetening, Preserving, Topping, Emulsifying","Sweet, Umami","Milky, Sweet"
+chocolate ganache,Sweetener,Topping,Sweet,Milky
+chocolate milk,Beverage,Emulsifying,Sweet,Milky
+chocolate sauce,Sauce,Topping,Sweet,Milky
+chrysanthemum,Beverage,Flavoring,Bitter,Floral
+ciabatta bread,Bread,Main Ingredient,Umami,Yeasty
+cilantro,Herb,"Garnishing, Flavoring",Umami,"Fresh, Herbal"
+cinnamon,Spice,Flavoring,Sweet,"Fruity, Floral"
+cinnamon powder,Spice,Flavoring,Sweet,"Sweet, Floral"
+cinnamon wine,Beverage,Fermentation,Sweet,"Fruity, Floral"
+clam,Seafood,Main Ingredient,Umami,Savory
+clausena indica leaves,Herb,Flavoring,Spicy,"Herbal, Citrusy"
+clove,Spice,Flavoring,Spicy,Floral
+clove garlic,Spice,Flavoring,Spicy,Earthy
+clove powder,Spice,Flavoring,Spicy,"Earthy, Floral"
+clove seeds,Spice,Flavoring,Spicy,Floral
+cloves garlic,Spice,Flavoring,Spicy,Pungent
+cockle,Seafood,Main Ingredient,Umami,"Salty"""
+cocoa powder,Condiment,Flavoring,Bitter,Earthy
+coconut,Fruit,Flavoring,Sweet,Fruity Nutty
+coconut chips,Nut,Topping,Sweet,Nutty
+coconut cream,Fruit,"Thickening, Flavoring, Sweetening",Sweet,"Milky, Fruity, Nutty"
+coconut flesh,Fruit,Main Ingredient,Sweet,"Fruity"""
+coconut flour,Nut,Binding Agent,Sweet,Nutty
+coconut meat,Fruit,Sweetening,Sweet,Fruity Nutty
+coconut milk,"Fruit, Nut, Beverage, Condiment, Oil, Sweetener, Dairy","Thickening, Flavoring, Moisturizing, Emulsifying, Binding Agent","Sweet, Umami","Milky, Fruity, Nutty"
+coconut oil,Oil,"Moisturizing, Emulsifying",Neutral,Nutty
+coconut powder,"Fruit, Nut, Sweetener, Condiment, Flavoring, Thickening, Moisturizing, Binding Agent, Sweet, Fruity, Nutty, Fresh, Neutral",,,
+coconut water,Beverage,Main Ingredient,Sweet,Fresh
+coffee,Beverage,Main Ingredient,Bitter,"Earthy"""
+cointreau orange liqueur,Beverage,Flavoring,Sweet,Citrusy
+coke,Beverage,Flavoring,Sweet,Fruity
+cold-cuts,Meat,Main Ingredient,Umami,Savory
+colored sugar,Sweetener,Topping,Sweet,Sweet
+colored sugar granules,Sweetener,"Topping, Sweetening, Coloring",Sweet,"Sweet, Floral"
+concentrated chicken broth cube,Meat,Flavoring,Umami,"Savory"""
+condensed milk,Dairy,Sweetening,Sweet,Milky
+cooking cream,Dairy,"Thickening, Flavoring, Binding Agent","Sweet, Umami","Milky, Savory"
+cooking oil,Oil,Emulsifying,Neutral,Neutral
+cooking oil sprayer,Oil,Coating,Neutral,Neutral
+cooky,Grain,Sweetening,Sweet,Sweet
+coriander,Herb,"Garnishing, Flavoring","Umami, Spicy","Fresh, Herbal, Earthy"
+coriander powder,Spice,Flavoring,Spicy,"Herbal, Earthy"
+coriander roots,Herb,Flavoring,Umami,Earthy
+coriander seeds,Spice,Flavoring,Spicy,Earthy
+corn,Grain,Main Ingredient,Sweet,Earthy
+corn chips,Grain,Main Ingredient,Salty,Smoky
+corn cob,Grain,Main Ingredient,Sweet,Earthy
+corn flour,Grain,Thickening,Neutral,Earthy
+corn kernels,Grain,Main Ingredient,Sweet,Nutty
+corn syrup,Sweetener,"Sweetening, Thickening",Sweet,"Sweet, Neutral"
+cornstarch,Grain,Thickening,Neutral,Neutral
+cosy cookies,"Sweetener, Grain, Condiment, Nut, Oil, Bread, Sauce",,"Sweet, Umami","Sweet, Nutty, Fruity"
+cotija cheese,Dairy,Flavoring,Salty,Umami
+couscous,Grain,Main Ingredient,Neutral,Nutty
+crab meat,Seafood,Main Ingredient,Umami,Savory
+cranberry,Fruit,Flavoring,Sour,Fruity
+cream,Dairy,Topping,Sweet,Milky
+cream cheese,Dairy,Topping,Umami,"Milky"""
+creme fraiche,Dairy,Fermentation,Sour,Milky
+crispy flour,Grain,Coating,Neutral,Neutral
+crust,Bread,Main Ingredient,Umami,Earthy
+cucumber,Vegetable,Main Ingredient,Sour,Fresh
+culantro,Herb,Flavoring,Spicy,"Herbal, Earthy"
+cumin powder,Spice,Flavoring,Spicy,Earthy
+curry powder,Condiment,Flavoring,Spicy,Spicy
+custard,Dairy,"Thickening, Sweetening, Topping",Sweet,Milky
+custard powder,"Sweetener, Dairy, Condiment","Thickening, Flavoring, Topping",Sweet,"Milky, Sweet"
+dark chocolate,Sweetener,Sweetening,Bitter,Fruity
+dark chocolate chips,Sweetener,Flavoring,Bitter,Milky
+dark chocolate shavings,Sweetener,Garnishing,Bitter,Nutty
+dark soy sauce,Condiment,Flavoring,Salty Umami,"Smoky Umami"""
+dashi,Seafood,Base,Umami,Fishy
+deglet noor dates,Fruit,Sweetening,Sweet,Fruity Nutty
+desiccated coconut,Nut,Topping,Sweet,Nutty
+dijon mustard,Condiment,Flavoring,Spicy,Pungent
+dill,Herb,"Garnishing, Flavoring","Fresh, Sour","Fresh, Herbal, Earthy"
+dill leaves,Herb,"Garnishing, Flavoring",Umami,"Fresh, Herbal"
+dracontomelons,Fruit,Flavoring,Sour,Fruity
+duck,Meat,Main Ingredient,Umami,Earthy
+duck eggs,Meat,Main Ingredient,Umami,Earthy
+duck thigh,Meat,Main Ingredient,Umami,"Savory"""
+dulce de leche,Dairy,Sweetening,Sweet,Milky
+dumpling skins,Grain,Base,Neutral,Neutral
+dusting powder,Condiment,Coating,Neutral,Earthy
+edamame,Legume,Main Ingredient,Umami,Earthy
+eel,Seafood,Main Ingredient,Umami,Fishy
+egg,Egg,Main Ingredient,Umami,"Neutral"""
+egg noodles,Pasta,Main Ingredient,Neutral,Neutral
+egg white,Egg,Binding Agent,Neutral,Fresh
+egg whites,Egg,Binding Agent,Neutral,Fresh
+egg yolk,Dairy,Emulsifying,Umami,Milky
+egg yolks,Dairy,Emulsifying,Umami,Milky
+eggplant,Vegetable,Main Ingredient,Umami,Earthy
+eggs yolk,Dairy,Main Ingredient,Umami,"Milky"""
+english muffins,Bread,Main Ingredient,Savory,Yeasty
+enoki mushrooms,Mushroom,Main Ingredient,Umami,Earthy
+espresso,Beverage,Main Ingredient,Bitter,Smoky
+fairy pumpkin,Vegetable,Main Ingredient,Sweet,Earthy
+fennel seeds,Spice,Flavoring,Sweet,Herbal
+feta cheese,Dairy,Fermentation,"Salty, Sour","Pungent, Milky"
+fettuccine flat pasta,Pasta,Main Ingredient,Neutral,Neutral
+fine sugar,Sweetener,Sweetening,Sweet,Neutral
+fish,Seafood,Main Ingredient,Umami,Fishy
+fish cake,Seafood,Main Ingredient,Umami,Fishy
+fish fillet,Seafood,Main Ingredient,Umami,Fishy
+fish sauce,Seafood,Flavoring,Umami,Fishy
+fish sauce essence,Sauce,Flavoring,Umami,Fishy
+five-spice powder,Spice,Flavoring,Spicy,Earthy
+flat-leaf parsley leaves,Herb,Garnishing,Umami,Fresh
+flavored alcohol,Beverage,Flavoring,Sweet,Fruity
+flour,Grain,Main Ingredient,Neutral,Neutral
+food coloring,Condiment,Coloring,Neutral,Neutral
+food coloring powder,Condiment,Coloring,Neutral,Neutral
+fragolino sparkling wine,Beverage,Fermentation,Sour,Fruity Yeasty Floral
+french baguette,Bread,Main Ingredient,Umami,Yeasty
+fried-dough,Bread,Coating,Salty,Savory
+frisee salad,Vegetable,Main Ingredient,Bitter,Fresh
+frog legs,Meat,Main Ingredient,Umami,"Earthy"""
+fruit,Fruit,Flavoring,Sweet,Fruity
+fuji apple,Fruit,Topping,Sweet,"Fruity"""
+fungus,Mushroom,Main Ingredient,Umami,Earthy
+fussili noodles,Pasta,Main Ingredient,Neutral,Neutral
+fussili spiral noodles,Pasta,Main Ingredient,Neutral,Neutral
+galangal,Spice,Flavoring,Spicy,"Earthy, Pungent, Herbal"
+galangal root,Spice,Flavoring,Spicy,"Earthy, Pungent"
+garlic,Vegetable,Flavoring,Umami,Pungent
+garlic powder,Spice,Flavoring,Umami,Pungent
+garlic vinegar,Condiment,Flavoring,Sour,Pungent
+gelatin powder,Fermenting Agent,Binding Agent,Neutral,Neutral
+gelatin sheet,Sweetener,Binding Agent,Neutral,Neutral
+gelatin sheets,Condiment,Binding Agent,Neutral,Neutral
+ginger,Spice,Flavoring,Spicy,Pungent
+ginger branch,Spice,Flavoring,Spicy,"Earthy, Pungent"
+ginger leaves,Herb,Flavoring,Spicy,"Herbal"""
+ginger powder,Spice,Flavoring,Spicy,Pungent
+ginger root,Spice,Flavoring,Spicy,Pungent
+glace cherry jam,Fruit,Sweetening,Sweet,Fruity
+glutinous liver,Meat,Main Ingredient,Umami,Earthy
+gnochi,Pasta,Main Ingredient,Umami,Neutral
+goat cheese,Dairy,Fermentation,Sour,Pungent
+gochujang sauce,Sauce,Fermentation,Spicy Umami Sour,"Spicy Earthy Umami"""
+golden sticky rice,Grain,Main Ingredient,Sweet,Neutral
+golden syrup,Sweetener,Sweetening,Sweet,Sweet
+grand marnier,Beverage,Flavoring,Sweet,Citrusy
+grand marnier wine,Beverage,Flavoring,Sweet,"Fruity, Floral"
+grapefruit flavor,Fruit,Flavoring,Sour,Citrusy
+grapefruit juice,Beverage,Main Ingredient,Sour,Citrusy
+grass jelly powder,Sweetener,Thickening,Sweet,Earthy
+greek yogurt,Dairy,Fermentation,Sour,Milky
+green,Neutral,Coloring,Neutral,Fresh
+green banana,Fruit,Main Ingredient,Sour,Earthy
+green bean vermicelli,"Legume, Grain, Pasta, Main Ingredient, Garnishing, Flavoring, Binding, Thickening, Tenderizing, Moisturizing, Neutral, Fresh, Savory, Salty, Umami, Earthy, Floral, Fresh, Neutral",,,
+green beans,Vegetable,Main Ingredient,Umami,Earthy
+green bell pepper,Vegetable,Main Ingredient,Sweet,Fresh
+green cabbage,Vegetable,Main Ingredient,Savory,Earthy
+green cardamom seeds,Spice,Flavoring,Spicy,Floral
+green chili,Spice,Flavoring,Spicy,Earthy
+green curry sauce,Sauce,Base,Spicy,"Herbal"""
+green dracontomelons,Fruit,Main Ingredient,Sour,Fruity
+green food-grade toothpicks,None,Binding,Neutral,Neutral
+green granny smith apples,Fruit,Flavoring,Sour,Fruity
+green grapes,Fruit,Flavoring,"Sweet, Sour","Fruity, Fresh"
+green lemon,Fruit,Flavoring,Sour,Citrusy
+green lemon peel,Fruit,Flavoring,Sour,Citrusy
+green lemons,Fruit,Flavoring,Sour,Citrusy
+green olive oil,Oil,Emulsifying,Sour,Fruity
+green onion,Vegetable,Garnishing,Umami,Pungent
+green onions,Vegetable,Garnishing,Spicy,"Fresh, Herbal"
+green papaya,Vegetable,Main Ingredient,Sour,Fresh
+green pepper,Vegetable,Main Ingredient,Umami,Earthy
+green pepper branch,Vegetable,Garnishing,Neutral,"Earthy"""
+green peppercorns,Spice,Flavoring,Spicy,Earthy
+green pineapple,Fruit,Flavoring,Sweet,Fruity
+green prawns,Seafood,Main Ingredient,Umami,Fresh
+green rice,Grain,Main Ingredient,Neutral,Earthy
+green tea powder,Beverage,Flavoring,Bitter,Herbal
+green-skinned grapefruit,Fruit,Flavoring,Sour,Citrusy
+grilled-meat seasoning,"Spice, Condiment, Herb","Flavoring, Tenderizing, Main Ingredient",,"Smoky, Umami, Savory"""
+guava,Fruit,Flavoring,"Sweet, Sour","Fruity, Floral"
+ham,Meat,Main Ingredient,"Salty, Umami","Smoky, Umami"
+ham hock,Meat,Main Ingredient,Umami,Smoky
+hazelnut,Nut,Flavoring,Sweet,"Nutty"""
+heavy cream,Dairy,"Topping, Emulsifying, Thickening","Sweet, Umami","Milky, Neutral"
+herb,Herb,Flavoring,Neutral,Herbal
+hibiscus tea,Beverage,Flavoring,Sour,Floral
+honey,Sweetener,Sweetening,Sweet,Floral
+honey mustard,Condiment,Flavoring,"Sweet, Spicy, Sour","Fruity, Pungent"
+hummus sauce,Sauce,Main Ingredient,Umami,Earthy
+ice cream,Dairy,Base,Sweet,Milky
+ice cubes,Beverage,Cooling,Neutral,Neutral
+icing sugar,Sweetener,Sweetening,Sweet,Neutral
+instant coffee powder,Beverage,Main Ingredient,Bitter,"Umami"""
+instant noodles,Grain,Main Ingredient,Salty,Umami
+instant oats,Grain,Main Ingredient,Neutral,Nutty
+instant yeast,Fermenting Agent,Fermentation,Neutral,Yeasty
+italian breadcrumbs,Bread,Coating,Umami,Nutty
+italian seasoning,Herb,Flavoring,Umami,Herbal
+jackfruit,Fruit,Main Ingredient,Sweet,"Fruity, Earthy"
+japanese breadcrumbs,Bread,Coating,Umami,Neutral
+japanese egg tofu,Dairy,Main Ingredient,Umami,Milky
+japanese green tea powder,Beverage,Flavoring,Bitter,"Herbal"""
+japanese soy sauce,Condiment,Fermentation,"Salty, Umami","Umami, Fruity, Earthy"
+japanese soybeans,Legume,Main Ingredient,Umami,Earthy
+jar barilla pesto sauce,Sauce,Flavoring,Umami,Herbal
+jasmine flowers,Herb,Flavoring,Sweet,Floral
+jasmine tea,Beverage,Flavoring,Sweet,Floral
+jelly powder,Sweetener,Thickening,Sweet,Fruity
+jicama,Vegetable,Main Ingredient,"Crisp, Sweet, Sour","Fresh, Earthy"
+jujube,Fruit,Sweetening,Sweet,Fruity
+kaffir lime leaves,Herb,Flavoring,Sour,Citrusy
+kahlua coffee liqueur,Beverage,Flavoring,Sweet,"Fruity, Nutty"
+kale,Vegetable,Main Ingredient,Bitter,Earthy
+kaya jam,"Condiment, Fruit, Dairy, Sweetener, Grain",,Sweet,"Fruity, Milky, Nutty"
+ketchup,Condiment,Flavoring,"Sweet, Sour, Salty","Umami, Savory"
+kiwi,Fruit,Flavoring,Sour,Fruity
+kohlrabi,Vegetable,Main Ingredient,Umami,Earthy
+korean bean paste,"Condiment, Legume, Fermenting Agent","Flavoring, Fermentation, Main Ingredient","Salty, Umami","Umami, Earthy, Pungent"
+korean chili sauce,Condiment,Flavoring,Spicy,"Umami, Pungent, Earthy"
+korean ginseng stew seasoning,Condiment,Flavoring,Umami,Earthy
+korean radish,Vegetable,Main Ingredient,Sour,Earthy
+korean soy sauce,Condiment,Fermentation,"Salty, Umami","Umami, Yeasty"
+kosher salt,Condiment,Flavoring,Salty,Neutral
+kumquat,Fruit,Flavoring,Sour,Citrusy
+ladyfingers biscuits,"Sweetener, Bread, Grain, Dairy, Condiment, Sauce, Butter, Sugar, Egg, Vanilla","Topping, Base, Binding Agent, Moisturizing, Flavoring, Sweetening, Thickenin, g","Sweet, Umami, Sour","Sweet, Fruity, Nutty, Floral"
+lard,Meat,"Binding Agent, Emulsifying, Moisturizing",Umami,Neutral
+lasagna noodles,Pasta,Main Ingredient,Neutral,Neutral
+laughing cow cheese,Dairy,Main Ingredient,Umami,Milky
+lean meat,Meat,Main Ingredient,Umami,Savory
+lean pork belly,Meat,Main Ingredient,Umami,Savory
+leaves intact,Herb,Flavoring,Fresh,Herbal
+leek,Vegetable,Main Ingredient,Umami,Earthy
+lemon,Fruit,Flavoring,Sour,Citrusy
+lemon ice cream,Dairy,Main Ingredient,"Sweet, Sour","Citrusy, Milky"
+lemon juice,Fruit,Flavoring,Sour,Citrusy
+lemon leaf salt,Herb,Flavoring,Sour,Citrusy
+lemon leaves,Herb,Flavoring,Sour,Citrusy
+lemon peel,Fruit,Flavoring,Sour,Citrusy
+lemon peels,Fruit,Flavoring,Sour,Citrusy
+lemongrass,Herb,Flavoring,Sour,Citrusy
+lemongrass powder,Herb,Flavoring,Sour,Citrusy
+lethocerus indicus extract,Seafood,Flavoring,Umami,Fishy
+lettuce,Vegetable,Garnishing,Fresh,Earthy
+leucocasia gigantea,Vegetable,Main Ingredient,Bitter,Earthy
+lime juice,Fruit,Flavoring,Sour,Citrusy
+lime peel,Fruit,Flavoring,Sour,Citrusy
+lingzhi mushroom,Mushroom,Main Ingredient,Umami,Earthy
+longan,Fruit,Sweetening,Sweet,Fruity
+lotus leaf,Herb,Flavoring,Neutral,Fresh
+lotus leaves,Herb,Flavoring,Neutral,Fresh
+lotus root,Vegetable,Main Ingredient,Umami,Earthy
+lotus roots,Vegetable,Main Ingredient,Umami,Earthy
+lotus seeds,Nut,Main Ingredient,Sweet,Nutty
+low-fat mayonnaise,Condiment,Emulsifying,Salty,Milky
+low-fat sour cream,Dairy,Topping,Sour,"Milky, Sour"
+lychee,Fruit,Sweetening,Sweet,Fruity
+macaroni noodles,Pasta,Main Ingredient,Neutral,Neutral
+malt,Grain,Fermentation,Umami,Yeasty
+mango,Fruit,Flavoring,Sweet,"Fruity"""
+maple syrup,Sweetener,Sweetening,Sweet,Fruity Nutty
+marinade,"Spice, Fruit, Herb, Oil can belong to multiple factors;","Flavoring, Tenderizing, Emulsifying;","Spicy, Sour, Umami;","Spicy, Fruity, Herbal"
+marinara sauce,Sauce,Base,Umami,Earthy
+marmalade,Fruit,Preserving,Sweet,Citrusy
+mascarpone cheese,Dairy,Main Ingredient,"Creamy, Sour","Milky, Umami"
+mayonnaise,Condiment,Emulsifying,Salty,Neutral
+meat,Meat,Main Ingredient,Umami,Savory
+meatball,Meat,Main Ingredient,Umami,Savory
+medjool dates,Fruit,Sweetening,Sweet,Fruity Nutty
+melon,Fruit,Flavoring,Sweet,Fruity
+milk,Dairy,Emulsifying,Neutral,Milky
+milk powder,Dairy,Main Ingredient,Sweet,Milky
+mint,Herb,Flavoring,Fresh,Floral
+mint leaves,Herb,Flavoring,Fresh,Floral
+mirin wine,Beverage,Flavoring,"Sweet, Umami","Sweet, Umami"
+miso paste,"Fermenting Agent, Condiment, Legume","Flavoring, Fermentation, Base","Umami, Salty","Umami, Earthy, Savory"
+mixed-spice,Spice,Flavoring,Spicy,"Spicy, Herbal, Earthy"
+mouse bread,Bread,Main Ingredient,Umami,Yeasty
+mozzarella cheese,Dairy,Main Ingredient,Umami,Milky
+mugwort,Herb,Flavoring,Bitter,Earthy
+mulberry,Fruit,Main Ingredient,Sweet,Fruity
+mushroom,Mushroom,Main Ingredient,Umami,Earthy
+musk,Condiment,Flavoring,Neutral,Pungent
+mustard sauce,Condiment,Flavoring,Spicy,Pungent
+natural spices,Spice,Flavoring,Spicy,Earthy
+natural sweetener,Sweetener,Sweetening,Sweet,Fruity
+nha trang lemon chili salt,Condiment,Flavoring,"Spicy, Sour, Salty","Citrusy, Spicy"
+nha trang salt,Condiment,Flavoring,Salty,Neutral
+noodle,Grain,Main Ingredient,Umami,Neutral
+nut,Nut,Flavoring,Umami,Nutty
+nut milk,Nut,Main Ingredient,Neutral,Nutty
+nutmeg,Spice,Flavoring,Sweet,Nutty
+nutmeg powder,Spice,Flavoring,Sweet,Nutty
+oat,Grain,Thickening,Neutral,Nutty
+oat milk,Grain,Beverage,Neutral,Nutty
+oatmeal,Grain,Thickening,Sweet,Nutty
+of garlic,Vegetable,Flavoring,Umami,Pungent
+oil,Oil,Emulsifying,Neutral,Neutral
+okra,Vegetable,Main Ingredient,Umami,Earthy
+olive,Oil,Emulsifying,Umami,Fruity
+olive oil,Oil,Emulsifying,Neutral,Fruity
+onion,Vegetable,Flavoring,Umami,Pungent
+onion powder,Spice,Flavoring,Umami,Pungent
+onion roots,Vegetable,Flavoring,Spicy,"Earthy"""
+orange,Fruit,Flavoring,"Sweet, Sour",Citrusy
+orange flavor,Fruit,Flavoring,"Sweet, Sour",Citrusy
+orange juice,Beverage,Main Ingredient,Sour,Citrusy
+orange m&m's,Fruit,Sweetening,Sweet,Citrusy
+orange peel,Fruit,Flavoring,Sour,Citrusy
+orange syrup,Fruit,Sweetening,Sweet,Citrusy
+oregano,Herb,Flavoring,Spicy,"Earthy, Herbal"
+oregano leaves,Herb,Flavoring,Spicy,Herbal
+oregano powder,Herb,Flavoring,Spicy,Herbal
+oreo cookies,"Sweetener, Bread, Condiment, Oil, Dairy, Nut, Grain",,"Sweet, Slightly Salty","Sweet, Milky, Nutty"
+oyster mushrooms,Mushroom,Main Ingredient,Umami,"Earthy"""
+oyster sauce,Sauce,Flavoring,Umami,"Savory"""
+pacetta bacon,Meat,Main Ingredient,"Salty, Umami","Smoky, Umami"""
+palm sugar,Sweetener,Sweetening,Sweet,Fruity
+pandan essence,Condiment,Flavoring,Sweet,"Floral"""
+pandan flavor,Herb,Flavoring,Sweet,Floral
+pandan leaves,Herb,Flavoring,Sweet,"Floral, Fresh, Herbal, Earthy"
+paprika powder,Spice,"Flavoring, Coloring","Spicy, Umami","Smoky, Earthy"
+parma cheese,Dairy,Fermentation,Umami,Milky
+parmesan cheese,Dairy,Main Ingredient,Umami,Nutty
+parmesan cheese powder,Dairy,Flavoring,Umami,Milky
+parmiggiano reggiano cheese,Dairy,Fermentation,Umami,Milky
+parsley leaves,Herb,Garnishing,Neutral,Fresh
+passion fruit,Fruit,Flavoring,Sour,"Fruity, Floral"
+passion fruit sauce,"Fruit, Sauce","Flavoring, Topping","Sweet, Sour","Fruity, Sweet"
+pasta,Pasta,Main Ingredient,Umami,Neutral
+pastry base,"Grain, Bread, Sweetener, Oil, Condiment","Base, Moisturizing, Binding Agent","Sweet, Umami","Fruity, Nutty, Yeasty"
+pea,Legume,Main Ingredient,Umami,Earthy
+peach,Fruit,Main Ingredient,Sweet,"Fruity"""
+peanut,Nut,Main Ingredient,Umami,Nutty
+peanut butter,Nut,"Topping, Emulsifying","Salty, Umami","Nutty, Umami"
+pear,Fruit,Main Ingredient,Sweet,Fruity
+pecan,Nut,Main Ingredient,Sweet,Nutty
+pepper,Spice,Flavoring,Spicy,Earthy
+pepper powder,Spice,Flavoring,Spicy,Earthy
+pepper sauce,Condiment,Flavoring,Spicy,Spicy
+peppermint essence,Oil,Flavoring,Spicy,Floral
+peppermint tea,Beverage,Flavoring,Fresh,"Floral"""
+perilla leaves,Herb,Flavoring,Umami,Herbal
+persimmon,Fruit,Main Ingredient,Sweet,Fruity
+phrynium leaves,Vegetable,Garnishing,Bitter,Earthy
+phu quoc black pepper,Spice,Flavoring,Spicy,"Earthy, Pungent"
+pickled cucumber,Vegetable,Preserving,Sour,Fruity
+pie dough,Grain,Base,Neutral,Yeasty
+pig ears,Meat,Main Ingredient,Umami,Savory
+pig nose,Meat,Main Ingredient,Umami,"Earthy"""
+pigeon,Meat,Main Ingredient,Umami,"Savory"""
+pine mushrooms,Mushroom,Main Ingredient,Umami,Earthy
+pine nuts,Nut,Main Ingredient,Umami,Nutty
+pineapple,Fruit,Flavoring,"Sweet, Sour","Fruity"""
+pink ginger,Spice,Flavoring,Spicy,"Earthy"""
+pink grapefruit,Fruit,Flavoring,Sour,"Citrusy"""
+pink salt,Condiment,Flavoring,Salty,Smoky
+pistachio,Nut,Main Ingredient,Sweet,Nutty
+pizza crust,Bread,Base,Umami,Yeasty
+plum,Fruit,Flavoring,Sour,Fruity
+pop corn,Grain,Main Ingredient,Salty,Nutty
+porcini mushrooms,Mushroom,Main Ingredient,Umami,Earthy
+pork,Meat,Main Ingredient,Umami,Savory
+pork belly,Meat,Main Ingredient,Umami,Savory
+pork blood,Meat,Main Ingredient,Umami,Earthy
+pork bones,Meat,Base,Umami,Savory
+pork chops,Meat,Main Ingredient,Umami,Savory
+pork floss,Meat,Main Ingredient,Salty Umami,"Savory Smoky"""
+pork liver,Meat,Main Ingredient,Umami,"Earthy"""
+pork loin,Meat,Main Ingredient,Umami,"Savory"""
+pork roll,Meat,Main Ingredient,Umami,Smoky
+pork sausage,Meat,Main Ingredient,Umami,Smoky
+pork skin,Meat,Main Ingredient,Umami,Savory
+potato,Vegetable,Main Ingredient,Umami,Earthy
+potato starch,Grain,Thickening,Neutral,Neutral
+prawn,Seafood,Main Ingredient,Umami,Fresh
+prosciutto ham,Meat,Main Ingredient,Salty Umami,Smoky Umami
+pumpkin,Vegetable,Main Ingredient,Sweet,Earthy
+pumpkin seeds,Nut,Main Ingredient,Salty,Nutty
+pumpkin spice,Spice,Flavoring,Sweet,"Spicy, Fruity, Earthy"
+pumpkin syrup,Sweetener,Flavoring,Sweet,"Fruity, Earthy"
+purple cabbage,Vegetable,Main Ingredient,Umami,Earthy
+purple onion,Vegetable,Flavoring,Bitter,Earthy
+purple onions,Vegetable,Main Ingredient,Umami,Earthy
+purple sticky rice,Grain,Main Ingredient,Sweet,Earthy
+purple sweet potatoes,Vegetable,Main Ingredient,Sweet,Earthy
+quail eggs,Meat,Main Ingredient,Umami,Earthy
+radicchio,Vegetable,Main Ingredient,Bitter,Earthy
+radicchio lettuce,Vegetable,Main Ingredient,Bitter,Earthy
+radish,Vegetable,Main Ingredient,Spicy,Earthy
+raisin,Fruit,Sweetening,Sweet,Fruity
+raspberry,Fruit,Flavoring,Sweet,Fruity
+raspberry jam,Fruit,Preserving,Sweet,Fruity
+red annatto oil,Oil,Coloring,Neutral,Earthy
+red apple,Fruit,Flavoring,"Sweet, Sour","Fruity, Fresh"
+red apples,Fruit,Flavoring,"Sweet, Sour","Fruity, Fresh"
+red beans,Legume,Main Ingredient,Sweet,Earthy
+red bell pepper,Vegetable,Main Ingredient,Sweet,Earthy
+red bell peppers,Vegetable,Main Ingredient,Sweet,Fresh
+red food coloring,Condiment,Coloring,Neutral,Neutral
+red lentils,Legume,Main Ingredient,Umami,"Earthy"""
+red onion,Vegetable,Flavoring,Spicy,Pungent
+red pomegranate,Fruit,Flavoring,Sour,"Fruity, Floral"
+red tilapia,Seafood,Main Ingredient,Umami,"Fishy"""
+red turmeric powder,Spice,Coloring,Bitter,Earthy
+red wine,Beverage,Fermentation,"Bitter, Sour","Fruity, Yeasty, Floral"
+red wine vinegar,Condiment,Flavoring,Sour,"Fruity, Yeasty, Savory"
+rib,Meat,Main Ingredient,Umami,Savory
+rib cartilage,Meat,Main Ingredient,Umami,Earthy
+ribeye steaks,Meat,Main Ingredient,Umami,Savory
+ribs tips,Meat,Main Ingredient,Umami,Smoky
+rice,Grain,Main Ingredient,Umami,Neutral
+rice cake,Grain,Main Ingredient,Sweet,Neutral
+rice field crab,Seafood,Main Ingredient,Umami,Earthy
+rice flour,Grain,Thickening,Neutral,Neutral
+rice noodles,Grain,Main Ingredient,Neutral,Neutral
+rice paper,Grain,Binding Agent,Neutral,Neutral
+rice paper sheets,Grain,Binding,Neutral,Neutral
+rice vinegar,Condiment,Flavoring,Sour,"Fruity, Sour"
+rice wine,Beverage,Fermentation,Umami,Yeasty
+ricotta cheese,Dairy,Main Ingredient,Umami,Milky
+rock sugar,Sweetener,Sweetening,Sweet,Sweet
+rocket,Herb,Garnishing,Bitter,Fresh
+romaine lettuce,Vegetable,Garnishing,Bitter,Fresh
+rose,Herb,Garnishing,Neutral,Floral
+roselle flowers,Spice,Flavoring,Sour,Floral
+roselle syrup,"Fruit, Sweetener, Condiment",,"Sweet, Sour","Fruity, Floral"
+rosemary,Herb,Flavoring,Umami,Herbal
+rosemary branch,Herb,Flavoring,Umami,Floral
+rosemary leaves,Herb,Flavoring,Umami,Floral
+rum,Beverage,Fermentation,Sweet,"Fruity, Smoky, Herbal"
+saffron,Spice,"Flavoring, Coloring","Spicy, Bitter","Floral, Earthy"
+sage leaves,Herb,Flavoring,Umami,Herbal
+sake,Beverage,Fermentation,Umami,Yeasty
+salad,"Vegetable, Fruit, Dairy, Condiment, Oil can only belong to one or more of the following factors [Spice, Fruit, Vegetable, Dairy, Meat, Grain, Condiment, Seafood, Herb, Nut, Sweetener, Oil, Beverage, Fermenting Agent, Legume, Mushroom, Pasta, Bread, Sauce]","Base, Flavoring, Garnishing can only belong to one or more of the following factors [Binding, Thickening, Flavoring, Sweetening, Preserving, Topping, Fermentation, Main Ingredient, Garnishing, Base, Tenderizing, Emulsifying, Coating, Moisturizing, Coloring, Binding Agent]","Sour, Salty can only belong to one or more of the following factors [Sweet, Salty, Spicy, Bitter, Sour, Umami]","Fresh, Fruity can only belong to one or more of the following factors [Sweet, Sour, Spicy, Bitter, Umami, Fruity, Nutty, Smoky, Herbal, Earthy, Fishy, Yeasty, Citrusy, Milky, Pungent, Floral, Fresh, Savory, Neutral]"
+salad sauce,Sauce,Flavoring,Sour,Fresh
+salami,Meat,Main Ingredient,Umami,Smoky
+salmon,Seafood,Main Ingredient,Umami,Fishy
+salmon bones broth,Seafood,Base,Umami,Fishy
+salmon fillet,Seafood,Main Ingredient,Umami,Fishy
+salmon fillets,Seafood,Main Ingredient,Umami,Fishy
+salt,Condiment,Flavoring,Salty,Neutral
+salt-roasted cashews,Nut,Main Ingredient,Salty,Nutty
+salt-roasted powder,Condiment,Flavoring,Salty,Savory
+salted butter,Dairy,Emulsifying,Salty,Milky
+salted cucumbers,Vegetable,Preserving,Salty,Fresh
+salted egg yolk,Condiment,Flavoring,"Salty, Umami","Smoky, Umami"
+salted egg yolks,Condiment,Flavoring,"Salty, Umami","Smoky, Umami"
+salted eggplant,Vegetable,Main Ingredient,Salty,Earthy
+samba biscuits,"Sweetener, Bread, Condiment, Grain, Oil, Sweetener","Topping, Base, Flavoring, Moisturizing, Binding, Sweetening","Sweet, Umami","Sweet, Nutty, Floral"
+sandwich bread,Bread,Base,Umami,Yeasty
+sashimi soy sauce,Condiment,Flavoring,"Salty, Umami","Umami, Savory"
+satay sauce,Sauce,Flavoring,"Spicy, Sour, Umami","Smoky, Umami, Nutty"
+sauce,Sauce,Flavoring,Umami,Savory
+sausage,Meat,Main Ingredient,Umami,Smoky
+scallion,Vegetable,Garnishing,Umami,Fresh
+sea bass,Seafood,Main Ingredient,Umami,Fishy
+sea bass fillet,Seafood,Main Ingredient,Umami,Fishy
+sea worms,Seafood,Main Ingredient,Umami,Fishy
+seafood mushrooms,Mushroom,Main Ingredient,Umami,"Earthy"""
+seasoning,Spice,Flavoring,Spicy,Pungent
+seasoning powder,Condiment,Flavoring,Salty,Savory
+seaweed,Seafood,Main Ingredient,Umami,Savory
+seaweed salad,Seafood,Main Ingredient,Umami,Fresh
+seed,Grain,Thickening,Neutral,Neutral
+self-raising flour,Grain,Main Ingredient,Neutral,Neutral
+sesame,"Nut, Grain, Oil, Condiment","Flavoring, Preserving, Topping, Emulsifying, Binding Agent","Umami, Bitter, Sour","Nutty, Earthy, Fruity"
+sesame almonds,Nut,Flavoring,"Sweet, Sour",Nutty
+sesame oil,Oil,Flavoring,Umami,Nutty
+sesame salt,"Nut, Condiment, Grain","Flavoring, Garnishing","Salty, Umami","Nutty, Umami"
+shallot,Vegetable,Flavoring,Umami,Pungent
+shaoxing wine,Beverage,Fermentation,Umami,Yeasty
+sherry vinegar,Condiment,Fermentation,Sour,Fruity Yeasty Umami
+shiitake mushrooms,Mushroom,Main Ingredient,Umami,Earthy
+shortbread cookies,"Grain, Sweetener, Dairy, Condiment, Oil, Bread","Main Ingredient, Binding, Tenderizing, Emulsifying, Moisturizing",Sweet,"Sweet, Milky, Nutty"
+shortening,Oil,Binding Agent,Neutral,Neutral
+shoulder meat,Meat,Main Ingredient,Umami,Savory
+shoulder ribs,Meat,Main Ingredient,Umami,Savory
+shrimp,Seafood,Main Ingredient,Umami,Fresh
+shrimp chips,Seafood,Main Ingredient,Salty,Umami
+shrimp flour,Seafood,Flavoring,Umami,Fishy
+shrimp paste,Seafood,Fermentation,Umami,"Fishy, Pungent"
+shrimp powder,Seafood,Flavoring,Umami,Fishy
+shrimp salt,Seafood,Flavoring,Salty,"Umami"""
+siracha chili sauce,Condiment,Flavoring,Spicy,Spicy
+skin,Skin,Moisturizing,Neutral,Earthy
+smoked bacon,Meat,Main Ingredient,Salty,Smoky
+smoked lemon sauce,Sauce,Flavoring,"Sour, Smoky","Citrusy, Smoky"
+smoked meat ham,Meat,Main Ingredient,Umami,Smoky
+snail,Seafood,Main Ingredient,Umami,Earthy
+snakehead fish,Seafood,Main Ingredient,Umami,Fishy
+snakehead fish fillets,Seafood,Main Ingredient,Umami,Fishy
+snow peas,Vegetable,Main Ingredient,Fresh,Fresh
+soba noodles,Grain,Main Ingredient,Umami,Earthy
+sochu,Beverage,Fermentation,Spicy,Yeasty
+soda,Beverage,Flavoring,Sweet,Fruity
+sour apple,Fruit,Flavoring,Sour,"Fruity, Citrusy"
+sour cream,Dairy,"Topping, Flavoring, Emulsifying",Sour,"Milky, Pungent"
+sour ears,Fruit,Flavoring,Sour,Fruity
+sour fish sauce,Sauce,Fermentation,Sour,Fishy
+sour mango,Fruit,Flavoring,Sour,Fruity
+sour vietnamese fermented rice,Grain,Fermentation,Sour,Yeasty
+soy milk,"Beverage, Legume","Main Ingredient, Base","Umami, Sour","Milky, Earthy"
+soy sauce,Condiment,Flavoring,"Salty, Umami","Umami, Smoky"
+spaghetti,Pasta,Main Ingredient,Umami,Neutral
+spaghetti noodles,Pasta,Main Ingredient,Umami,Neutral
+sparkling mineral water,Beverage,Base,Neutral,Fresh
+spice,Spice,Flavoring,Spicy,Pungent
+spinach,Vegetable,Main Ingredient,Bitter,Earthy
+spring onion,Vegetable,Garnishing,Umami,Earthy
+spring onions,Vegetable,Garnishing,Umami,Fresh
+sprout,Vegetable,Main Ingredient,Umami,Earthy
+squash,Vegetable,Main Ingredient,Sweet,Earthy
+squid,Seafood,Main Ingredient,Umami,Fishy
+squid tentacles,Seafood,Main Ingredient,Umami,Fishy
+sriracha chili sauce,Condiment,Flavoring,Spicy,Spicy
+sriracha sauce,Sauce,Flavoring,Spicy,Spicy
+ssamjang sauce,Sauce,"Flavoring, Fermentation, Umami","Salty, Spicy, Sour, Umami","Savory, Umami, Earthy, Smoky"
+star anise,Spice,Flavoring,Spicy,Floral
+steak,Meat,Main Ingredient,Umami,Savory
+sticky rice,Grain,Main Ingredient,Sweet,"Neutral"""
+sticky rice flour,Grain,"Thickening, Sweetening, Moisturizing",Sweet,"Neutral"""
+stone,None,Binding Agent,Neutral,Earthy
+straw mushroom,Mushroom,Main Ingredient,Umami,Earthy
+straw mushrooms,Mushroom,Main Ingredient,Umami,Earthy
+strawberry,Fruit,Topping,Sweet,Fruity
+sugar,Sweetener,Sweetening,Sweet,Sweet
+sugar rice,Sweetener,Sweetening,Sweet,Sweet
+sugar snap peas,Vegetable,Main Ingredient,Sweet,Fresh
+sugar syrup,Sweetener,Sweetening,Sweet,Sweet
+sunflower seeds,Nut,Main Ingredient,Salty,Nutty
+sweet,Sweetener,Sweetening,Sweet,Sweet
+sweet orange potatoes,Vegetable,Main Ingredient,Sweet,Earthy
+sweet potato,Vegetable,Main Ingredient,Sweet,Earthy
+sweet potatoes,Vegetable,Main Ingredient,Sweet,Earthy
+sweet purple potatoes,Vegetable,Main Ingredient,Sweet,Earthy
+sweet yellow potato,Vegetable,Main Ingredient,Sweet,Earthy
+sweet&sour fish sauce,Sauce,Flavoring,"Sweet, Sour, Umami","Fishy, Umami"
+sweet&sour tamarind sauce,Sauce,Flavoring,"Sour, Sweet","Fruity, Sour"
+sweetened condensed milk,Dairy,Sweetening,Sweet,Milky
+sweetened yogurt,Dairy,Sweetening,Sweet,Milky
+tabasco sauce,Sauce,Flavoring,Spicy,Spicy
+tagliatelle noodles,Pasta,Main Ingredient,Neutral,Neutral
+tahini sauce,Sauce,Emulsifying,Salty,Nutty
+tamarind,"Fruit, Legume","Flavoring, Preserving, Souring","Sour, Bitter","Fruity, Sour"
+tamarind pulp,"Fruit, Legume","Flavoring, Sweetening, Souring","Sour, Bitter","Fruity, Sour"
+tamarind sauce,Sauce,Flavoring,Sour,Fruity
+tangerine,Fruit,Flavoring,"Sweet, Sour",Citrusy
+tangzhong,Grain,Thickening,Neutral,Neutral
+tapioca pearls,Grain,Thickening,Neutral,"Neutral"""
+tapioca starch,Grain,Thickening,Neutral,"Neutral"""
+taro,Vegetable,Main Ingredient,Sweet,Earthy
+taro tubers,Vegetable,Main Ingredient,Sweet,"Earthy"""
+tarragon leaves,Herb,Flavoring,Neutral,Herbal
+tartar sauce,Condiment,Emulsifying,Salty,Fishy
+tea,Beverage,Fermentation,Bitter,Herbal
+tea leaves,Beverage,Fermentation,Bitter,Herbal
+tea po green tea pork belly,"Meat, Beverage, Condiment",,"Salty, Umami, Sour","Smoky, Savory, Herbal"
+tea po green tea pork sausage,Meat,Main Ingredient,Umami,Savory
+tequila,Beverage,Fermentation,Spicy,Smoky
+teriyaki sauce,Sauce,Flavoring,"Sweet, Salty, Umami","Savory, Sweet"
+thai basil leaves,Herb,Flavoring,Spicy,Herbal
+thai red paste,Condiment,Flavoring,Spicy,"Pungent"""
+the cake,"Sweetener, Grain, Oil, Condiment, Bread, Fermenting Agent, Sweetener","Main Ingredient, Sweetening, Binding, Tenderizing, Moisturizing, Flavoring, Topping, Base, Emulsifying, Coating","Sweet, Sour, Umami","Sweet, Fruity, Nutty, Yeasty, Milky, Floral, Fresh, Savory"
+the chinese madder plant,Herb,Coloring,Bitter,Earthy
+thyme leaves,Herb,Flavoring,Umami,Earthy
+tiger prawns,Seafood,Main Ingredient,Umami,"Fresh"""
+tilapia,Seafood,Main Ingredient,Umami,Fishy
+tofu,Legume,Main Ingredient,Umami,Neutral
+tofu skin,Legume,Main Ingredient,Umami,Earthy
+tomato,Vegetable,Main Ingredient,Sour,Fresh
+tomato essence,"Vegetable, Condiment, Sauce, Flavoring, Base, Topping, Main Ingredient, Garnishing, Emulsifying, Binding Agent, Thickening, Moisturizing, Coloring","Flavoring, Base, Topping, Main Ingredient, Garnishing, Emulsifying, Binding Agent, Thickening, Moisturizing, Coloring","Sour, Umami","Fruity, Earthy, Fresh, Savory"
+tomato sauce,Sauce,"Flavoring, Base","Umami, Sour, Salty","Earthy, Fruity, Savory"
+tortilla,Grain,Main Ingredient,Salty,Neutral
+tortilla chips,Grain,Main Ingredient,Salty,Neutral
+tuna,Seafood,Main Ingredient,Umami,Fishy
+turmeric,Spice,"Flavoring, Coloring","Bitter, Spicy","Earthy, Pungent"
+turmeric branch,Spice,Coloring,Bitter,Earthy
+turmeric juice,Spice,Flavoring,Bitter,"Earthy"""
+turmeric mixture,Spice,"Flavoring, Coloring","Spicy, Bitter","Earthy, Pungent"
+turmeric powder,Spice,"Flavoring, Coloring","Spicy, Bitter","Earthy, Pungent"
+udon noodles,Pasta,Main Ingredient,Umami,Neutral
+unsalted butter,Dairy,Emulsifying,Umami,Milky
+vanilla,Sweetener,Flavoring,Sweet,Floral
+vanilla bean,Sweetener,Flavoring,Sweet,Floral
+vanilla extract,Condiment,Flavoring,Sweet,Floral
+vanilla ice cream,Dairy,Base,Sweet,Milky
+vegetable,Vegetable,Main Ingredient,Umami,Earthy
+vegetable broth,Vegetable,Base,Umami,Earthy
+vegetable oil,Oil,Emulsifying,Neutral,Neutral
+vegetable salad,Vegetable,Main Ingredient,"Fresh, Sour, taste can vary based on vegetables used","Earthy, Fresh"
+vermicelli,Pasta,Main Ingredient,Neutral,Neutral
+vietnamese coriander,Herb,Flavoring,Spicy,"Herbal, Fresh"
+vietnamese lime leaves,Herb,Flavoring,Sour,Citrusy
+vinegar,Condiment,Flavoring,Sour,Sour
+virgin coconut oil,Oil,"Emulsifying, Moisturizing",Neutral,"Nutty, Fresh"
+virgin olive oil,Oil,Emulsifying,Umami,Fruity
+vodka,Beverage,Fermentation,Neutral,Neutral
+walnut,Nut,Main Ingredient,Sweet,Nutty
+water,Beverage,Base,Neutral,Fresh
+watermelon,Fruit,Main Ingredient,Sweet,Fruity
+wheat flour,Grain,Main Ingredient,Neutral,Nutty
+whipping cream,Dairy,Topping,Sweet,Milky
+whisk,Condiment,Flavoring,Umami,Savory
+white beans,Legume,Main Ingredient,Umami,Earthy
+white cauliflower,Vegetable,Main Ingredient,Neutral,Earthy
+white chocolate,"Sweetener, Dairy","Binding, Emulsifying, Sweetening, Coating",Sweet,"Milky, Sweet"
+white chrysanthemum mushrooms,Mushroom,Main Ingredient,Umami,Earthy
+white corn,Grain,Main Ingredient,Sweet,Earthy
+white milk,Dairy,Main Ingredient,Neutral,Milky
+white mushrooms,Mushroom,Main Ingredient,Umami,Earthy
+white onion,Vegetable,Flavoring,Spicy,Pungent
+white pepper,Spice,Flavoring,Spicy,Pungent
+white radish,Vegetable,Main Ingredient,Umami,"Earthy"""
+white radishes,Vegetable,Main Ingredient,Umami,Earthy
+white sesame,Nut,Flavoring,Umami,Nutty
+white vinegar,Condiment,Flavoring,Sour,Sour
+white wine,Beverage,Fermentation,Sour,Floral
+whole-wheat flour,Grain,Main Ingredient,Neutral,Nutty
+wild mushrooms,Mushroom,Main Ingredient,Umami,Earthy
+wine,Beverage,Fermentation,Dry/Sour/Bitter,Fruity/Earthy/Yeasty
+wine vinegar,Condiment,Flavoring,Sour,"Fruity, Yeasty, Sour"
+wire,Neutral,Binding Agent,Neutral,Neutral
+wolfberry,Fruit,Main Ingredient,Sweet,Fruity
+wonton wrappers,Grain,Binding,Neutral,Neutral
+wood ear,Mushroom,Main Ingredient,Umami,Earthy
+wood ear mushrooms,Mushroom,Main Ingredient,Umami,"Earthy"""
+worcestershire sauce,Sauce,"Flavoring, Tenderizing","Salty, Umami","Pungent, Smoky"
+yeast,Fermenting Agent,Fermentation,Umami,Yeasty
+yellow bell peppers,Vegetable,Main Ingredient,Sweet,Earthy
+yellow lemon peel,Fruit,Flavoring,Sour,Citrusy
+yellow mustard,Condiment,Flavoring,Spicy,Pungent
+yellow pepper,Vegetable,Main Ingredient,Sweet,Fresh
+yellow sweet potatoes,Vegetable,Main Ingredient,Sweet,Earthy
+yogurt,Dairy,Fermentation,Sour,Milky
+yogurt drink,Dairy,Fermentation,Sour,Milky
+yuzu juice,Fruit,Flavoring,Sour,Citrusy
+yuzu sauce,Sauce,Flavoring,Sour,Citrusy
+zucchini,Vegetable,Main Ingredient,Umami,Earthy
