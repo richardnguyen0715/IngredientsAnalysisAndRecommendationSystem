@@ -1,6 +1,7 @@
 active yeast
 agave nectar
 all-purpose flour
+allspice powder
 almond
 almond extract
 almond flour
@@ -25,6 +26,7 @@ back-fat
 bacon
 bagel
 baguette
+bake
 baking powder
 baking soda
 balsamic vinegar
@@ -43,7 +45,6 @@ basil leaves
 basil powder
 basil seeds
 bay leaf
-bay leaves
 bbq marinade
 bbq sauce
 bean
@@ -52,7 +53,6 @@ beat
 beef
 beef blood
 beef bone
-beef bones
 beef brisket
 beef broth
 beef fillet
@@ -62,7 +62,7 @@ beef roast
 beef shank
 beet
 bell pepper
-bell peppers
+below is that i have adjusted
 betel leaves
 biscuit
 black bean sauce
@@ -99,7 +99,6 @@ button mushrooms
 cabbage
 cake
 cake base
-cake body
 cake flour
 cane sugar
 cantaloupe
@@ -134,7 +133,6 @@ chicken bones
 chicken bouillon powder
 chicken breast
 chicken breast bone
-chicken breasts
 chicken broth
 chicken feet
 chicken fillet
@@ -142,7 +140,6 @@ chicken marinade
 chicken skeleton
 chicken thigh
 chicken thigh bones
-chicken thighs
 chicken wings
 chickpea
 chili
@@ -155,6 +152,7 @@ chilli
 chinese bok choy
 chinese cabbage
 chinese coriander
+chinese madder plant
 chinese medicine
 chinese sausages
 chip
@@ -180,6 +178,7 @@ clove powder
 clove seeds
 cloves garlic
 cockle
+cocoa
 cocoa powder
 coconut
 coconut chips
@@ -213,6 +212,7 @@ corn cob
 corn flour
 corn kernels
 corn syrup
+cornflakes
 cornstarch
 cosy cookies
 cotija cheese
@@ -227,17 +227,21 @@ crust
 cucumber
 culantro
 cumin powder
+currant
 curry powder
 custard
 custard powder
+d ingredients
 dark chocolate
 dark chocolate chips
 dark chocolate shavings
+dark rum
 dark soy sauce
 dashi
 deglet noor dates
 desiccated coconut
 dijon mustard
+dijon mustard powder
 dill
 dill leaves
 dracontomelons
@@ -252,11 +256,8 @@ eel
 egg
 egg noodles
 egg white
-egg whites
 egg yolk
-egg yolks
 eggplant
-eggs yolk
 english muffins
 enoki mushrooms
 espresso
@@ -271,7 +272,6 @@ fish fillet
 fish sauce
 fish sauce essence
 five-spice powder
-flat-leaf parsley leaves
 flavored alcohol
 flour
 food coloring
@@ -282,6 +282,7 @@ fried-dough
 frisee salad
 frog legs
 fruit
+fruit jam according
 fuji apple
 fungus
 fussili noodles
@@ -291,9 +292,10 @@ galangal root
 garlic
 garlic powder
 garlic vinegar
+gelatin leaf
 gelatin powder
 gelatin sheet
-gelatin sheets
+gin
 ginger
 ginger branch
 ginger leaves
@@ -306,7 +308,6 @@ goat cheese
 gochujang sauce
 golden sticky rice
 golden syrup
-grand marnier
 grand marnier wine
 grapefruit flavor
 grapefruit juice
@@ -327,10 +328,8 @@ green granny smith apples
 green grapes
 green lemon
 green lemon peel
-green lemons
 green olive oil
 green onion
-green onions
 green papaya
 green pepper
 green pepper branch
@@ -340,6 +339,7 @@ green prawns
 green rice
 green tea powder
 green-skinned grapefruit
+grenadine
 grilled-meat seasoning
 guava
 ham
@@ -351,6 +351,7 @@ hibiscus tea
 honey
 honey mustard
 hummus sauce
+ice
 ice cream
 ice cubes
 icing sugar
@@ -373,6 +374,7 @@ jelly powder
 jicama
 jujube
 kaffir lime leaves
+kahlua
 kahlua coffee liqueur
 kale
 kaya jam
@@ -386,6 +388,7 @@ korean radish
 korean soy sauce
 kosher salt
 kumquat
+lady fingers
 ladyfingers biscuits
 lard
 lasagna noodles
@@ -400,7 +403,6 @@ lemon juice
 lemon leaf salt
 lemon leaves
 lemon peel
-lemon peels
 lemongrass
 lemongrass powder
 lethocerus indicus extract
@@ -411,9 +413,7 @@ lime peel
 lingzhi mushroom
 longan
 lotus leaf
-lotus leaves
 lotus root
-lotus roots
 lotus seeds
 low-fat mayonnaise
 low-fat sour cream
@@ -422,10 +422,12 @@ macaroni noodles
 malt
 mango
 maple syrup
+margarine
 marinade
 marinara sauce
 marmalade
 mascarpone cheese
+matcha powder
 mayonnaise
 meat
 meatball
@@ -438,6 +440,7 @@ mint leaves
 mirin wine
 miso paste
 mixed-spice
+molasses
 mouse bread
 mozzarella cheese
 mugwort
@@ -474,6 +477,7 @@ orange syrup
 oregano
 oregano leaves
 oregano powder
+oreo cheesecake
 oreo cookies
 oyster mushrooms
 oyster sauce
@@ -481,12 +485,16 @@ pacetta bacon
 palm sugar
 pandan essence
 pandan flavor
+pandan juice
+pandan leaf juice
 pandan leaves
+paprika
 paprika powder
 parma cheese
 parmesan cheese
 parmesan cheese powder
 parmiggiano reggiano cheese
+parsley
 parsley leaves
 passion fruit
 passion fruit sauce
@@ -502,7 +510,9 @@ pepper
 pepper powder
 pepper sauce
 peppermint essence
+peppermint syrup
 peppermint tea
+pepperoni
 perilla leaves
 persimmon
 phrynium leaves
@@ -520,6 +530,7 @@ pink grapefruit
 pink salt
 pistachio
 pizza crust
+please give test
 plum
 pop corn
 porcini mushrooms
@@ -534,20 +545,24 @@ pork loin
 pork roll
 pork sausage
 pork skin
+porridge
 potato
 potato starch
+powdered gelatin
 prawn
 prosciutto ham
+puff pastry sheet
+puff pastry xcm
 pumpkin
 pumpkin seeds
 pumpkin spice
 pumpkin syrup
 purple cabbage
 purple onion
-purple onions
 purple sticky rice
 purple sweet potatoes
 quail eggs
+quince
 radicchio
 radicchio lettuce
 radish
@@ -556,12 +571,11 @@ raspberry
 raspberry jam
 red annatto oil
 red apple
-red apples
 red beans
 red bell pepper
-red bell peppers
 red food coloring
 red lentils
+red liquid
 red onion
 red pomegranate
 red tilapia
@@ -601,14 +615,12 @@ salami
 salmon
 salmon bones broth
 salmon fillet
-salmon fillets
 salt
 salt-roasted cashews
 salt-roasted powder
 salted butter
 salted cucumbers
 salted egg yolk
-salted egg yolks
 salted eggplant
 samba biscuits
 sandwich bread
@@ -671,7 +683,6 @@ sparkling mineral water
 spice
 spinach
 spring onion
-spring onions
 sprout
 squash
 squid
@@ -685,7 +696,6 @@ sticky rice
 sticky rice flour
 stone
 straw mushroom
-straw mushrooms
 strawberry
 sugar
 sugar rice
@@ -693,6 +703,7 @@ sugar snap peas
 sugar syrup
 sunflower seeds
 sweet
+sweet bun
 sweet orange potatoes
 sweet potato
 sweet potatoes
@@ -724,8 +735,7 @@ tequila
 teriyaki sauce
 thai basil leaves
 thai red paste
-the cake
-the chinese madder plant
+this style
 thyme leaves
 tiger prawns
 tilapia
@@ -762,6 +772,8 @@ vodka
 walnut
 water
 watermelon
+we cook soup
+weetbix
 wheat flour
 whipping cream
 whisk
@@ -775,7 +787,6 @@ white mushrooms
 white onion
 white pepper
 white radish
-white radishes
 white sesame
 white vinegar
 white wine
@@ -786,8 +797,7 @@ wine vinegar
 wire
 wolfberry
 wonton wrappers
-wood ear
-wood ear mushrooms
+wood ear mushroom
 worcestershire sauce
 yeast
 yellow bell peppers
@@ -799,4 +809,5 @@ yogurt
 yogurt drink
 yuzu juice
 yuzu sauce
+z rum
 zucchini
