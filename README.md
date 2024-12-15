@@ -17,7 +17,7 @@
 ## Quick Guide
 #### Data Collection:
 1. **To run**: DataCollection.ipynb.
-2. **Datasets**: Dataset_child\
+2. **Datasets**: Dataset_child/
 3. **Note**: Here I will divide the data collection process into several parts with different data sets. One of the main reasons is that this kitchenart website will block us if we do data scraping too many times ( Unusual access to the website ).
 #### Data Preprocessing:
 1. **To run**:
