@@ -65,6 +65,6 @@ recommendations
 
 #### Data Modeling 03 - Recipe Recommendation:
 1. **To run**: DataModeling_03.ipynb
-2. **How to use**: Enter your desired ingredients (separated by comma) in the text box and click the ENTER button to see a list of recommended recipes.
+2. **How to use**: Please click "Run All," and a GUI will appear shortly afterward. Enter your desired ingredients (separated by comma) in the text box and click the ENTER button to see a list of recommended recipes.
 
 
