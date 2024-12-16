@@ -24,9 +24,9 @@
 2. **Datasets**:
 3. **Note**:
 #### Data Exploration:
-1. **To run**:
-2. **Datasets**:
-3. **Note**:
+1. **To run**: DataExploration.ipynb
+2. **Datasets**:ingredients.csv
+3. **Note**: This section will present the information you need to know about the cooking field.
 #### Data Modeling 00 - Context Generation Machine:
 ##### Application Needed:
    * Step 01: Install [LMStudtio](https://lmstudio.ai/).
