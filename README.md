@@ -19,14 +19,14 @@
 1. **To run**: DataCollection.ipynb.
 2. **Datasets**: Dataset_child/
 3. **Note**: Here I will divide the data collection process into several parts with different data sets. One of the main reasons is that this kitchenart website will block us if we do data scraping too many times ( Unusual access to the website ).
-#### Data Preprocessing:
-1. **To run**:
-2. **Datasets**:
-3. **Note**:
+#### Data Cleaning and Normalizing:
+1. **To run**: Data Cleaning and Normalizing.ipynb
+2. **Datasets**:cleaned_recipes_translated.txt, cleaned_recipes_2_translated.txt
+3. **Note**:This section will demonstrate how to clean and normalize data, from a plain text file converted into a binary dataframe, with rows being the names of dishes, and columns being the names of ingredients present in the original data.
 #### Data Exploration:
-1. **To run**:
-2. **Datasets**:
-3. **Note**:
+1. **To run**: DataExploration.ipynb
+2. **Datasets**:ingredients.csv
+3. **Note**: This section will present the information you need to know about the cooking field.
 #### Data Modeling 00 - Context Generation Machine:
 ##### Application Needed:
    * Step 01: Install [LMStudtio](https://lmstudio.ai/).
