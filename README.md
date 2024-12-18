@@ -51,20 +51,12 @@ recommendations
 ```
 3. **Note**: Here I have used additional context for the ingredients, so you **must complete the above step (00).**
 
-#### Data Modeling 02 - Ingredients replacement:
+#### Data Modeling 02 - Recipe Substitutes:
 1. **To run**: Datamodeling_02.ipynb
-2. **How to use**: Replace the below code with the ingredients you currently have and are missing.
-```python
-current_ingredients = ['active yeast', 'agave nectar', 'all-purpose flour']
-missing_ingredients = ['brown sugar', 'bacon']
-
-recommendations = recommend_replacements(current_ingredients, missing_ingredients)
-recommendations
-```
-3. **Note**: Here I have used additional context for the ingredients, so you **must complete the above step (00).**
+2. **How to use**: Please click "Run All," and a GUI will appear shortly afterward. Insert one recipe at a time in the text box and click ENTER to view the suggested substitutes.
 
 #### Data Modeling 03 - Recipe Recommendation:
 1. **To run**: DataModeling_03.ipynb
-2. **How to use**: Please click "Run All," and a GUI will appear shortly afterward. Enter your desired ingredients (separated by comma) in the text box and click the ENTER button to see a list of recommended recipes.
+2. **How to use**: Please click "Run All," and a GUI will appear shortly afterward. Insert your desired ingredients (separated by comma) in the text box and click the ENTER button to see a list of recommended recipes.
 
 
