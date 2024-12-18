@@ -17,16 +17,16 @@
 ## Quick Guide
 #### Data Collection:
 1. **To run**: DataCollection.ipynb.
-2. **Datasets**: Dataset_child\
+2. **Datasets**: Dataset_child/
 3. **Note**: Here I will divide the data collection process into several parts with different data sets. One of the main reasons is that this kitchenart website will block us if we do data scraping too many times ( Unusual access to the website ).
-#### Data Preprocessing:
-1. **To run**:
-2. **Datasets**:
-3. **Note**:
+#### Data Cleaning and Normalizing:
+1. **To run**: Data Cleaning and Normalizing.ipynb
+2. **Datasets**:cleaned_recipes_translated.txt, cleaned_recipes_2_translated.txt
+3. **Note**:This section will demonstrate how to clean and normalize data, from a plain text file converted into a binary dataframe, with rows being the names of dishes, and columns being the names of ingredients present in the original data.
 #### Data Exploration:
-1. **To run**:
-2. **Datasets**:
-3. **Note**:
+1. **To run**: DataExploration.ipynb
+2. **Datasets**:ingredients.csv
+3. **Note**: This section will present the information you need to know about the cooking field.
 #### Data Modeling 00 - Context Generation Machine:
 ##### Application Needed:
    * Step 01: Install [LMStudtio](https://lmstudio.ai/).
@@ -51,26 +51,13 @@ recommendations
 ```
 3. **Note**: Here I have used additional context for the ingredients, so you **must complete the above step (00).**
 
-#### Data Modeling 02 - Ingredients replacement:
+#### Data Modeling 02 - Recipe Substitutes:
 1. **To run**: Datamodeling_02.ipynb
-2. **How to use**: Replace the below code with the ingredients you currently have and are missing.
-```python
-current_ingredients = ['active yeast', 'agave nectar', 'all-purpose flour']
-missing_ingredients = ['brown sugar', 'bacon']
+2. **How to use**: Please click "Run All," and a GUI will appear shortly afterward. Insert one recipe at a time in the text box and click ENTER to view the suggested substitutes.
 
-recommendations = recommend_replacements(current_ingredients, missing_ingredients)
-recommendations
-```
-3. **Note**: Here I have used additional context for the ingredients, so you **must complete the above step (00).**
-
-#### Data Modeling 03 - Ingredients replacement:
-1. **To run**: Datamodeling_03.ipynb
-2. **How to use**: Replace the below code with the ingredients you currently have and are missing.
-```python
-current_ingredients = ['active yeast', 'agave nectar', 'all-purpose flour']
-missing_ingredients = ['brown sugar', 'bacon']
-
-recommendations = recommend_replacements(current_ingredients, missing_ingredients)
-recommendations
-```
-3. **Note**: Here I have used additional context for the ingredients, so you **must complete the above step (00).**
+#### Data Modeling 03 - Recipe Recommendation:
+1. **To run**: DataModeling_03.ipynb
+2. **How to use**: Please click "Run All," and a GUI will appear shortly afterward. Insert your desired ingredients (separated by comma) in the text box and click the ENTER button to see a list of recommended recipes.
+---
+### Our Work:
+Link here: [Notion](https://pool-argument-1f9.notion.site/IntroDS-Lap01-Handling-Real-World-Problems-1130a9b1c8bb800ba10ccbf7706fb0a3?pvs=4)
