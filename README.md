@@ -58,5 +58,6 @@ recommendations
 #### Data Modeling 03 - Recipe Recommendation:
 1. **To run**: DataModeling_03.ipynb
 2. **How to use**: Please click "Run All," and a GUI will appear shortly afterward. Insert your desired ingredients (separated by comma) in the text box and click the ENTER button to see a list of recommended recipes.
-
-
+---
+### Our Work:
+Link here: [Notion](https://pool-argument-1f9.notion.site/IntroDS-Lap01-Handling-Real-World-Problems-1130a9b1c8bb800ba10ccbf7706fb0a3?pvs=4)
