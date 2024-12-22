@@ -1,0 +1,5 @@
+1. Code trong thư mục source code chỉ nhầm mục đích xem xét, hình dung - có khả năng không chạy được vì đường dẫn file sai hoặc thiếu một số file. Do đó nếu thầy muốn xem thì hãy vào github của tụi em ở đây: 
+
+https://github.com/richardnguyen0715/IntroDS-FinalPro-HandlingReal-WorldProblems
+
+2. Các mục như reflection, teamwork tracking, quick guide thì em có để ở phần readme.md của repo github.

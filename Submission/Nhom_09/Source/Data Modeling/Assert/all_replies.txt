@@ -1,0 +1,1604 @@
+'type : Fermenting Agent, context : Fermentation, flavor : Umami, smell : Yeasty'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Floral'
+
+'type : Grain, context : Main Ingredient, flavor : Neutral, smell : Neutral'
+
+'type : Nut, context : Flavoring, flavor : Sweet, smell : Nutty'
+
+'type : Nut, context : Flavoring, flavor : Sweet, smell : Nutty'
+
+'type : Nut, context : Flavoring, flavor : Sweet, smell : Nutty'
+
+'type : Nut, context : Beverage, flavor : Sweet, smell : Nutty'
+
+'type : Vegetable, context : Moisturizing, flavor : Neutral, smell : Fresh'
+
+'"type : Beverage, context : Flavoring, flavor : Sweet, smell : Fruity Nutty"'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'"type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy"'
+
+'type : Spice, context : Coloring, flavor : Neutral, smell : Earthy'
+
+'type : Spice, context : Coloring, flavor : Neutral, smell : Earthy'
+
+'type : Fruit, context : Topping, flavor : Sweet, smell : Fruity'
+
+'type : Condiment, context : Fermentation, flavor : Sour, smell : Fruity, Yeasty'
+
+'type : Beverage, context : Main Ingredient, flavor : Sweet, Sour, smell : Fruity, Fresh'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, Sour, smell : Fruity, Floral'
+
+'type : Fruit, context : Sweetening, flavor : Sweet, smell : Fruity'
+
+'type : Grain, context : Thickening, flavor : Neutral, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Bitter, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Fruit, context : Main Ingredient, flavor : Umami, smell : Fruity'
+
+'"type : Meat, context : Main Ingredient, flavor : Umami, smell : Smoky"'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Salty, Umami, smell : Smoky, Umami'
+
+'type : Bread, context : Main Ingredient, flavor : Umami, smell : Yeasty'
+
+'type : Bread, context : Main Ingredient, flavor : Umami, smell : Yeasty'
+
+'type : Condiment, context : Binding Agent, flavor : Neutral, smell : Neutral'
+
+'type : Fermenting Agent, context : Binding Agent, flavor : Neutral, smell : Neutral'
+
+'type : Condiment, context : Flavoring, flavor : Sour, smell : Fruity, Umami'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Grain, context : Main Ingredient, flavor : Neutral, smell : Earthy'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, smell : Fruity'
+
+'type : Fruit, context : Main Ingredient, flavor : Bitter, smell : Fruity'
+
+'type : Vegetable, context : Wrapping, flavor : Neutral, smell : Fresh'
+
+'type : Sauce, context : Flavoring, flavor : Umami, smell : Herbal'
+
+'type : Pasta, context : Main Ingredient, flavor : Neutral, smell : Neutral'
+
+'type : Sauce, context : Flavoring, flavor : Umami, smell : Fruity, Earthy'
+
+'type : Grain, context : Base, flavor : Salty, smell : Neutral'
+
+'type : Herb, context : Flavoring, flavor : Umami, smell : Fresh, Floral, Herbal'
+
+'type : Herb, context : Flavoring, flavor : Umami, smell : Fresh, Herbal'
+
+'type : Herb, context : Flavoring, flavor : Umami, smell : Fresh'
+
+'type : Herb, context : Thickening, flavor : Neutral, smell : Fresh'
+
+'type : Herb, context : Flavoring, flavor : Umami, smell : Herbal'
+
+'type : Herb, context : Flavoring, flavor : Umami, smell : Herbal'
+
+'type : Spice, Fruit, Condiment, Oil, Sauce, flavor : Spicy, Sweet, Sour, Umami, smell : Smoky, Fruity, Spicy, Umami, context : Flavoring, Tenderizing, Moisturizing, Emulsifying, Binding'
+
+'type : Sauce, context : Flavoring, flavor : Sweet, Spicy, Umami, smell : Smoky, Fruity, Savory'
+
+'type : Legume, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'"type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Fresh"'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'"type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy"'
+
+'type : Meat, context : Base, flavor : Umami, smell : Smoky'
+
+'type : Meat, context : Base, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Smoky'
+
+'type : Meat, context : Base, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Smoky'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, Sour, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Herb, context : Flavoring, flavor : Bitter, smell : Earthy'
+
+'type : Grain, context : Main Ingredient, flavor : Sweet, smell : Nutty'
+
+'type : Sauce, context : Flavoring, flavor : Salty, Umami, smell : Umami, Earthy'
+
+'type : Legume, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'"type : Beverage, context : Base, flavor : Bitter, smell : Smoky"'
+
+'type : Vegetable, context : Preserving, flavor : Umami, smell : Smoky'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'"type : Spice, context : Flavoring, flavor : Spicy, smell : Pungent"'
+
+'type : Sauce, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'type : Nut, context : Flavoring, flavor : Sweet, smell : Nutty'
+
+'type : Beverage, context : Fermentation, flavor : Bitter, smell : Smoky, Herbal'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fresh'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, smell : Fruity'
+
+'type : Fruit, Condiment, flavor : Sweet, Sour, context : Flavoring, Topping, Preserving, smell : Fruity, Sweet'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Fruity'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Meat, context : Base, flavor : Umami, smell : Savory'
+
+'type : Beverage, context : Fermentation, flavor : Sweet, smell : Fruity'
+
+'type : Bread, context : Main Ingredient, flavor : Umami, smell : Yeasty'
+
+'type : Grain, context : Main Ingredient, flavor : Neutral, smell : Yeasty'
+
+'type : Fermenting Agent, context : Fermentation, flavor : Neutral, smell : Yeasty'
+
+'type : Bread, context : Coating, flavor : Neutral, smell : Nutty'
+
+'type : Beverage, context : Main Ingredient, flavor : Bitter, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, Pasta, flavor : Umami, Sour, context : Main Ingredient, smell : Earthy, Savory'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Sweet'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Earthy'
+
+'type : Bread, context : Main Ingredient, flavor : Sweet, smell : Yeasty'
+
+'type : Dairy, context : Emulsifying, flavor : Umami, smell : Milky'
+
+'type : Dairy, Grain, Sweetener, flavor : Sweet, context : Main Ingredient, Tenderizing, Emulsifying, Moisturizing, smell : Milky, Fruity, Nutty'
+
+'type : Dairy, context : Fermentation, flavor : Sour, smell : Milky'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Sweetener, Grain, Oil, Dairy, Flavoring Agent, context : Main Ingredient, Sweetening, Binding, Moisturizing, Emulsifying, flavor : Sweet, Sour, Umami, smell : Sweet, Fruity, Nutty, Yeasty, Milky'
+
+'type : Sweetener, Bread, Oil, Condiment, Grain, Dairy, Sweetener, type : Sweetener, Bread, Oil, Condiment, Grain, Dairy, context : Base, Moisturizing, Flavoring, Binding, Tenderizing, Emulsifying, Coloring, flavor : Sweet, Umami, Sour, context : Base, Moisturizing, Flavoring, Binding, Tenderizing, Emulsifying, Coloring, smell : Sweet, Nutty, Milky, Floral, Fresh'
+
+'type : Sweetener, Bread, Oil, Condiment, Grain, Dairy, Sweetener, type : Sweetener, context : Sweetening, Moisturizing, Binding, Base, flavor : Sweet, Umami, smell : Sweet, Milky, Floral'
+
+'type : Grain, context : Base, flavor : Neutral, smell : Neutral'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Sweet'
+
+'type : Fruit, context : Main Ingredient, flavor : Sweet, smell : Fruity'
+
+'type : Condiment, context : Flavoring, flavor : Sour, smell : Fruity'
+
+'type : Sauce, context : Topping, flavor : Sweet, smell : Sweet'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Floral'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Floral'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Nut, context : Main Ingredient, flavor : Sweet, smell : Nutty'
+
+'type : Nut, context : Main Ingredient, flavor : Umami, smell : Nutty'
+
+'type : Vegetable, context : Main Ingredient, flavor : Neutral, smell : Earthy'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Pasta, context : Main Ingredient, flavor : Neutral, smell : Neutral'
+
+'type : Grain, context : Main Ingredient, flavor : Sweet, smell : Neutral'
+
+'type : Condiment, context : Thickening, flavor : Neutral, smell : Neutral'
+
+'type : Spice, context : Flavoring, flavor : Spicy, Sour, Sweet, smell : Spicy, Umami, Fruity, Herbal, Earthy'
+
+'type : Dairy, context : Fermentation, flavor : Umami, smell : Milky'
+
+'type : Dairy, context : Fermentation, flavor : Sour, smell : Pungent'
+
+'type : Dairy, context : Flavoring, flavor : Umami, smell : Milky'
+
+'type : Dairy, context : Main Ingredient, flavor : Umami, smell : Milky'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, smell : Fruity'
+
+'type : Fruit, context : Main Ingredient, flavor : Sweet, Sour, smell : Fresh, Fruity'
+
+'type : Nut, context : Main Ingredient, flavor : Sweet, smell : Nutty'
+
+'"type : Grain, context : Thickening, flavor : Neutral, smell : Neutral"'
+
+'type : Grain, context : Thickening, flavor : Neutral, smell : Earthy'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Base, flavor : Umami, smell : Savory'
+
+'"type : Meat, context : Flavoring, flavor : Umami, smell : Savory"'
+
+'"type : Meat, context : Main Ingredient, flavor : Umami, smell : Neutral"'
+
+'"type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory"'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Neutral'
+
+'type : Meat, context : Base, flavor : Umami, smell : Savory'
+
+'"type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory"'
+
+'"type : Meat, context : Main Ingredient, flavor : Umami, smell : Neutral"'
+
+'type : Spice, Vegetable, Condiment, Oil, Sauce, flavor : Spicy, Sour, Umami, smell : Spicy, Herbal, Earthy, Savory'
+
+'type : Meat, context : Base, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'"type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy"'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Legume, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'type : Condiment, context : Flavoring, flavor : Spicy, smell : Spicy'
+
+'type : Condiment, context : Flavoring, flavor : Spicy, Sour, Umami, smell : Citrusy, Herbal, Spicy'
+
+'type : Condiment, Sauce, Seafood, Herb, Spice, Flavoring : your answer, flavor : Salty, Spicy, Sour, Umami, smell : Fishy, Citrusy, Herbal, Pungent'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy, Smoky, Pungent'
+
+'type : Condiment, context : Flavoring, flavor : Spicy, smell : Spicy'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Fresh'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Herb, context : Flavoring, flavor : Spicy, smell : Fresh, Herbal, Earthy'
+
+'type : Herb, context : Main Ingredient, flavor : Bitter, smell : Herbal'
+
+'"type : Meat, context : Main Ingredient, flavor : Salty Umami, smell : Smoky Umami"'
+
+'type : Vegetable, context : Snacking, flavor : Salty, smell : Neutral'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Smoky'
+
+'type : Vegetable, context : Garnishing, flavor : Umami, smell : Fresh'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Milky'
+
+'type : Sweetener, context : Flavoring, flavor : Sweet, smell : Milky'
+
+'type : Sweetener, Dairy, Condiment, flavor : Sweet, Umami, context : Binding, Thickening, Flavoring, Sweetening, Preserving, Topping, Emulsifying, smell : Milky, Sweet'
+
+'type : Sweetener, context : Topping, flavor : Sweet, smell : Milky'
+
+'type : Beverage, context : Emulsifying, flavor : Sweet, smell : Milky'
+
+'type : Sauce, context : Topping, flavor : Sweet, smell : Milky'
+
+'type : Beverage, context : Flavoring, flavor : Bitter, smell : Floral'
+
+'type : Bread, context : Main Ingredient, flavor : Umami, smell : Yeasty'
+
+'type : Herb, context : Garnishing, Flavoring, flavor : Umami, smell : Fresh, Herbal'
+
+'type : Spice, context : Flavoring, flavor : Sweet, smell : Fruity, Floral'
+
+'type : Spice, context : Flavoring, flavor : Sweet, smell : Sweet, Floral'
+
+'type : Beverage, context : Fermentation, flavor : Sweet, smell : Fruity, Floral'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Herb, context : Flavoring, flavor : Spicy, smell : Herbal, Citrusy'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Floral'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy, Floral'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Floral'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'"type : Seafood, context : Main Ingredient, flavor : Umami, smell : Salty"'
+
+'type : Condiment, context : Flavoring, flavor : Bitter, smell : Earthy'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, smell : Fruity Nutty'
+
+'type : Nut, context : Topping, flavor : Sweet, smell : Nutty'
+
+'type : Fruit, context : Thickening, Flavoring, Sweetening, smell : Milky, Fruity, Nutty, flavor : Sweet'
+
+'"type : Fruit, context : Main Ingredient, flavor : Sweet, smell : Fruity"'
+
+'type : Nut, context : Binding Agent, flavor : Sweet, smell : Nutty'
+
+'type : Fruit, context : Sweetening, flavor : Sweet, smell : Fruity Nutty'
+
+'type : Fruit, Nut, Beverage, Condiment, Oil, Sweetener, Dairy, type : your answer is not applicable for multiple answers in some categories based on the strict definition provided, context : Thickening, Flavoring, Moisturizing, Emulsifying, Binding Agent, flavor : Sweet, Umami, smell : Milky, Fruity, Nutty'
+
+'type : Oil, context : Moisturizing, Emulsifying, flavor : Neutral, smell : Nutty'
+
+'type : Fruit, Nut, Sweetener, Condiment, Flavoring, Thickening, Moisturizing, Binding Agent, Sweet, Fruity, Nutty, Fresh, Neutral'
+
+'type : Beverage, context : Main Ingredient, flavor : Sweet, smell : Fresh'
+
+'"type : Beverage, context : Main Ingredient, flavor : Bitter, smell : Earthy"'
+
+'type : Beverage, context : Flavoring, flavor : Sweet, smell : Citrusy'
+
+'type : Beverage, context : Flavoring, flavor : Sweet, smell : Fruity'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Sweetener, context : Topping, flavor : Sweet, smell : Sweet'
+
+'type : Sweetener, context : Topping, Sweetening, Coloring, flavor : Sweet, smell : Sweet, Floral'
+
+'"type : Meat, context : Flavoring, flavor : Umami, smell : Savory"'
+
+'type : Dairy, context : Sweetening, flavor : Sweet, smell : Milky'
+
+'type : Dairy, context : Thickening, Flavoring, Binding Agent, flavor : Sweet, Umami, smell : Milky, Savory'
+
+'type : Oil, context : Emulsifying, flavor : Neutral, smell : Neutral'
+
+'type : Oil, context : Coating, flavor : Neutral, smell : Neutral'
+
+'type : Grain, context : Sweetening, flavor : Sweet, smell : Sweet'
+
+'type : Herb, context : Garnishing, Flavoring, smell : Fresh, Herbal, Earthy, flavor : Umami, Spicy'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Herbal, Earthy'
+
+'type : Herb, context : Flavoring, flavor : Umami, smell : Earthy'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy'
+
+'type : Grain, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Grain, context : Main Ingredient, flavor : Salty, smell : Smoky'
+
+'type : Grain, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Grain, context : Thickening, flavor : Neutral, smell : Earthy'
+
+'type : Grain, context : Main Ingredient, flavor : Sweet, smell : Nutty'
+
+'type : Sweetener, context : Sweetening, Thickening, flavor : Sweet, smell : Sweet, Neutral'
+
+'type : Grain, context : Thickening, flavor : Neutral, smell : Neutral'
+
+'type : Sweetener, Grain, Condiment, Nut, Oil, Bread, Sauce, flavor : Sweet, Umami, smell : Sweet, Nutty, Fruity'
+
+'type : Dairy, context : Flavoring, flavor : Salty, smell : Umami'
+
+'type : Grain, context : Main Ingredient, flavor : Neutral, smell : Nutty'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Fruity'
+
+'type : Dairy, context : Topping, flavor : Sweet, smell : Milky'
+
+'"type : Dairy, context : Topping, flavor : Umami, smell : Milky"'
+
+'type : Dairy, context : Fermentation, flavor : Sour, smell : Milky'
+
+'type : Grain, context : Coating, flavor : Neutral, smell : Neutral'
+
+'type : Bread, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sour, smell : Fresh'
+
+'type : Herb, context : Flavoring, flavor : Spicy, smell : Herbal, Earthy'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy'
+
+'type : Condiment, context : Flavoring, flavor : Spicy, smell : Spicy'
+
+'type : Dairy, context : Thickening, Sweetening, Topping, flavor : Sweet, smell : Milky'
+
+'type : Sweetener, Dairy, Condiment, flavor : Sweet, context : Thickening, Flavoring, Topping, smell : Milky, Sweet'
+
+'type : Sweetener, context : Sweetening, flavor : Bitter, smell : Fruity'
+
+'type : Sweetener, context : Flavoring, flavor : Bitter, smell : Milky'
+
+'type : Sweetener, context : Garnishing, flavor : Bitter, smell : Nutty'
+
+'"type : Condiment, context : Flavoring, flavor : Salty Umami, smell : Smoky Umami"'
+
+'type : Seafood, context : Base, flavor : Umami, smell : Fishy'
+
+'type : Fruit, context : Sweetening, flavor : Sweet, smell : Fruity Nutty'
+
+'type : Nut, context : Topping, flavor : Sweet, smell : Nutty'
+
+'type : Condiment, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'type : Herb, context : Garnishing, Flavoring, flavor : Fresh, Sour, smell : Fresh, Herbal, Earthy'
+
+'type : Herb, context : Garnishing, Flavoring, flavor : Umami, smell : Fresh, Herbal'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Fruity'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'"type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory"'
+
+'type : Dairy, context : Sweetening, flavor : Sweet, smell : Milky'
+
+'type : Grain, context : Base, flavor : Neutral, smell : Neutral'
+
+'type : Condiment, context : Coating, flavor : Neutral, smell : Earthy'
+
+'type : Legume, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'"type : Egg, context : Main Ingredient, flavor : Umami, smell : Neutral"'
+
+'type : Pasta, context : Main Ingredient, flavor : Neutral, smell : Neutral'
+
+'type : Egg, context : Binding Agent, flavor : Neutral, smell : Fresh'
+
+'type : Egg, context : Binding Agent, flavor : Neutral, smell : Fresh'
+
+'type : Dairy, context : Emulsifying, flavor : Umami, smell : Milky'
+
+'type : Dairy, context : Emulsifying, flavor : Umami, smell : Milky'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'"type : Dairy, context : Main Ingredient, flavor : Umami, smell : Milky"'
+
+'type : Bread, context : Main Ingredient, flavor : Savory, smell : Yeasty'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Beverage, context : Main Ingredient, flavor : Bitter, smell : Smoky'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Spice, context : Flavoring, flavor : Sweet, smell : Herbal'
+
+'type : Dairy, context : Fermentation, flavor : Salty, Sour, smell : Pungent, Milky'
+
+'type : Pasta, context : Main Ingredient, flavor : Neutral, smell : Neutral'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Neutral'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Seafood, context : Flavoring, flavor : Umami, smell : Fishy'
+
+'type : Sauce, context : Flavoring, flavor : Umami, smell : Fishy'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy'
+
+'type : Herb, context : Garnishing, flavor : Umami, smell : Fresh'
+
+'type : Beverage, context : Flavoring, flavor : Sweet, smell : Fruity'
+
+'type : Grain, context : Main Ingredient, flavor : Neutral, smell : Neutral'
+
+'type : Condiment, context : Coloring, flavor : Neutral, smell : Neutral'
+
+'type : Condiment, context : Coloring, flavor : Neutral, smell : Neutral'
+
+'type : Beverage, context : Fermentation, flavor : Sour, smell : Fruity Yeasty Floral'
+
+'type : Bread, context : Main Ingredient, flavor : Umami, smell : Yeasty'
+
+'type : Bread, context : Coating, flavor : Salty, smell : Savory'
+
+'type : Vegetable, context : Main Ingredient, flavor : Bitter, smell : Fresh'
+
+'"type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy"'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, smell : Fruity'
+
+'"type : Fruit, context : Topping, flavor : Sweet, smell : Fruity"'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Pasta, context : Main Ingredient, flavor : Neutral, smell : Neutral'
+
+'type : Pasta, context : Main Ingredient, flavor : Neutral, smell : Neutral'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy, Pungent, Herbal'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy, Pungent'
+
+'type : Vegetable, context : Flavoring, flavor : Umami, smell : Pungent'
+
+'type : Spice, context : Flavoring, flavor : Umami, smell : Pungent'
+
+'type : Condiment, context : Flavoring, flavor : Sour, smell : Pungent'
+
+'type : Fermenting Agent, context : Binding Agent, flavor : Neutral, smell : Neutral'
+
+'type : Sweetener, context : Binding Agent, flavor : Neutral, smell : Neutral'
+
+'type : Condiment, context : Binding Agent, flavor : Neutral, smell : Neutral'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy, Pungent'
+
+'"type : Herb, context : Flavoring, flavor : Spicy, smell : Herbal"'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'type : Fruit, context : Sweetening, flavor : Sweet, smell : Fruity'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Pasta, context : Main Ingredient, flavor : Umami, smell : Neutral'
+
+'type : Dairy, context : Fermentation, flavor : Sour, smell : Pungent'
+
+'"type : Sauce, context : Fermentation, flavor : Spicy Umami Sour, smell : Spicy Earthy Umami"'
+
+'type : Grain, context : Main Ingredient, flavor : Sweet, smell : Neutral'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Sweet'
+
+'type : Beverage, context : Flavoring, flavor : Sweet, smell : Citrusy'
+
+'type : Beverage, context : Flavoring, flavor : Sweet, smell : Fruity, Floral'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Beverage, context : Main Ingredient, flavor : Sour, smell : Citrusy'
+
+'type : Sweetener, context : Thickening, flavor : Sweet, smell : Earthy'
+
+'type : Dairy, context : Fermentation, flavor : Sour, smell : Milky'
+
+'type : Neutral, context : Coloring, flavor : Neutral, smell : Fresh'
+
+'type : Fruit, context : Main Ingredient, flavor : Sour, smell : Earthy'
+
+'type : Legume, Grain, Pasta, Main Ingredient, Garnishing, Flavoring, Binding, Thickening, Tenderizing, Moisturizing, Neutral, Fresh, Savory, Salty, Umami, Earthy, Floral, Fresh, Neutral'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Fresh'
+
+'type : Vegetable, context : Main Ingredient, flavor : Savory, smell : Earthy'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Floral'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy'
+
+'"type : Sauce, context : Base, flavor : Spicy, smell : Herbal"'
+
+'type : Fruit, context : Main Ingredient, flavor : Sour, smell : Fruity'
+
+'type : None, context : Binding, flavor : Neutral, smell : Neutral'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Fruity'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, Sour, smell : Fruity, Fresh'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Oil, context : Emulsifying, flavor : Sour, smell : Fruity'
+
+'type : Vegetable, context : Garnishing, flavor : Umami, smell : Pungent'
+
+'type : Vegetable, context : Garnishing, flavor : Spicy, smell : Fresh, Herbal'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sour, smell : Fresh'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'"type : Vegetable, context : Garnishing, flavor : Neutral, smell : Earthy"'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, smell : Fruity'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fresh'
+
+'type : Grain, context : Main Ingredient, flavor : Neutral, smell : Earthy'
+
+'type : Beverage, context : Flavoring, flavor : Bitter, smell : Herbal'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'"type : Spice, Condiment, Herb, context : Flavoring, Tenderizing, Main Ingredient, smell : Smoky, Umami, Savory"'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, Sour, smell : Fruity, Floral'
+
+'type : Meat, context : Main Ingredient, flavor : Salty, Umami, smell : Smoky, Umami'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Smoky'
+
+'"type : Nut, context : Flavoring, flavor : Sweet, smell : Nutty"'
+
+'type : Dairy, context : Topping, Emulsifying, Thickening, flavor : Sweet, Umami, smell : Milky, Neutral'
+
+'type : Herb, context : Flavoring, flavor : Neutral, smell : Herbal'
+
+'type : Beverage, context : Flavoring, flavor : Sour, smell : Floral'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Floral'
+
+'type : Condiment, context : Flavoring, flavor : Sweet, Spicy, Sour, smell : Fruity, Pungent'
+
+'type : Sauce, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Dairy, context : Base, flavor : Sweet, smell : Milky'
+
+'type : Beverage, context : Cooling, flavor : Neutral, smell : Neutral'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Neutral'
+
+'"type : Beverage, context : Main Ingredient, flavor : Bitter, smell : Umami"'
+
+'type : Grain, context : Main Ingredient, flavor : Salty, smell : Umami'
+
+'type : Grain, context : Main Ingredient, flavor : Neutral, smell : Nutty'
+
+'type : Fermenting Agent, context : Fermentation, flavor : Neutral, smell : Yeasty'
+
+'type : Bread, context : Coating, flavor : Umami, smell : Nutty'
+
+'type : Herb, context : Flavoring, flavor : Umami, smell : Herbal'
+
+'type : Fruit, context : Main Ingredient, flavor : Sweet, smell : Fruity, Earthy'
+
+'type : Bread, context : Coating, flavor : Umami, smell : Neutral'
+
+'type : Dairy, context : Main Ingredient, flavor : Umami, smell : Milky'
+
+'"type : Beverage, context : Flavoring, flavor : Bitter, smell : Herbal"'
+
+'type : Condiment, context : Fermentation, flavor : Salty, Umami, smell : Umami, Fruity, Earthy'
+
+'type : Legume, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Sauce, context : Flavoring, flavor : Umami, smell : Herbal'
+
+'type : Herb, context : Flavoring, flavor : Sweet, smell : Floral'
+
+'type : Beverage, context : Flavoring, flavor : Sweet, smell : Floral'
+
+'type : Sweetener, context : Thickening, flavor : Sweet, smell : Fruity'
+
+'type : Vegetable, context : Main Ingredient, flavor : Crisp, Sweet, Sour, smell : Fresh, Earthy'
+
+'type : Fruit, context : Sweetening, flavor : Sweet, smell : Fruity'
+
+'type : Herb, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Beverage, context : Flavoring, flavor : Sweet, smell : Fruity, Nutty'
+
+'type : Vegetable, context : Main Ingredient, flavor : Bitter, smell : Earthy'
+
+'type : Condiment, Fruit, Dairy, Sweetener, Grain, flavor : Sweet, smell : Fruity, Milky, Nutty'
+
+'type : Condiment, context : Flavoring, flavor : Sweet, Sour, Salty, smell : Umami, Savory'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Fruity'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Condiment, Legume, Fermenting Agent, flavor : Salty, Umami, context : Flavoring, Fermentation, Main Ingredient, smell : Umami, Earthy, Pungent'
+
+'type : Condiment, context : Flavoring, flavor : Spicy, smell : Umami, Pungent, Earthy'
+
+'type : Condiment, context : Flavoring, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sour, smell : Earthy'
+
+'type : Condiment, context : Fermentation, flavor : Salty, Umami, smell : Umami, Yeasty'
+
+'type : Condiment, context : Flavoring, flavor : Salty, smell : Neutral'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Sweetener, Bread, Grain, Dairy, Condiment, Sauce, Butter, Sugar, Egg, Vanilla, type : Sweetener, Bread, Grain, Dairy, Condiment, Sauce, Butter, Sugar, Egg, Vanilla, context : Topping, Base, Binding Agent, Moisturizing, Flavoring, Sweetening, Thickenin, g flavor : Sweet, Umami, Sour, context : Topping, Base, Binding Agent, Moisturizing, Flavoring, Sweetening, Thickening, smell : Sweet, Fruity, Nutty, Floral'
+
+'type : Meat, context : Binding Agent, Emulsifying, Moisturizing, flavor : Umami, smell : Neutral'
+
+'type : Pasta, context : Main Ingredient, flavor : Neutral, smell : Neutral'
+
+'type : Dairy, context : Main Ingredient, flavor : Umami, smell : Milky'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Herb, context : Flavoring, flavor : Fresh, smell : Herbal'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Dairy, context : Main Ingredient, flavor : Sweet, Sour, smell : Citrusy, Milky'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Herb, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Herb, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Herb, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Herb, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Seafood, context : Flavoring, flavor : Umami, smell : Fishy'
+
+'type : Vegetable, context : Garnishing, flavor : Fresh, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Bitter, smell : Earthy'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Fruit, context : Sweetening, flavor : Sweet, smell : Fruity'
+
+'type : Herb, context : Flavoring, flavor : Neutral, smell : Fresh'
+
+'type : Herb, context : Flavoring, flavor : Neutral, smell : Fresh'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Nut, context : Main Ingredient, flavor : Sweet, smell : Nutty'
+
+'type : Condiment, context : Emulsifying, flavor : Salty, smell : Milky'
+
+'type : Dairy, context : Topping, flavor : Sour, smell : Milky, Sour'
+
+'type : Fruit, context : Sweetening, flavor : Sweet, smell : Fruity'
+
+'type : Pasta, context : Main Ingredient, flavor : Neutral, smell : Neutral'
+
+'type : Grain, context : Fermentation, flavor : Umami, smell : Yeasty'
+
+'"type : Fruit, context : Flavoring, flavor : Sweet, smell : Fruity"'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Fruity Nutty'
+
+'type : Spice, Fruit, Herb, Oil, type can belong to multiple factors; context : Flavoring, Tenderizing, Emulsifying; flavor : Spicy, Sour, Umami; smell : Spicy, Fruity, Herbal'
+
+'type : Sauce, context : Base, flavor : Umami, smell : Earthy'
+
+'type : Fruit, context : Preserving, flavor : Sweet, smell : Citrusy'
+
+'type : Dairy, context : Main Ingredient, flavor : Creamy, Sour, smell : Milky, Umami'
+
+'type : Condiment, context : Emulsifying, flavor : Salty, smell : Neutral'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Fruit, context : Sweetening, flavor : Sweet, smell : Fruity Nutty'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, smell : Fruity'
+
+'type : Dairy, context : Emulsifying, flavor : Neutral, smell : Milky'
+
+'type : Dairy, context : Main Ingredient, flavor : Sweet, smell : Milky'
+
+'type : Herb, context : Flavoring, flavor : Fresh, smell : Floral'
+
+'type : Herb, context : Flavoring, flavor : Fresh, smell : Floral'
+
+'type : Beverage, context : Flavoring, flavor : Sweet, Umami, smell : Sweet, Umami'
+
+'type : Fermenting Agent, Condiment, Legume, flavor : Umami, Salty, context : Flavoring, Fermentation, Base, smell : Umami, Earthy, Savory'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Spicy, Herbal, Earthy'
+
+'type : Bread, context : Main Ingredient, flavor : Umami, smell : Yeasty'
+
+'type : Dairy, context : Main Ingredient, flavor : Umami, smell : Milky'
+
+'type : Herb, context : Flavoring, flavor : Bitter, smell : Earthy'
+
+'type : Fruit, context : Main Ingredient, flavor : Sweet, smell : Fruity'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Condiment, context : Flavoring, flavor : Neutral, smell : Pungent'
+
+'type : Condiment, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Fruity'
+
+'type : Condiment, context : Flavoring, flavor : Spicy, Sour, Salty, smell : Citrusy, Spicy'
+
+'type : Condiment, context : Flavoring, flavor : Salty, smell : Neutral'
+
+'type : Grain, context : Main Ingredient, flavor : Umami, smell : Neutral'
+
+'type : Nut, context : Flavoring, flavor : Umami, smell : Nutty'
+
+'type : Nut, context : Main Ingredient, flavor : Neutral, smell : Nutty'
+
+'type : Spice, context : Flavoring, flavor : Sweet, smell : Nutty'
+
+'type : Spice, context : Flavoring, flavor : Sweet, smell : Nutty'
+
+'type : Grain, context : Thickening, flavor : Neutral, smell : Nutty'
+
+'type : Grain, context : Beverage, flavor : Neutral, smell : Nutty'
+
+'type : Grain, context : Thickening, flavor : Sweet, smell : Nutty'
+
+'type : Vegetable, context : Flavoring, flavor : Umami, smell : Pungent'
+
+'type : Oil, context : Emulsifying, flavor : Neutral, smell : Neutral'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Oil, flavor : Umami, context : Emulsifying, smell : Fruity'
+
+'type : Oil, context : Emulsifying, flavor : Neutral, smell : Fruity'
+
+'type : Vegetable, context : Flavoring, flavor : Umami, smell : Pungent'
+
+'type : Spice, context : Flavoring, flavor : Umami, smell : Pungent'
+
+'"type : Vegetable, context : Flavoring, flavor : Spicy, smell : Earthy"'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, Sour, smell : Citrusy'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, Sour, smell : Citrusy'
+
+'type : Beverage, context : Main Ingredient, flavor : Sour, smell : Citrusy'
+
+'type : Fruit, context : Sweetening, flavor : Sweet, smell : Citrusy'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Fruit, context : Sweetening, flavor : Sweet, smell : Citrusy'
+
+'type : Herb, context : Flavoring, flavor : Spicy, smell : Earthy, Herbal'
+
+'type : Herb, context : Flavoring, flavor : Spicy, smell : Herbal'
+
+'type : Herb, context : Flavoring, flavor : Spicy, smell : Herbal'
+
+'type : Sweetener, Bread, Condiment, Oil, Dairy, Nut, Grain, flavor : Sweet, Slightly Salty, smell : Sweet, Milky, Nutty'
+
+'"type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy"'
+
+'"type : Sauce, context : Flavoring, flavor : Umami, smell : Savory"'
+
+'"type : Meat, context : Main Ingredient, flavor : Salty, Umami, smell : Smoky, Umami"'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Fruity'
+
+'"type : Condiment, context : Flavoring, flavor : Sweet, smell : Floral"'
+
+'type : Herb, context : Flavoring, flavor : Sweet, smell : Floral'
+
+'type : Herb, context : Flavoring, flavor : Sweet, smell : Floral, Fresh, Herbal, Earthy'
+
+'type : Spice, context : Flavoring, Coloring, flavor : Spicy, Umami, smell : Smoky, Earthy'
+
+'type : Dairy, context : Fermentation, flavor : Umami, smell : Milky'
+
+'type : Dairy, context : Main Ingredient, flavor : Umami, smell : Nutty'
+
+'type : Dairy, context : Flavoring, flavor : Umami, smell : Milky'
+
+'type : Dairy, context : Fermentation, flavor : Umami, smell : Milky'
+
+'type : Herb, context : Garnishing, flavor : Neutral, smell : Fresh'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Fruity, Floral'
+
+'type : Fruit, Sauce, flavor : Sweet, Sour, context : Flavoring, Topping, smell : Fruity, Sweet'
+
+'type : Pasta, context : Main Ingredient, flavor : Umami, smell : Neutral'
+
+'type : Grain, Bread, Sweetener, Oil, Condiment, flavor : Sweet, Umami, context : Base, Moisturizing, Binding Agent, smell : Fruity, Nutty, Yeasty'
+
+'type : Legume, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'"type : Fruit, context : Main Ingredient, flavor : Sweet, smell : Fruity"'
+
+'type : Nut, context : Main Ingredient, flavor : Umami, smell : Nutty'
+
+'type : Nut, context : Topping, Emulsifying, flavor : Salty, Umami, smell : Nutty, Umami'
+
+'type : Fruit, context : Main Ingredient, flavor : Sweet, smell : Fruity'
+
+'type : Nut, context : Main Ingredient, flavor : Sweet, smell : Nutty'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy'
+
+'type : Condiment, context : Flavoring, flavor : Spicy, smell : Spicy'
+
+'type : Oil, context : Flavoring, flavor : Spicy, smell : Floral'
+
+'"type : Beverage, context : Flavoring, flavor : Fresh, smell : Floral"'
+
+'type : Herb, context : Flavoring, flavor : Umami, smell : Herbal'
+
+'type : Fruit, context : Main Ingredient, flavor : Sweet, smell : Fruity'
+
+'type : Vegetable, context : Garnishing, flavor : Bitter, smell : Earthy'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy, Pungent'
+
+'type : Vegetable, context : Preserving, flavor : Sour, smell : Fruity'
+
+'type : Grain, context : Base, flavor : Neutral, smell : Yeasty'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'"type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy"'
+
+'"type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory"'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Nut, context : Main Ingredient, flavor : Umami, smell : Nutty'
+
+'"type : Fruit, context : Flavoring, flavor : Sweet, Sour, smell : Fruity"'
+
+'"type : Spice, context : Flavoring, flavor : Spicy, smell : Earthy"'
+
+'"type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy"'
+
+'type : Condiment, context : Flavoring, flavor : Salty, smell : Smoky'
+
+'type : Nut, context : Main Ingredient, flavor : Sweet, smell : Nutty'
+
+'type : Bread, context : Base, flavor : Umami, smell : Yeasty'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Fruity'
+
+'type : Grain, context : Main Ingredient, flavor : Salty, smell : Nutty'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Meat, context : Base, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'"type : Meat, context : Main Ingredient, flavor : Salty Umami, smell : Savory Smoky"'
+
+'"type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy"'
+
+'"type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory"'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Smoky'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Smoky'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Grain, context : Thickening, flavor : Neutral, smell : Neutral'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fresh'
+
+'type : Meat, context : Main Ingredient, flavor : Salty Umami, smell : Smoky Umami'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Nut, context : Main Ingredient, flavor : Salty, smell : Nutty'
+
+'type : Spice, context : Flavoring, flavor : Sweet, smell : Spicy, Fruity, Earthy'
+
+'type : Sweetener, context : Flavoring, flavor : Sweet, smell : Fruity, Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Flavoring, flavor : Bitter, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Grain, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Bitter, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Bitter, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Spicy, smell : Earthy'
+
+'type : Fruit, context : Sweetening, flavor : Sweet, smell : Fruity'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, smell : Fruity'
+
+'type : Fruit, context : Preserving, flavor : Sweet, smell : Fruity'
+
+'type : Oil, context : Coloring, flavor : Neutral, smell : Earthy'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, Sour, smell : Fruity, Fresh'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, Sour, smell : Fruity, Fresh'
+
+'type : Legume, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Fresh'
+
+'type : Condiment, context : Coloring, flavor : Neutral, smell : Neutral'
+
+'"type : Legume, context : Main Ingredient, flavor : Umami, smell : Earthy"'
+
+'type : Vegetable, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Fruity, Floral'
+
+'"type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy"'
+
+'type : Spice, context : Coloring, flavor : Bitter, smell : Earthy'
+
+'type : Beverage, context : Fermentation, flavor : Bitter, Sour, smell : Fruity, Yeasty, Floral'
+
+'type : Condiment, context : Flavoring, flavor : Sour, smell : Fruity, Yeasty, Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Smoky'
+
+'type : Grain, context : Main Ingredient, flavor : Umami, smell : Neutral'
+
+'type : Grain, context : Main Ingredient, flavor : Sweet, smell : Neutral'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Grain, context : Thickening, flavor : Neutral, smell : Neutral'
+
+'type : Grain, context : Main Ingredient, flavor : Neutral, smell : Neutral'
+
+'type : Grain, context : Binding Agent, flavor : Neutral, smell : Neutral'
+
+'type : Grain, context : Binding, flavor : Neutral, smell : Neutral'
+
+'type : Condiment, context : Flavoring, flavor : Sour, smell : Fruity, Sour'
+
+'type : Beverage, context : Fermentation, flavor : Umami, smell : Yeasty'
+
+'type : Dairy, context : Main Ingredient, flavor : Umami, smell : Milky'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Sweet'
+
+'type : Herb, context : Garnishing, flavor : Bitter, smell : Fresh'
+
+'type : Vegetable, context : Garnishing, flavor : Bitter, smell : Fresh'
+
+'type : Herb, context : Garnishing, flavor : Neutral, smell : Floral'
+
+'type : Spice, context : Flavoring, flavor : Sour, smell : Floral'
+
+'type : Fruit, Sweetener, Condiment, flavor : Sweet, Sour, smell : Fruity, Floral'
+
+'type : Herb, context : Flavoring, flavor : Umami, smell : Herbal'
+
+'type : Herb, context : Flavoring, flavor : Umami, smell : Floral'
+
+'type : Herb, context : Flavoring, flavor : Umami, smell : Floral'
+
+'type : Beverage, context : Fermentation, flavor : Sweet, smell : Fruity, Smoky, Herbal'
+
+'type : Spice, context : Flavoring, Coloring, flavor : Spicy, Bitter, smell : Floral, Earthy'
+
+'type : Herb, context : Flavoring, flavor : Umami, smell : Herbal'
+
+'type : Beverage, context : Fermentation, flavor : Umami, smell : Yeasty'
+
+'type : Vegetable, Fruit, Dairy, Condiment, Oil, type can only belong to one or more of the following factors [Spice, Fruit, Vegetable, Dairy, Meat, Grain, Condiment, Seafood, Herb, Nut, Sweetener, Oil, Beverage, Fermenting Agent, Legume, Mushroom, Pasta, Bread, Sauce], flavor : Sour, Salty, type can only belong to one or more of the following factors [Sweet, Salty, Spicy, Bitter, Sour, Umami], context : Base, Flavoring, Garnishing, type can only belong to one or more of the following factors [Binding, Thickening, Flavoring, Sweetening, Preserving, Topping, Fermentation, Main Ingredient, Garnishing, Base, Tenderizing, Emulsifying, Coating, Moisturizing, Coloring, Binding Agent], smell : Fresh, Fruity, type can only belong to one or more of the following factors [Sweet, Sour, Spicy, Bitter, Umami, Fruity, Nutty, Smoky, Herbal, Earthy, Fishy, Yeasty, Citrusy, Milky, Pungent, Floral, Fresh, Savory, Neutral]'
+
+'type : Sauce, context : Flavoring, flavor : Sour, smell : Fresh'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Smoky'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Seafood, context : Base, flavor : Umami, smell : Fishy'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Condiment, context : Flavoring, flavor : Salty, smell : Neutral'
+
+'type : Nut, context : Main Ingredient, flavor : Salty, smell : Nutty'
+
+'type : Condiment, context : Flavoring, flavor : Salty, smell : Savory'
+
+'type : Dairy, context : Emulsifying, flavor : Salty, smell : Milky'
+
+'type : Vegetable, context : Preserving, flavor : Salty, smell : Fresh'
+
+'type : Condiment, context : Flavoring, flavor : Salty, Umami, smell : Smoky, Umami'
+
+'type : Condiment, context : Flavoring, flavor : Salty, Umami, smell : Smoky, Umami'
+
+'type : Vegetable, context : Main Ingredient, flavor : Salty, smell : Earthy'
+
+'type : Sweetener, Bread, Condiment, Grain, Oil, Sweetener, type : Sweetener, Bread, Condiment, Grain, Oil, Sweetener, context : Topping, Base, Flavoring, Moisturizing, Binding, Sweetening, flavor : Sweet, Umami, smell : Sweet, Nutty, Floral'
+
+'type : Bread, context : Base, flavor : Umami, smell : Yeasty'
+
+'type : Condiment, context : Flavoring, flavor : Salty, Umami, smell : Umami, Savory'
+
+'type : Sauce, context : Flavoring, flavor : Spicy, Sour, Umami, smell : Smoky, Umami, Nutty'
+
+'type : Sauce, context : Flavoring, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Smoky'
+
+'type : Vegetable, context : Garnishing, flavor : Umami, smell : Fresh'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'"type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy"'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'type : Condiment, context : Flavoring, flavor : Salty, smell : Savory'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fresh'
+
+'type : Grain, context : Thickening, flavor : Neutral, smell : Neutral'
+
+'type : Grain, context : Main Ingredient, flavor : Neutral, smell : Neutral'
+
+'type : Nut, Grain, Oil, Condiment, flavor : Umami, Bitter, Sour, context : Flavoring, Preserving, Topping, Emulsifying, Binding Agent, smell : Nutty, Earthy, Fruity'
+
+'type : Nut, context : Flavoring, flavor : Sweet, Sour, smell : Nutty'
+
+'type : Oil, context : Flavoring, flavor : Umami, smell : Nutty'
+
+'type : Nut, Condiment, Grain, flavor : Salty, Umami, context : Flavoring, Garnishing, smell : Nutty, Umami'
+
+'type : Vegetable, context : Flavoring, flavor : Umami, smell : Pungent'
+
+'type : Beverage, context : Fermentation, flavor : Umami, smell : Yeasty'
+
+'type : Condiment, context : Fermentation, flavor : Sour, smell : Fruity Yeasty Umami'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Grain, Sweetener, Dairy, Condiment, Oil, Bread, flavor : Sweet, smell : Sweet, Milky, Nutty, context : Main Ingredient, Binding, Tenderizing, Emulsifying, Moisturizing'
+
+'type : Oil, context : Binding Agent, flavor : Neutral, smell : Neutral'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fresh'
+
+'type : Seafood, context : Main Ingredient, flavor : Salty, smell : Umami'
+
+'type : Seafood, context : Flavoring, flavor : Umami, smell : Fishy'
+
+'type : Seafood, context : Fermentation, flavor : Umami, smell : Fishy, Pungent'
+
+'type : Seafood, context : Flavoring, flavor : Umami, smell : Fishy'
+
+'"type : Seafood, context : Flavoring, flavor : Salty, smell : Umami"'
+
+'type : Condiment, context : Flavoring, flavor : Spicy, smell : Spicy'
+
+'type : Skin, context : Moisturizing, flavor : Neutral, smell : Earthy'
+
+'type : Meat, context : Main Ingredient, flavor : Salty, smell : Smoky'
+
+'type : Sauce, context : Flavoring, flavor : Sour, Smoky, smell : Citrusy, Smoky'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Smoky'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Fresh, smell : Fresh'
+
+'type : Grain, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Beverage, context : Fermentation, flavor : Spicy, smell : Yeasty'
+
+'type : Beverage, context : Flavoring, flavor : Sweet, smell : Fruity'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Fruity, Citrusy'
+
+'type : Dairy, context : Topping, Flavoring, Emulsifying, flavor : Sour, smell : Milky, Pungent'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Fruity'
+
+'type : Sauce, context : Fermentation, flavor : Sour, smell : Fishy'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Fruity'
+
+'type : Grain, context : Fermentation, flavor : Sour, smell : Yeasty'
+
+'type : Beverage, Legume, flavor : Umami, Sour, context : Main Ingredient, Base, smell : Milky, Earthy'
+
+'type : Condiment, context : Flavoring, flavor : Salty, Umami, smell : Umami, Smoky'
+
+'type : Pasta, context : Main Ingredient, flavor : Umami, smell : Neutral'
+
+'type : Pasta, context : Main Ingredient, flavor : Umami, smell : Neutral'
+
+'type : Beverage, context : Base, flavor : Neutral, smell : Fresh'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'type : Vegetable, context : Main Ingredient, flavor : Bitter, smell : Earthy'
+
+'type : Vegetable, context : Garnishing, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Garnishing, flavor : Umami, smell : Fresh'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Condiment, context : Flavoring, flavor : Spicy, smell : Spicy'
+
+'type : Sauce, context : Flavoring, flavor : Spicy, smell : Spicy'
+
+'type : Sauce, context : Flavoring, Fermentation, Umami, flavor : Salty, Spicy, Sour, Umami, smell : Savory, Umami, Earthy, Smoky'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Floral'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'"type : Grain, context : Main Ingredient, flavor : Sweet, smell : Neutral"'
+
+'"type : Grain, context : Thickening, Sweetening, Moisturizing, flavor : Sweet, smell : Neutral"'
+
+'type : None, context : Binding Agent, flavor : Neutral, smell : Earthy'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Fruit, context : Topping, flavor : Sweet, smell : Fruity'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Sweet'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Sweet'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Fresh'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Sweet'
+
+'type : Nut, context : Main Ingredient, flavor : Salty, smell : Nutty'
+
+'type : Sweetener, context : Sweetening, flavor : Sweet, smell : Sweet'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Sauce, context : Flavoring, flavor : Sweet, Sour, Umami, smell : Fishy, Umami'
+
+'type : Sauce, context : Flavoring, flavor : Sour, Sweet, smell : Fruity, Sour'
+
+'type : Dairy, context : Sweetening, flavor : Sweet, smell : Milky'
+
+'type : Dairy, context : Sweetening, flavor : Sweet, smell : Milky'
+
+'type : Sauce, context : Flavoring, flavor : Spicy, smell : Spicy'
+
+'type : Pasta, context : Main Ingredient, flavor : Neutral, smell : Neutral'
+
+'type : Sauce, context : Emulsifying, flavor : Salty, smell : Nutty'
+
+'type : Fruit, Legume, context : Flavoring, Preserving, Souring, flavor : Sour, Bitter, smell : Fruity, Sour'
+
+'type : Fruit, Legume, context : Flavoring, Sweetening, Souring, flavor : Sour, Bitter, smell : Fruity, Sour'
+
+'type : Sauce, context : Flavoring, flavor : Sour, smell : Fruity'
+
+'type : Fruit, context : Flavoring, flavor : Sweet, Sour, smell : Citrusy'
+
+'type : Grain, context : Thickening, flavor : Neutral, smell : Neutral'
+
+'"type : Grain, context : Thickening, flavor : Neutral, smell : Neutral"'
+
+'"type : Grain, context : Thickening, flavor : Neutral, smell : Neutral"'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'"type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy"'
+
+'type : Herb, context : Flavoring, flavor : Neutral, smell : Herbal'
+
+'type : Condiment, context : Emulsifying, flavor : Salty, smell : Fishy'
+
+'type : Beverage, context : Fermentation, flavor : Bitter, smell : Herbal'
+
+'type : Beverage, context : Fermentation, flavor : Bitter, smell : Herbal'
+
+'type : Meat, Beverage, Condiment, flavor : Salty, Umami, Sour, smell : Smoky, Savory, Herbal'
+
+'type : Meat, context : Main Ingredient, flavor : Umami, smell : Savory'
+
+'type : Beverage, context : Fermentation, flavor : Spicy, smell : Smoky'
+
+'type : Sauce, context : Flavoring, flavor : Sweet, Salty, Umami, smell : Savory, Sweet'
+
+'type : Herb, context : Flavoring, flavor : Spicy, smell : Herbal'
+
+'"type : Condiment, context : Flavoring, flavor : Spicy, smell : Pungent"'
+
+'type : Sweetener, Grain, Oil, Condiment, Bread, Fermenting Agent, Sweetener, type : Sweetener, context : Main Ingredient, Sweetening, Binding, Tenderizing, Moisturizing, Flavoring, Topping, Base, Emulsifying, Coating, flavor : Sweet, Sour, Umami, smell : Sweet, Fruity, Nutty, Yeasty, Milky, Floral, Fresh, Savory'
+
+'type : Herb, context : Coloring, flavor : Bitter, smell : Earthy'
+
+'type : Herb, context : Flavoring, flavor : Umami, smell : Earthy'
+
+'"type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fresh"'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Legume, context : Main Ingredient, flavor : Umami, smell : Neutral'
+
+'type : Legume, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sour, smell : Fresh'
+
+'type : Vegetable, Condiment, Sauce, Flavoring, Base, Topping, Main Ingredient, Garnishing, Emulsifying, Binding Agent, Thickening, Moisturizing, Coloring, type : Fruit, Sweetener, type : Spice, Herb, Nut, Legume, Grain, Dairy, Meat, Seafood, Mushroom, Pasta, Bread, Fermenting Agent, Oil, Beverage, Pungent, Floral, Fresh, Savory, Neutral, Umami, Earthy, Fruity, type : Vegetable, context : Flavoring, Base, Topping, Main Ingredient, Garnishing, Emulsifying, Binding Agent, Thickening, Moisturizing, Coloring, type : Fruit, Sweetener, context : Flavoring, Topping, Garnishing, Sweetening, Main Ingredient, Sauce, Binding Agent, Thickening, Moisturizing, Coloring, type : Spice, Herb, Nut, Legume, Grain, Dairy, Meat, Seafood, Mushroom, Pasta, Bread, Fermenting Agent, Oil, Beverage, Pungent, Floral, Fresh, Savory, Neutral, Umami, Earthy, Fruity, context : Flavoring, Topping, Garnishing, Sweetening, Main Ingredient, Sauce, Binding Agent, Thickening, Moisturizing, Coloring, flavor : Sour, Umami, type : Vegetable, context : Flavoring, Base, Topping, Main Ingredient, Garnishing, Emulsifying, Binding Agent, Thickening, Moisturizing, Coloring, smell : Fruity, Earthy, Fresh, Savory'
+
+'type : Sauce, context : Flavoring, Base, flavor : Umami, Sour, Salty, smell : Earthy, Fruity, Savory'
+
+'type : Grain, context : Main Ingredient, flavor : Salty, smell : Neutral'
+
+'type : Grain, context : Main Ingredient, flavor : Salty, smell : Neutral'
+
+'type : Seafood, context : Main Ingredient, flavor : Umami, smell : Fishy'
+
+'type : Spice, context : Flavoring, Coloring, smell : Earthy, Pungent, flavor : Bitter, Spicy'
+
+'type : Spice, context : Coloring, flavor : Bitter, smell : Earthy'
+
+'"type : Spice, context : Flavoring, flavor : Bitter, smell : Earthy"'
+
+'type : Spice, context : Flavoring, Coloring, smell : Earthy, Pungent, flavor : Spicy, Bitter'
+
+'type : Spice, context : Flavoring, Coloring, flavor : Spicy, Bitter, smell : Earthy, Pungent'
+
+'type : Pasta, context : Main Ingredient, flavor : Umami, smell : Neutral'
+
+'type : Dairy, context : Emulsifying, flavor : Umami, smell : Milky'
+
+'type : Sweetener, context : Flavoring, flavor : Sweet, smell : Floral'
+
+'type : Sweetener, context : Flavoring, flavor : Sweet, smell : Floral'
+
+'type : Condiment, context : Flavoring, flavor : Sweet, smell : Floral'
+
+'type : Dairy, context : Base, flavor : Sweet, smell : Milky'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Base, flavor : Umami, smell : Earthy'
+
+'type : Oil, context : Emulsifying, flavor : Neutral, smell : Neutral'
+
+'type : Vegetable, context : Main Ingredient, flavor : Fresh, Sour, taste can vary based on vegetables used, smell : Earthy, Fresh'
+
+'type : Pasta, context : Main Ingredient, flavor : Neutral, smell : Neutral'
+
+'type : Herb, context : Flavoring, flavor : Spicy, smell : Herbal, Fresh'
+
+'type : Herb, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Condiment, context : Flavoring, flavor : Sour, smell : Sour'
+
+'type : Oil, context : Emulsifying, Moisturizing, flavor : Neutral, smell : Nutty, Fresh'
+
+'type : Oil, context : Emulsifying, flavor : Umami, smell : Fruity'
+
+'type : Beverage, context : Fermentation, flavor : Neutral, smell : Neutral'
+
+'type : Nut, context : Main Ingredient, flavor : Sweet, smell : Nutty'
+
+'type : Beverage, context : Base, flavor : Neutral, smell : Fresh'
+
+'type : Fruit, context : Main Ingredient, flavor : Sweet, smell : Fruity'
+
+'type : Grain, context : Main Ingredient, flavor : Neutral, smell : Nutty'
+
+'type : Dairy, context : Topping, flavor : Sweet, smell : Milky'
+
+'type : Condiment, context : Flavoring, flavor : Umami, smell : Savory'
+
+'type : Legume, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Neutral, smell : Earthy'
+
+'type : Sweetener, Dairy, context : Binding, Emulsifying, Sweetening, Coating, flavor : Sweet, smell : Milky, Sweet'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Grain, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Dairy, context : Main Ingredient, flavor : Neutral, smell : Milky'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Vegetable, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'type : Spice, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'"type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy"'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Nut, context : Flavoring, flavor : Umami, smell : Nutty'
+
+'type : Condiment, context : Flavoring, flavor : Sour, smell : Sour'
+
+'type : Beverage, context : Fermentation, flavor : Sour, smell : Floral'
+
+'type : Grain, context : Main Ingredient, flavor : Neutral, smell : Nutty'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'type : Beverage, context : Fermentation, flavor : Dry/Sour/Bitter, smell : Fruity/Earthy/Yeasty'
+
+'type : Condiment, context : Flavoring, flavor : Sour, smell : Fruity, Yeasty, Sour'
+
+'type : Neutral, context : Binding Agent, flavor : Neutral, smell : Neutral'
+
+'type : Fruit, context : Main Ingredient, flavor : Sweet, smell : Fruity'
+
+'type : Grain, context : Binding, flavor : Neutral, smell : Neutral'
+
+'type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
+'"type : Mushroom, context : Main Ingredient, flavor : Umami, smell : Earthy"'
+
+'type : Sauce, context : Flavoring, Tenderizing, flavor : Salty, Umami, smell : Pungent, Smoky'
+
+'type : Fermenting Agent, context : Fermentation, flavor : Umami, smell : Yeasty'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Condiment, context : Flavoring, flavor : Spicy, smell : Pungent'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Fresh'
+
+'type : Vegetable, context : Main Ingredient, flavor : Sweet, smell : Earthy'
+
+'type : Dairy, context : Fermentation, flavor : Sour, smell : Milky'
+
+'type : Dairy, context : Fermentation, flavor : Sour, smell : Milky'
+
+'type : Fruit, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Sauce, context : Flavoring, flavor : Sour, smell : Citrusy'
+
+'type : Vegetable, context : Main Ingredient, flavor : Umami, smell : Earthy'
+
