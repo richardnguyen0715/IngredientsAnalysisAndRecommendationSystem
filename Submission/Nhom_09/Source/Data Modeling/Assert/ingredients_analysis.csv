@@ -1,0 +1,803 @@
+﻿Ingredient,Type,Context,Flavor,Smell
+active yeast,"Fermenting Agent, context","Fermentation, flavor","Umami, smell",Yeasty
+agave nectar,"Sweetener, context","Sweetening, flavor","Sweet, smell",Floral
+all-purpose flour,"Grain, context","Main Ingredient, flavor","Neutral, smell",Neutral
+almond,"Nut, context","Flavoring, flavor","Sweet, smell",Nutty
+almond extract,"Nut, context","Flavoring, flavor","Sweet, smell",Nutty
+almond flour,"Nut, context","Flavoring, flavor","Sweet, smell",Nutty
+almond milk,"Nut, context","Beverage, flavor","Sweet, smell",Nutty
+aloe vera,"Vegetable, context","Moisturizing, flavor","Neutral, smell",Fresh
+amaretto,"Beverage, context","Flavoring, flavor","Sweet, smell","Fruity Nutty"""
+american beef belly,"Meat, context","Main Ingredient, flavor","Umami, smell",Earthy
+anchovy,"Seafood, context","Main Ingredient, flavor","Umami, smell","Fishy"""
+annatto powder,"Spice, context","Coloring, flavor","Neutral, smell",Earthy
+annatto seeds,"Spice, context","Coloring, flavor","Neutral, smell",Earthy
+apple,"Fruit, context","Topping, flavor","Sweet, smell",Fruity
+apple cider vinegar,"Condiment, context","Fermentation, flavor","Sour, smell","Fruity, Yeasty"
+apple juice,"Beverage, context","Main Ingredient, flavor","Sweet, Sour, smell","Fruity, Fresh"
+apricot,"Fruit, context","Flavoring, flavor","Sweet, Sour, smell","Fruity, Floral"
+apricot jam,"Fruit, context","Sweetening, flavor","Sweet, smell",Fruity
+arrowroot powder,"Grain, context","Thickening, flavor","Neutral, smell",Earthy
+artichoke,"Vegetable, context","Main Ingredient, flavor","Bitter, smell",Earthy
+asparagus,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+avocado,"Fruit, context","Main Ingredient, flavor","Umami, smell",Fruity
+back ribs tips,"Meat, context","Main Ingredient, flavor","Umami, smell","Smoky"""
+back-fat,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+bacon,"Meat, context","Main Ingredient, flavor","Salty, Umami, smell","Smoky, Umami"
+bagel,"Bread, context","Main Ingredient, flavor","Umami, smell",Yeasty
+baguette,"Bread, context","Main Ingredient, flavor","Umami, smell",Yeasty
+baking powder,"Condiment, context","Binding Agent, flavor","Neutral, smell",Neutral
+baking soda,"Fermenting Agent, context","Binding Agent, flavor","Neutral, smell",Neutral
+balsamic vinegar,"Condiment, context","Flavoring, flavor","Sour, smell","Fruity, Umami"
+balut eggs,"Meat, context","Main Ingredient, flavor","Umami, smell",Earthy
+bamboo shoots,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+bamboo skewers,"Grain, context","Main Ingredient, flavor","Neutral, smell",Earthy
+banana,"Fruit, context","Flavoring, flavor","Sweet, smell",Fruity
+banana flower,"Fruit, context","Main Ingredient, flavor","Bitter, smell",Fruity
+banana leaves,"Vegetable, context","Wrapping, flavor","Neutral, smell",Fresh
+barilla pesto sauce,"Sauce, context","Flavoring, flavor","Umami, smell",Herbal
+barilla spaghetti,"Pasta, context","Main Ingredient, flavor","Neutral, smell",Neutral
+barilla tomato sauce,"Sauce, context","Flavoring, flavor","Umami, smell","Fruity, Earthy"
+basic quiche crust,"Grain, context","Base, flavor","Salty, smell",Neutral
+basil,"Herb, context","Flavoring, flavor","Umami, smell","Fresh, Floral, Herbal"
+basil leaves,"Herb, context","Flavoring, flavor","Umami, smell","Fresh, Herbal"
+basil powder,"Herb, context","Flavoring, flavor","Umami, smell",Fresh
+basil seeds,"Herb, context","Thickening, flavor","Neutral, smell",Fresh
+bay leaf,"Herb, context","Flavoring, flavor","Umami, smell",Herbal
+bay leaves,"Herb, context","Flavoring, flavor","Umami, smell",Herbal
+bbq marinade,"Spice, Fruit, Condiment, Oil, Sauce, flavor","Flavoring, Tenderizing, Moisturizing, Emulsifying, Binding","Spicy, Sweet, Sour, Umami, smell","Smoky, Fruity, Spicy, Umami, context"
+bbq sauce,"Sauce, context","Flavoring, flavor","Sweet, Spicy, Umami, smell","Smoky, Fruity, Savory"
+bean,"Legume, context","Main Ingredient, flavor","Umami, smell",Earthy
+bean sprouts,"Vegetable, context","Main Ingredient, flavor","Umami, smell","Fresh"""
+beat,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+beef,"Meat, context","Main Ingredient, flavor","Umami, smell",Earthy
+beef blood,"Meat, context","Main Ingredient, flavor","Umami, smell","Earthy"""
+beef bone,"Meat, context","Base, flavor","Umami, smell",Smoky
+beef bones,"Meat, context","Base, flavor","Umami, smell",Savory
+beef brisket,"Meat, context","Main Ingredient, flavor","Umami, smell",Smoky
+beef broth,"Meat, context","Base, flavor","Umami, smell",Savory
+beef fillet,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+beef loin,"Meat, context","Main Ingredient, flavor","Umami, smell",Earthy
+beef ribs,"Meat, context","Main Ingredient, flavor","Umami, smell",Smoky
+beef roast,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+beef shank,"Meat, context","Main Ingredient, flavor","Umami, smell",Earthy
+beet,"Vegetable, context","Main Ingredient, flavor","Sweet, Sour, smell",Earthy
+bell pepper,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+bell peppers,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+betel leaves,"Herb, context","Flavoring, flavor","Bitter, smell",Earthy
+biscuit,"Grain, context","Main Ingredient, flavor","Sweet, smell",Nutty
+black bean sauce,"Sauce, context","Flavoring, flavor","Salty, Umami, smell","Umami, Earthy"
+black beans,"Legume, context","Main Ingredient, flavor","Umami, smell",Earthy
+black coffee,"Beverage, context","Base, flavor","Bitter, smell","Smoky"""
+black olives,"Vegetable, context","Preserving, flavor","Umami, smell",Smoky
+black pepper,"Spice, context","Flavoring, flavor","Spicy, smell",Pungent
+black pepper powder,"Spice, context","Flavoring, flavor","Spicy, smell","Pungent"""
+black pepper sauce,"Sauce, context","Flavoring, flavor","Spicy, smell",Pungent
+black sesame,"Nut, context","Flavoring, flavor","Sweet, smell",Nutty
+black tea,"Beverage, context","Fermentation, flavor","Bitter, smell","Smoky, Herbal"
+black-veined tiger prawns,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fresh
+blueberry,"Fruit, context","Flavoring, flavor","Sweet, smell",Fruity
+blueberry jam,"Fruit, Condiment, flavor","Flavoring, Topping, Preserving, smell","Sweet, Sour, context","Fruity, Sweet"
+bo bo,"Sweetener, context","Sweetening, flavor","Sweet, smell",Fruity
+bok choy,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+bone broth,"Meat, context","Base, flavor","Umami, smell",Savory
+brandy,"Beverage, context","Fermentation, flavor","Sweet, smell",Fruity
+bread,"Bread, context","Main Ingredient, flavor","Umami, smell",Yeasty
+bread flour,"Grain, context","Main Ingredient, flavor","Neutral, smell",Yeasty
+bread yeast,"Fermenting Agent, context","Fermentation, flavor","Neutral, smell",Yeasty
+breadcrumb,"Bread, context","Coating, flavor","Neutral, smell",Nutty
+brew coffee,"Beverage, context","Main Ingredient, flavor","Bitter, smell",Earthy
+broccoli,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+broccoli noodles,"Vegetable, Pasta, flavor","Main Ingredient, smell","Umami, Sour, context","Earthy, Savory"
+brown m&m's,"Sweetener, context","Sweetening, flavor","Sweet, smell",Sweet
+brown reishi mushroom,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+brown sugar,"Sweetener, context","Sweetening, flavor","Sweet, smell",Earthy
+burger buns,"Bread, context","Main Ingredient, flavor","Sweet, smell",Yeasty
+butter,"Dairy, context","Emulsifying, flavor","Umami, smell",Milky
+butter biscuits,"Dairy, Grain, Sweetener, flavor","Main Ingredient, Tenderizing, Emulsifying, Moisturizing, smell","Sweet, context","Milky, Fruity, Nutty"
+buttermilk,"Dairy, context","Fermentation, flavor","Sour, smell",Milky
+button mushrooms,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+cabbage,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+cake,"Sweetener, Grain, Oil, Dairy, Flavoring Agent, context","Main Ingredient, Sweetening, Binding, Moisturizing, Emulsifying, flavor","Sweet, Sour, Umami, smell","Sweet, Fruity, Nutty, Yeasty, Milky"
+cake base,"Sweetener, Bread, Oil, Condiment, Grain, Dairy, Sweetener, type","Base, Moisturizing, Flavoring, Binding, Tenderizing, Emulsifying, Coloring, flavor","Sweet, Umami, Sour, context","Sweet, Nutty, Milky, Floral, Fresh"
+cake body,"Sweetener, Bread, Oil, Condiment, Grain, Dairy, Sweetener, type","Sweetening, Moisturizing, Binding, Base, flavor","Sweet, Umami, smell","Sweet, Milky, Floral"
+cake flour,"Grain, context","Base, flavor","Neutral, smell",Neutral
+cane sugar,"Sweetener, context","Sweetening, flavor","Sweet, smell",Sweet
+cantaloupe,"Fruit, context","Main Ingredient, flavor","Sweet, smell",Fruity
+caper,"Condiment, context","Flavoring, flavor","Sour, smell",Fruity
+caramel sauce,"Sauce, context","Topping, flavor","Sweet, smell",Sweet
+cardamom pods,"Spice, context","Flavoring, flavor","Spicy, smell",Floral
+cardamom powder,"Spice, context","Flavoring, flavor","Spicy, smell",Floral
+carp,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+carrot,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+cashew,"Nut, context","Main Ingredient, flavor","Sweet, smell",Nutty
+cashew nuts,"Nut, context","Main Ingredient, flavor","Umami, smell",Nutty
+cassava,"Vegetable, context","Main Ingredient, flavor","Neutral, smell",Earthy
+catfish,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+cauliflower,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+cayenne pepper,"Spice, context","Flavoring, flavor","Spicy, smell",Earthy
+celery,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+cellophane noodles,"Pasta, context","Main Ingredient, flavor","Neutral, smell",Neutral
+cereal,"Grain, context","Main Ingredient, flavor","Sweet, smell",Neutral
+certo fruit pectin,"Condiment, context","Thickening, flavor","Neutral, smell",Neutral
+chaat masala spice powder,"Spice, context","Flavoring, flavor","Spicy, Sour, Sweet, smell","Spicy, Umami, Fruity, Herbal, Earthy"
+cheddar cheese,"Dairy, context","Fermentation, flavor","Umami, smell",Milky
+cheese,"Dairy, context","Fermentation, flavor","Sour, smell",Pungent
+cheese powder,"Dairy, context","Flavoring, flavor","Umami, smell",Milky
+cheese tofu,"Dairy, context","Main Ingredient, flavor","Umami, smell",Milky
+cherry,"Fruit, context","Flavoring, flavor","Sweet, smell",Fruity
+cherry tomatoes,"Fruit, context","Main Ingredient, flavor","Sweet, Sour, smell","Fresh, Fruity"
+chestnut,"Nut, context","Main Ingredient, flavor","Sweet, smell",Nutty
+chia cream,"Grain, context","Thickening, flavor","Neutral, smell","Neutral"""
+chia seeds,"Grain, context","Thickening, flavor","Neutral, smell",Earthy
+chicken,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+chicken bones,"Meat, context","Base, flavor","Umami, smell",Savory
+chicken bouillon powder,"Meat, context","Flavoring, flavor","Umami, smell","Savory"""
+chicken breast,"Meat, context","Main Ingredient, flavor","Umami, smell","Neutral"""
+chicken breast bone,"Meat, context","Main Ingredient, flavor","Umami, smell","Savory"""
+chicken breasts,"Meat, context","Main Ingredient, flavor","Umami, smell",Neutral
+chicken broth,"Meat, context","Base, flavor","Umami, smell",Savory
+chicken feet,"Meat, context","Main Ingredient, flavor","Umami, smell","Savory"""
+chicken fillet,"Meat, context","Main Ingredient, flavor","Umami, smell","Neutral"""
+chicken marinade,"Spice, Vegetable, Condiment, Oil, Sauce, flavor",N/A,"Spicy, Sour, Umami, smell","Spicy, Herbal, Earthy, Savory"
+chicken skeleton,"Meat, context","Base, flavor","Umami, smell",Savory
+chicken thigh,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+chicken thigh bones,"Meat, context","Main Ingredient, flavor","Umami, smell","Earthy"""
+chicken thighs,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+chicken wings,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+chickpea,"Legume, context","Main Ingredient, flavor","Umami, smell",Earthy
+chili,"Spice, context","Flavoring, flavor","Spicy, smell",Pungent
+chili garlic sauce,"Condiment, context","Flavoring, flavor","Spicy, smell",Spicy
+chili lemongrass dipping sauce,"Condiment, context","Flavoring, flavor","Spicy, Sour, Umami, smell","Citrusy, Herbal, Spicy"
+chili lemongrass fish sauce,"Condiment, Sauce, Seafood, Herb, Spice, Flavoring",N/A,"Salty, Spicy, Sour, Umami, smell","Fishy, Citrusy, Herbal, Pungent"
+chili powder,"Spice, context","Flavoring, flavor","Spicy, smell","Earthy, Smoky, Pungent"
+chili sauce,"Condiment, context","Flavoring, flavor","Spicy, smell",Spicy
+chilli,"Spice, context","Flavoring, flavor","Spicy, smell",Pungent
+chinese bok choy,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Fresh
+chinese cabbage,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+chinese coriander,"Herb, context","Flavoring, flavor","Spicy, smell","Fresh, Herbal, Earthy"
+chinese medicine,"Herb, context","Main Ingredient, flavor","Bitter, smell",Herbal
+chinese sausages,"Meat, context","Main Ingredient, flavor","Salty Umami, smell","Smoky Umami"""
+chip,"Vegetable, context","Snacking, flavor","Salty, smell",Neutral
+chipotle smoked pepper powder,"Spice, context","Flavoring, flavor","Spicy, smell",Smoky
+chive,"Vegetable, context","Garnishing, flavor","Umami, smell",Fresh
+chocolate,"Sweetener, context","Sweetening, flavor","Sweet, smell",Milky
+chocolate chips,"Sweetener, context","Flavoring, flavor","Sweet, smell",Milky
+chocolate condensed milk,"Sweetener, Dairy, Condiment, flavor","Binding, Thickening, Flavoring, Sweetening, Preserving, Topping, Emulsifying, smell","Sweet, Umami, context","Milky, Sweet"
+chocolate ganache,"Sweetener, context","Topping, flavor","Sweet, smell",Milky
+chocolate milk,"Beverage, context","Emulsifying, flavor","Sweet, smell",Milky
+chocolate sauce,"Sauce, context","Topping, flavor","Sweet, smell",Milky
+chrysanthemum,"Beverage, context","Flavoring, flavor","Bitter, smell",Floral
+ciabatta bread,"Bread, context","Main Ingredient, flavor","Umami, smell",Yeasty
+cilantro,"Herb, context","Garnishing, Flavoring, flavor","Umami, smell","Fresh, Herbal"
+cinnamon,"Spice, context","Flavoring, flavor","Sweet, smell","Fruity, Floral"
+cinnamon powder,"Spice, context","Flavoring, flavor","Sweet, smell","Sweet, Floral"
+cinnamon wine,"Beverage, context","Fermentation, flavor","Sweet, smell","Fruity, Floral"
+clam,"Seafood, context","Main Ingredient, flavor","Umami, smell",Savory
+clausena indica leaves,"Herb, context","Flavoring, flavor","Spicy, smell","Herbal, Citrusy"
+clove,"Spice, context","Flavoring, flavor","Spicy, smell",Floral
+clove garlic,"Spice, context","Flavoring, flavor","Spicy, smell",Earthy
+clove powder,"Spice, context","Flavoring, flavor","Spicy, smell","Earthy, Floral"
+clove seeds,"Spice, context","Flavoring, flavor","Spicy, smell",Floral
+cloves garlic,"Spice, context","Flavoring, flavor","Spicy, smell",Pungent
+cockle,"Seafood, context","Main Ingredient, flavor","Umami, smell","Salty"""
+cocoa powder,"Condiment, context","Flavoring, flavor","Bitter, smell",Earthy
+coconut,"Fruit, context","Flavoring, flavor","Sweet, smell",Fruity Nutty
+coconut chips,"Nut, context","Topping, flavor","Sweet, smell",Nutty
+coconut cream,"Fruit, context","Thickening, Flavoring, Sweetening, smell",Sweet,"Milky, Fruity, Nutty, flavor"
+coconut flesh,"Fruit, context","Main Ingredient, flavor","Sweet, smell","Fruity"""
+coconut flour,"Nut, context","Binding Agent, flavor","Sweet, smell",Nutty
+coconut meat,"Fruit, context","Sweetening, flavor","Sweet, smell",Fruity Nutty
+coconut milk,"Fruit, Nut, Beverage, Condiment, Oil, Sweetener, Dairy, type","Thickening, Flavoring, Moisturizing, Emulsifying, Binding Agent, flavor","Sweet, Umami, smell","Milky, Fruity, Nutty"
+coconut oil,"Oil, context","Moisturizing, Emulsifying, flavor","Neutral, smell",Nutty
+coconut powder,"Fruit, Nut, Sweetener, Condiment, Flavoring, Thickening, Moisturizing, Binding Agent, Sweet, Fruity, Nutty, Fresh, Neutral",N/A,N/A,N/A
+coconut water,"Beverage, context","Main Ingredient, flavor","Sweet, smell",Fresh
+coffee,"Beverage, context","Main Ingredient, flavor","Bitter, smell","Earthy"""
+cointreau orange liqueur,"Beverage, context","Flavoring, flavor","Sweet, smell",Citrusy
+coke,"Beverage, context","Flavoring, flavor","Sweet, smell",Fruity
+cold-cuts,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+colored sugar,"Sweetener, context","Topping, flavor","Sweet, smell",Sweet
+colored sugar granules,"Sweetener, context","Topping, Sweetening, Coloring, flavor","Sweet, smell","Sweet, Floral"
+concentrated chicken broth cube,"Meat, context","Flavoring, flavor","Umami, smell","Savory"""
+condensed milk,"Dairy, context","Sweetening, flavor","Sweet, smell",Milky
+cooking cream,"Dairy, context","Thickening, Flavoring, Binding Agent, flavor","Sweet, Umami, smell","Milky, Savory"
+cooking oil,"Oil, context","Emulsifying, flavor","Neutral, smell",Neutral
+cooking oil sprayer,"Oil, context","Coating, flavor","Neutral, smell",Neutral
+cooky,"Grain, context","Sweetening, flavor","Sweet, smell",Sweet
+coriander,"Herb, context","Garnishing, Flavoring, smell","Umami, Spicy","Fresh, Herbal, Earthy, flavor"
+coriander powder,"Spice, context","Flavoring, flavor","Spicy, smell","Herbal, Earthy"
+coriander roots,"Herb, context","Flavoring, flavor","Umami, smell",Earthy
+coriander seeds,"Spice, context","Flavoring, flavor","Spicy, smell",Earthy
+corn,"Grain, context","Main Ingredient, flavor","Sweet, smell",Earthy
+corn chips,"Grain, context","Main Ingredient, flavor","Salty, smell",Smoky
+corn cob,"Grain, context","Main Ingredient, flavor","Sweet, smell",Earthy
+corn flour,"Grain, context","Thickening, flavor","Neutral, smell",Earthy
+corn kernels,"Grain, context","Main Ingredient, flavor","Sweet, smell",Nutty
+corn syrup,"Sweetener, context","Sweetening, Thickening, flavor","Sweet, smell","Sweet, Neutral"
+cornstarch,"Grain, context","Thickening, flavor","Neutral, smell",Neutral
+cosy cookies,"Sweetener, Grain, Condiment, Nut, Oil, Bread, Sauce, flavor",N/A,"Sweet, Umami, smell","Sweet, Nutty, Fruity"
+cotija cheese,"Dairy, context","Flavoring, flavor","Salty, smell",Umami
+couscous,"Grain, context","Main Ingredient, flavor","Neutral, smell",Nutty
+crab meat,"Seafood, context","Main Ingredient, flavor","Umami, smell",Savory
+cranberry,"Fruit, context","Flavoring, flavor","Sour, smell",Fruity
+cream,"Dairy, context","Topping, flavor","Sweet, smell",Milky
+cream cheese,"Dairy, context","Topping, flavor","Umami, smell","Milky"""
+creme fraiche,"Dairy, context","Fermentation, flavor","Sour, smell",Milky
+crispy flour,"Grain, context","Coating, flavor","Neutral, smell",Neutral
+crust,"Bread, context","Main Ingredient, flavor","Umami, smell",Earthy
+cucumber,"Vegetable, context","Main Ingredient, flavor","Sour, smell",Fresh
+culantro,"Herb, context","Flavoring, flavor","Spicy, smell","Herbal, Earthy"
+cumin powder,"Spice, context","Flavoring, flavor","Spicy, smell",Earthy
+curry powder,"Condiment, context","Flavoring, flavor","Spicy, smell",Spicy
+custard,"Dairy, context","Thickening, Sweetening, Topping, flavor","Sweet, smell",Milky
+custard powder,"Sweetener, Dairy, Condiment, flavor","Thickening, Flavoring, Topping, smell","Sweet, context","Milky, Sweet"
+dark chocolate,"Sweetener, context","Sweetening, flavor","Bitter, smell",Fruity
+dark chocolate chips,"Sweetener, context","Flavoring, flavor","Bitter, smell",Milky
+dark chocolate shavings,"Sweetener, context","Garnishing, flavor","Bitter, smell",Nutty
+dark soy sauce,"Condiment, context","Flavoring, flavor","Salty Umami, smell","Smoky Umami"""
+dashi,"Seafood, context","Base, flavor","Umami, smell",Fishy
+deglet noor dates,"Fruit, context","Sweetening, flavor","Sweet, smell",Fruity Nutty
+desiccated coconut,"Nut, context","Topping, flavor","Sweet, smell",Nutty
+dijon mustard,"Condiment, context","Flavoring, flavor","Spicy, smell",Pungent
+dill,"Herb, context","Garnishing, Flavoring, flavor","Fresh, Sour, smell","Fresh, Herbal, Earthy"
+dill leaves,"Herb, context","Garnishing, Flavoring, flavor","Umami, smell","Fresh, Herbal"
+dracontomelons,"Fruit, context","Flavoring, flavor","Sour, smell",Fruity
+duck,"Meat, context","Main Ingredient, flavor","Umami, smell",Earthy
+duck eggs,"Meat, context","Main Ingredient, flavor","Umami, smell",Earthy
+duck thigh,"Meat, context","Main Ingredient, flavor","Umami, smell","Savory"""
+dulce de leche,"Dairy, context","Sweetening, flavor","Sweet, smell",Milky
+dumpling skins,"Grain, context","Base, flavor","Neutral, smell",Neutral
+dusting powder,"Condiment, context","Coating, flavor","Neutral, smell",Earthy
+edamame,"Legume, context","Main Ingredient, flavor","Umami, smell",Earthy
+eel,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+egg,"Egg, context","Main Ingredient, flavor","Umami, smell","Neutral"""
+egg noodles,"Pasta, context","Main Ingredient, flavor","Neutral, smell",Neutral
+egg white,"Egg, context","Binding Agent, flavor","Neutral, smell",Fresh
+egg whites,"Egg, context","Binding Agent, flavor","Neutral, smell",Fresh
+egg yolk,"Dairy, context","Emulsifying, flavor","Umami, smell",Milky
+egg yolks,"Dairy, context","Emulsifying, flavor","Umami, smell",Milky
+eggplant,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+eggs yolk,"Dairy, context","Main Ingredient, flavor","Umami, smell","Milky"""
+english muffins,"Bread, context","Main Ingredient, flavor","Savory, smell",Yeasty
+enoki mushrooms,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+espresso,"Beverage, context","Main Ingredient, flavor","Bitter, smell",Smoky
+fairy pumpkin,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+fennel seeds,"Spice, context","Flavoring, flavor","Sweet, smell",Herbal
+feta cheese,"Dairy, context","Fermentation, flavor","Salty, Sour, smell","Pungent, Milky"
+fettuccine flat pasta,"Pasta, context","Main Ingredient, flavor","Neutral, smell",Neutral
+fine sugar,"Sweetener, context","Sweetening, flavor","Sweet, smell",Neutral
+fish,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+fish cake,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+fish fillet,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+fish sauce,"Seafood, context","Flavoring, flavor","Umami, smell",Fishy
+fish sauce essence,"Sauce, context","Flavoring, flavor","Umami, smell",Fishy
+five-spice powder,"Spice, context","Flavoring, flavor","Spicy, smell",Earthy
+flat-leaf parsley leaves,"Herb, context","Garnishing, flavor","Umami, smell",Fresh
+flavored alcohol,"Beverage, context","Flavoring, flavor","Sweet, smell",Fruity
+flour,"Grain, context","Main Ingredient, flavor","Neutral, smell",Neutral
+food coloring,"Condiment, context","Coloring, flavor","Neutral, smell",Neutral
+food coloring powder,"Condiment, context","Coloring, flavor","Neutral, smell",Neutral
+fragolino sparkling wine,"Beverage, context","Fermentation, flavor","Sour, smell",Fruity Yeasty Floral
+french baguette,"Bread, context","Main Ingredient, flavor","Umami, smell",Yeasty
+fried-dough,"Bread, context","Coating, flavor","Salty, smell",Savory
+frisee salad,"Vegetable, context","Main Ingredient, flavor","Bitter, smell",Fresh
+frog legs,"Meat, context","Main Ingredient, flavor","Umami, smell","Earthy"""
+fruit,"Fruit, context","Flavoring, flavor","Sweet, smell",Fruity
+fuji apple,"Fruit, context","Topping, flavor","Sweet, smell","Fruity"""
+fungus,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+fussili noodles,"Pasta, context","Main Ingredient, flavor","Neutral, smell",Neutral
+fussili spiral noodles,"Pasta, context","Main Ingredient, flavor","Neutral, smell",Neutral
+galangal,"Spice, context","Flavoring, flavor","Spicy, smell","Earthy, Pungent, Herbal"
+galangal root,"Spice, context","Flavoring, flavor","Spicy, smell","Earthy, Pungent"
+garlic,"Vegetable, context","Flavoring, flavor","Umami, smell",Pungent
+garlic powder,"Spice, context","Flavoring, flavor","Umami, smell",Pungent
+garlic vinegar,"Condiment, context","Flavoring, flavor","Sour, smell",Pungent
+gelatin powder,"Fermenting Agent, context","Binding Agent, flavor","Neutral, smell",Neutral
+gelatin sheet,"Sweetener, context","Binding Agent, flavor","Neutral, smell",Neutral
+gelatin sheets,"Condiment, context","Binding Agent, flavor","Neutral, smell",Neutral
+ginger,"Spice, context","Flavoring, flavor","Spicy, smell",Pungent
+ginger branch,"Spice, context","Flavoring, flavor","Spicy, smell","Earthy, Pungent"
+ginger leaves,"Herb, context","Flavoring, flavor","Spicy, smell","Herbal"""
+ginger powder,"Spice, context","Flavoring, flavor","Spicy, smell",Pungent
+ginger root,"Spice, context","Flavoring, flavor","Spicy, smell",Pungent
+glace cherry jam,"Fruit, context","Sweetening, flavor","Sweet, smell",Fruity
+glutinous liver,"Meat, context","Main Ingredient, flavor","Umami, smell",Earthy
+gnochi,"Pasta, context","Main Ingredient, flavor","Umami, smell",Neutral
+goat cheese,"Dairy, context","Fermentation, flavor","Sour, smell",Pungent
+gochujang sauce,"Sauce, context","Fermentation, flavor","Spicy Umami Sour, smell","Spicy Earthy Umami"""
+golden sticky rice,"Grain, context","Main Ingredient, flavor","Sweet, smell",Neutral
+golden syrup,"Sweetener, context","Sweetening, flavor","Sweet, smell",Sweet
+grand marnier,"Beverage, context","Flavoring, flavor","Sweet, smell",Citrusy
+grand marnier wine,"Beverage, context","Flavoring, flavor","Sweet, smell","Fruity, Floral"
+grapefruit flavor,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+grapefruit juice,"Beverage, context","Main Ingredient, flavor","Sour, smell",Citrusy
+grass jelly powder,"Sweetener, context","Thickening, flavor","Sweet, smell",Earthy
+greek yogurt,"Dairy, context","Fermentation, flavor","Sour, smell",Milky
+green,"Neutral, context","Coloring, flavor","Neutral, smell",Fresh
+green banana,"Fruit, context","Main Ingredient, flavor","Sour, smell",Earthy
+green bean vermicelli,"Legume, Grain, Pasta, Main Ingredient, Garnishing, Flavoring, Binding, Thickening, Tenderizing, Moisturizing, Neutral, Fresh, Savory, Salty, Umami, Earthy, Floral, Fresh, Neutral",N/A,N/A,N/A
+green beans,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+green bell pepper,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Fresh
+green cabbage,"Vegetable, context","Main Ingredient, flavor","Savory, smell",Earthy
+green cardamom seeds,"Spice, context","Flavoring, flavor","Spicy, smell",Floral
+green chili,"Spice, context","Flavoring, flavor","Spicy, smell",Earthy
+green curry sauce,"Sauce, context","Base, flavor","Spicy, smell","Herbal"""
+green dracontomelons,"Fruit, context","Main Ingredient, flavor","Sour, smell",Fruity
+green food-grade toothpicks,"None, context","Binding, flavor","Neutral, smell",Neutral
+green granny smith apples,"Fruit, context","Flavoring, flavor","Sour, smell",Fruity
+green grapes,"Fruit, context","Flavoring, flavor","Sweet, Sour, smell","Fruity, Fresh"
+green lemon,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+green lemon peel,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+green lemons,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+green olive oil,"Oil, context","Emulsifying, flavor","Sour, smell",Fruity
+green onion,"Vegetable, context","Garnishing, flavor","Umami, smell",Pungent
+green onions,"Vegetable, context","Garnishing, flavor","Spicy, smell","Fresh, Herbal"
+green papaya,"Vegetable, context","Main Ingredient, flavor","Sour, smell",Fresh
+green pepper,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+green pepper branch,"Vegetable, context","Garnishing, flavor","Neutral, smell","Earthy"""
+green peppercorns,"Spice, context","Flavoring, flavor","Spicy, smell",Earthy
+green pineapple,"Fruit, context","Flavoring, flavor","Sweet, smell",Fruity
+green prawns,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fresh
+green rice,"Grain, context","Main Ingredient, flavor","Neutral, smell",Earthy
+green tea powder,"Beverage, context","Flavoring, flavor","Bitter, smell",Herbal
+green-skinned grapefruit,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+grilled-meat seasoning,"Spice, Condiment, Herb, context","Flavoring, Tenderizing, Main Ingredient, smell",N/A,"Smoky, Umami, Savory"""
+guava,"Fruit, context","Flavoring, flavor","Sweet, Sour, smell","Fruity, Floral"
+ham,"Meat, context","Main Ingredient, flavor","Salty, Umami, smell","Smoky, Umami"
+ham hock,"Meat, context","Main Ingredient, flavor","Umami, smell",Smoky
+hazelnut,"Nut, context","Flavoring, flavor","Sweet, smell","Nutty"""
+heavy cream,"Dairy, context","Topping, Emulsifying, Thickening, flavor","Sweet, Umami, smell","Milky, Neutral"
+herb,"Herb, context","Flavoring, flavor","Neutral, smell",Herbal
+hibiscus tea,"Beverage, context","Flavoring, flavor","Sour, smell",Floral
+honey,"Sweetener, context","Sweetening, flavor","Sweet, smell",Floral
+honey mustard,"Condiment, context","Flavoring, flavor","Sweet, Spicy, Sour, smell","Fruity, Pungent"
+hummus sauce,"Sauce, context","Main Ingredient, flavor","Umami, smell",Earthy
+ice cream,"Dairy, context","Base, flavor","Sweet, smell",Milky
+ice cubes,"Beverage, context","Cooling, flavor","Neutral, smell",Neutral
+icing sugar,"Sweetener, context","Sweetening, flavor","Sweet, smell",Neutral
+instant coffee powder,"Beverage, context","Main Ingredient, flavor","Bitter, smell","Umami"""
+instant noodles,"Grain, context","Main Ingredient, flavor","Salty, smell",Umami
+instant oats,"Grain, context","Main Ingredient, flavor","Neutral, smell",Nutty
+instant yeast,"Fermenting Agent, context","Fermentation, flavor","Neutral, smell",Yeasty
+italian breadcrumbs,"Bread, context","Coating, flavor","Umami, smell",Nutty
+italian seasoning,"Herb, context","Flavoring, flavor","Umami, smell",Herbal
+jackfruit,"Fruit, context","Main Ingredient, flavor","Sweet, smell","Fruity, Earthy"
+japanese breadcrumbs,"Bread, context","Coating, flavor","Umami, smell",Neutral
+japanese egg tofu,"Dairy, context","Main Ingredient, flavor","Umami, smell",Milky
+japanese green tea powder,"Beverage, context","Flavoring, flavor","Bitter, smell","Herbal"""
+japanese soy sauce,"Condiment, context","Fermentation, flavor","Salty, Umami, smell","Umami, Fruity, Earthy"
+japanese soybeans,"Legume, context","Main Ingredient, flavor","Umami, smell",Earthy
+jar barilla pesto sauce,"Sauce, context","Flavoring, flavor","Umami, smell",Herbal
+jasmine flowers,"Herb, context","Flavoring, flavor","Sweet, smell",Floral
+jasmine tea,"Beverage, context","Flavoring, flavor","Sweet, smell",Floral
+jelly powder,"Sweetener, context","Thickening, flavor","Sweet, smell",Fruity
+jicama,"Vegetable, context","Main Ingredient, flavor","Crisp, Sweet, Sour, smell","Fresh, Earthy"
+jujube,"Fruit, context","Sweetening, flavor","Sweet, smell",Fruity
+kaffir lime leaves,"Herb, context","Flavoring, flavor","Sour, smell",Citrusy
+kahlua coffee liqueur,"Beverage, context","Flavoring, flavor","Sweet, smell","Fruity, Nutty"
+kale,"Vegetable, context","Main Ingredient, flavor","Bitter, smell",Earthy
+kaya jam,"Condiment, Fruit, Dairy, Sweetener, Grain, flavor",N/A,"Sweet, smell","Fruity, Milky, Nutty"
+ketchup,"Condiment, context","Flavoring, flavor","Sweet, Sour, Salty, smell","Umami, Savory"
+kiwi,"Fruit, context","Flavoring, flavor","Sour, smell",Fruity
+kohlrabi,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+korean bean paste,"Condiment, Legume, Fermenting Agent, flavor","Flavoring, Fermentation, Main Ingredient, smell","Salty, Umami, context","Umami, Earthy, Pungent"
+korean chili sauce,"Condiment, context","Flavoring, flavor","Spicy, smell","Umami, Pungent, Earthy"
+korean ginseng stew seasoning,"Condiment, context","Flavoring, flavor","Umami, smell",Earthy
+korean radish,"Vegetable, context","Main Ingredient, flavor","Sour, smell",Earthy
+korean soy sauce,"Condiment, context","Fermentation, flavor","Salty, Umami, smell","Umami, Yeasty"
+kosher salt,"Condiment, context","Flavoring, flavor","Salty, smell",Neutral
+kumquat,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+ladyfingers biscuits,"Sweetener, Bread, Grain, Dairy, Condiment, Sauce, Butter, Sugar, Egg, Vanilla, type","Topping, Base, Binding Agent, Moisturizing, Flavoring, Sweetening, Thickenin, g flavor","Sweet, Umami, Sour, context","Sweet, Fruity, Nutty, Floral"
+lard,"Meat, context","Binding Agent, Emulsifying, Moisturizing, flavor","Umami, smell",Neutral
+lasagna noodles,"Pasta, context","Main Ingredient, flavor","Neutral, smell",Neutral
+laughing cow cheese,"Dairy, context","Main Ingredient, flavor","Umami, smell",Milky
+lean meat,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+lean pork belly,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+leaves intact,"Herb, context","Flavoring, flavor","Fresh, smell",Herbal
+leek,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+lemon,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+lemon ice cream,"Dairy, context","Main Ingredient, flavor","Sweet, Sour, smell","Citrusy, Milky"
+lemon juice,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+lemon leaf salt,"Herb, context","Flavoring, flavor","Sour, smell",Citrusy
+lemon leaves,"Herb, context","Flavoring, flavor","Sour, smell",Citrusy
+lemon peel,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+lemon peels,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+lemongrass,"Herb, context","Flavoring, flavor","Sour, smell",Citrusy
+lemongrass powder,"Herb, context","Flavoring, flavor","Sour, smell",Citrusy
+lethocerus indicus extract,"Seafood, context","Flavoring, flavor","Umami, smell",Fishy
+lettuce,"Vegetable, context","Garnishing, flavor","Fresh, smell",Earthy
+leucocasia gigantea,"Vegetable, context","Main Ingredient, flavor","Bitter, smell",Earthy
+lime juice,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+lime peel,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+lingzhi mushroom,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+longan,"Fruit, context","Sweetening, flavor","Sweet, smell",Fruity
+lotus leaf,"Herb, context","Flavoring, flavor","Neutral, smell",Fresh
+lotus leaves,"Herb, context","Flavoring, flavor","Neutral, smell",Fresh
+lotus root,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+lotus roots,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+lotus seeds,"Nut, context","Main Ingredient, flavor","Sweet, smell",Nutty
+low-fat mayonnaise,"Condiment, context","Emulsifying, flavor","Salty, smell",Milky
+low-fat sour cream,"Dairy, context","Topping, flavor","Sour, smell","Milky, Sour"
+lychee,"Fruit, context","Sweetening, flavor","Sweet, smell",Fruity
+macaroni noodles,"Pasta, context","Main Ingredient, flavor","Neutral, smell",Neutral
+malt,"Grain, context","Fermentation, flavor","Umami, smell",Yeasty
+mango,"Fruit, context","Flavoring, flavor","Sweet, smell","Fruity"""
+maple syrup,"Sweetener, context","Sweetening, flavor","Sweet, smell",Fruity Nutty
+marinade,"Spice, Fruit, Herb, Oil, type can belong to multiple factors; context","Flavoring, Tenderizing, Emulsifying; flavor","Spicy, Sour, Umami; smell","Spicy, Fruity, Herbal"
+marinara sauce,"Sauce, context","Base, flavor","Umami, smell",Earthy
+marmalade,"Fruit, context","Preserving, flavor","Sweet, smell",Citrusy
+mascarpone cheese,"Dairy, context","Main Ingredient, flavor","Creamy, Sour, smell","Milky, Umami"
+mayonnaise,"Condiment, context","Emulsifying, flavor","Salty, smell",Neutral
+meat,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+meatball,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+medjool dates,"Fruit, context","Sweetening, flavor","Sweet, smell",Fruity Nutty
+melon,"Fruit, context","Flavoring, flavor","Sweet, smell",Fruity
+milk,"Dairy, context","Emulsifying, flavor","Neutral, smell",Milky
+milk powder,"Dairy, context","Main Ingredient, flavor","Sweet, smell",Milky
+mint,"Herb, context","Flavoring, flavor","Fresh, smell",Floral
+mint leaves,"Herb, context","Flavoring, flavor","Fresh, smell",Floral
+mirin wine,"Beverage, context","Flavoring, flavor","Sweet, Umami, smell","Sweet, Umami"
+miso paste,"Fermenting Agent, Condiment, Legume, flavor","Flavoring, Fermentation, Base, smell","Umami, Salty, context","Umami, Earthy, Savory"
+mixed-spice,"Spice, context","Flavoring, flavor","Spicy, smell","Spicy, Herbal, Earthy"
+mouse bread,"Bread, context","Main Ingredient, flavor","Umami, smell",Yeasty
+mozzarella cheese,"Dairy, context","Main Ingredient, flavor","Umami, smell",Milky
+mugwort,"Herb, context","Flavoring, flavor","Bitter, smell",Earthy
+mulberry,"Fruit, context","Main Ingredient, flavor","Sweet, smell",Fruity
+mushroom,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+musk,"Condiment, context","Flavoring, flavor","Neutral, smell",Pungent
+mustard sauce,"Condiment, context","Flavoring, flavor","Spicy, smell",Pungent
+natural spices,"Spice, context","Flavoring, flavor","Spicy, smell",Earthy
+natural sweetener,"Sweetener, context","Sweetening, flavor","Sweet, smell",Fruity
+nha trang lemon chili salt,"Condiment, context","Flavoring, flavor","Spicy, Sour, Salty, smell","Citrusy, Spicy"
+nha trang salt,"Condiment, context","Flavoring, flavor","Salty, smell",Neutral
+noodle,"Grain, context","Main Ingredient, flavor","Umami, smell",Neutral
+nut,"Nut, context","Flavoring, flavor","Umami, smell",Nutty
+nut milk,"Nut, context","Main Ingredient, flavor","Neutral, smell",Nutty
+nutmeg,"Spice, context","Flavoring, flavor","Sweet, smell",Nutty
+nutmeg powder,"Spice, context","Flavoring, flavor","Sweet, smell",Nutty
+oat,"Grain, context","Thickening, flavor","Neutral, smell",Nutty
+oat milk,"Grain, context","Beverage, flavor","Neutral, smell",Nutty
+oatmeal,"Grain, context","Thickening, flavor","Sweet, smell",Nutty
+of garlic,"Vegetable, context","Flavoring, flavor","Umami, smell",Pungent
+oil,"Oil, context","Emulsifying, flavor","Neutral, smell",Neutral
+okra,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+olive,"Oil, flavor","Emulsifying, smell","Umami, context",Fruity
+olive oil,"Oil, context","Emulsifying, flavor","Neutral, smell",Fruity
+onion,"Vegetable, context","Flavoring, flavor","Umami, smell",Pungent
+onion powder,"Spice, context","Flavoring, flavor","Umami, smell",Pungent
+onion roots,"Vegetable, context","Flavoring, flavor","Spicy, smell","Earthy"""
+orange,"Fruit, context","Flavoring, flavor","Sweet, Sour, smell",Citrusy
+orange flavor,"Fruit, context","Flavoring, flavor","Sweet, Sour, smell",Citrusy
+orange juice,"Beverage, context","Main Ingredient, flavor","Sour, smell",Citrusy
+orange m&m's,"Fruit, context","Sweetening, flavor","Sweet, smell",Citrusy
+orange peel,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+orange syrup,"Fruit, context","Sweetening, flavor","Sweet, smell",Citrusy
+oregano,"Herb, context","Flavoring, flavor","Spicy, smell","Earthy, Herbal"
+oregano leaves,"Herb, context","Flavoring, flavor","Spicy, smell",Herbal
+oregano powder,"Herb, context","Flavoring, flavor","Spicy, smell",Herbal
+oreo cookies,"Sweetener, Bread, Condiment, Oil, Dairy, Nut, Grain, flavor",N/A,"Sweet, Slightly Salty, smell","Sweet, Milky, Nutty"
+oyster mushrooms,"Mushroom, context","Main Ingredient, flavor","Umami, smell","Earthy"""
+oyster sauce,"Sauce, context","Flavoring, flavor","Umami, smell","Savory"""
+pacetta bacon,"Meat, context","Main Ingredient, flavor","Salty, Umami, smell","Smoky, Umami"""
+palm sugar,"Sweetener, context","Sweetening, flavor","Sweet, smell",Fruity
+pandan essence,"Condiment, context","Flavoring, flavor","Sweet, smell","Floral"""
+pandan flavor,"Herb, context","Flavoring, flavor","Sweet, smell",Floral
+pandan leaves,"Herb, context","Flavoring, flavor","Sweet, smell","Floral, Fresh, Herbal, Earthy"
+paprika powder,"Spice, context","Flavoring, Coloring, flavor","Spicy, Umami, smell","Smoky, Earthy"
+parma cheese,"Dairy, context","Fermentation, flavor","Umami, smell",Milky
+parmesan cheese,"Dairy, context","Main Ingredient, flavor","Umami, smell",Nutty
+parmesan cheese powder,"Dairy, context","Flavoring, flavor","Umami, smell",Milky
+parmiggiano reggiano cheese,"Dairy, context","Fermentation, flavor","Umami, smell",Milky
+parsley leaves,"Herb, context","Garnishing, flavor","Neutral, smell",Fresh
+passion fruit,"Fruit, context","Flavoring, flavor","Sour, smell","Fruity, Floral"
+passion fruit sauce,"Fruit, Sauce, flavor","Flavoring, Topping, smell","Sweet, Sour, context","Fruity, Sweet"
+pasta,"Pasta, context","Main Ingredient, flavor","Umami, smell",Neutral
+pastry base,"Grain, Bread, Sweetener, Oil, Condiment, flavor","Base, Moisturizing, Binding Agent, smell","Sweet, Umami, context","Fruity, Nutty, Yeasty"
+pea,"Legume, context","Main Ingredient, flavor","Umami, smell",Earthy
+peach,"Fruit, context","Main Ingredient, flavor","Sweet, smell","Fruity"""
+peanut,"Nut, context","Main Ingredient, flavor","Umami, smell",Nutty
+peanut butter,"Nut, context","Topping, Emulsifying, flavor","Salty, Umami, smell","Nutty, Umami"
+pear,"Fruit, context","Main Ingredient, flavor","Sweet, smell",Fruity
+pecan,"Nut, context","Main Ingredient, flavor","Sweet, smell",Nutty
+pepper,"Spice, context","Flavoring, flavor","Spicy, smell",Earthy
+pepper powder,"Spice, context","Flavoring, flavor","Spicy, smell",Earthy
+pepper sauce,"Condiment, context","Flavoring, flavor","Spicy, smell",Spicy
+peppermint essence,"Oil, context","Flavoring, flavor","Spicy, smell",Floral
+peppermint tea,"Beverage, context","Flavoring, flavor","Fresh, smell","Floral"""
+perilla leaves,"Herb, context","Flavoring, flavor","Umami, smell",Herbal
+persimmon,"Fruit, context","Main Ingredient, flavor","Sweet, smell",Fruity
+phrynium leaves,"Vegetable, context","Garnishing, flavor","Bitter, smell",Earthy
+phu quoc black pepper,"Spice, context","Flavoring, flavor","Spicy, smell","Earthy, Pungent"
+pickled cucumber,"Vegetable, context","Preserving, flavor","Sour, smell",Fruity
+pie dough,"Grain, context","Base, flavor","Neutral, smell",Yeasty
+pig ears,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+pig nose,"Meat, context","Main Ingredient, flavor","Umami, smell","Earthy"""
+pigeon,"Meat, context","Main Ingredient, flavor","Umami, smell","Savory"""
+pine mushrooms,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+pine nuts,"Nut, context","Main Ingredient, flavor","Umami, smell",Nutty
+pineapple,"Fruit, context","Flavoring, flavor","Sweet, Sour, smell","Fruity"""
+pink ginger,"Spice, context","Flavoring, flavor","Spicy, smell","Earthy"""
+pink grapefruit,"Fruit, context","Flavoring, flavor","Sour, smell","Citrusy"""
+pink salt,"Condiment, context","Flavoring, flavor","Salty, smell",Smoky
+pistachio,"Nut, context","Main Ingredient, flavor","Sweet, smell",Nutty
+pizza crust,"Bread, context","Base, flavor","Umami, smell",Yeasty
+plum,"Fruit, context","Flavoring, flavor","Sour, smell",Fruity
+pop corn,"Grain, context","Main Ingredient, flavor","Salty, smell",Nutty
+porcini mushrooms,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+pork,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+pork belly,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+pork blood,"Meat, context","Main Ingredient, flavor","Umami, smell",Earthy
+pork bones,"Meat, context","Base, flavor","Umami, smell",Savory
+pork chops,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+pork floss,"Meat, context","Main Ingredient, flavor","Salty Umami, smell","Savory Smoky"""
+pork liver,"Meat, context","Main Ingredient, flavor","Umami, smell","Earthy"""
+pork loin,"Meat, context","Main Ingredient, flavor","Umami, smell","Savory"""
+pork roll,"Meat, context","Main Ingredient, flavor","Umami, smell",Smoky
+pork sausage,"Meat, context","Main Ingredient, flavor","Umami, smell",Smoky
+pork skin,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+potato,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+potato starch,"Grain, context","Thickening, flavor","Neutral, smell",Neutral
+prawn,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fresh
+prosciutto ham,"Meat, context","Main Ingredient, flavor","Salty Umami, smell",Smoky Umami
+pumpkin,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+pumpkin seeds,"Nut, context","Main Ingredient, flavor","Salty, smell",Nutty
+pumpkin spice,"Spice, context","Flavoring, flavor","Sweet, smell","Spicy, Fruity, Earthy"
+pumpkin syrup,"Sweetener, context","Flavoring, flavor","Sweet, smell","Fruity, Earthy"
+purple cabbage,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+purple onion,"Vegetable, context","Flavoring, flavor","Bitter, smell",Earthy
+purple onions,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+purple sticky rice,"Grain, context","Main Ingredient, flavor","Sweet, smell",Earthy
+purple sweet potatoes,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+quail eggs,"Meat, context","Main Ingredient, flavor","Umami, smell",Earthy
+radicchio,"Vegetable, context","Main Ingredient, flavor","Bitter, smell",Earthy
+radicchio lettuce,"Vegetable, context","Main Ingredient, flavor","Bitter, smell",Earthy
+radish,"Vegetable, context","Main Ingredient, flavor","Spicy, smell",Earthy
+raisin,"Fruit, context","Sweetening, flavor","Sweet, smell",Fruity
+raspberry,"Fruit, context","Flavoring, flavor","Sweet, smell",Fruity
+raspberry jam,"Fruit, context","Preserving, flavor","Sweet, smell",Fruity
+red annatto oil,"Oil, context","Coloring, flavor","Neutral, smell",Earthy
+red apple,"Fruit, context","Flavoring, flavor","Sweet, Sour, smell","Fruity, Fresh"
+red apples,"Fruit, context","Flavoring, flavor","Sweet, Sour, smell","Fruity, Fresh"
+red beans,"Legume, context","Main Ingredient, flavor","Sweet, smell",Earthy
+red bell pepper,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+red bell peppers,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Fresh
+red food coloring,"Condiment, context","Coloring, flavor","Neutral, smell",Neutral
+red lentils,"Legume, context","Main Ingredient, flavor","Umami, smell","Earthy"""
+red onion,"Vegetable, context","Flavoring, flavor","Spicy, smell",Pungent
+red pomegranate,"Fruit, context","Flavoring, flavor","Sour, smell","Fruity, Floral"
+red tilapia,"Seafood, context","Main Ingredient, flavor","Umami, smell","Fishy"""
+red turmeric powder,"Spice, context","Coloring, flavor","Bitter, smell",Earthy
+red wine,"Beverage, context","Fermentation, flavor","Bitter, Sour, smell","Fruity, Yeasty, Floral"
+red wine vinegar,"Condiment, context","Flavoring, flavor","Sour, smell","Fruity, Yeasty, Savory"
+rib,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+rib cartilage,"Meat, context","Main Ingredient, flavor","Umami, smell",Earthy
+ribeye steaks,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+ribs tips,"Meat, context","Main Ingredient, flavor","Umami, smell",Smoky
+rice,"Grain, context","Main Ingredient, flavor","Umami, smell",Neutral
+rice cake,"Grain, context","Main Ingredient, flavor","Sweet, smell",Neutral
+rice field crab,"Seafood, context","Main Ingredient, flavor","Umami, smell",Earthy
+rice flour,"Grain, context","Thickening, flavor","Neutral, smell",Neutral
+rice noodles,"Grain, context","Main Ingredient, flavor","Neutral, smell",Neutral
+rice paper,"Grain, context","Binding Agent, flavor","Neutral, smell",Neutral
+rice paper sheets,"Grain, context","Binding, flavor","Neutral, smell",Neutral
+rice vinegar,"Condiment, context","Flavoring, flavor","Sour, smell","Fruity, Sour"
+rice wine,"Beverage, context","Fermentation, flavor","Umami, smell",Yeasty
+ricotta cheese,"Dairy, context","Main Ingredient, flavor","Umami, smell",Milky
+rock sugar,"Sweetener, context","Sweetening, flavor","Sweet, smell",Sweet
+rocket,"Herb, context","Garnishing, flavor","Bitter, smell",Fresh
+romaine lettuce,"Vegetable, context","Garnishing, flavor","Bitter, smell",Fresh
+rose,"Herb, context","Garnishing, flavor","Neutral, smell",Floral
+roselle flowers,"Spice, context","Flavoring, flavor","Sour, smell",Floral
+roselle syrup,"Fruit, Sweetener, Condiment, flavor",N/A,"Sweet, Sour, smell","Fruity, Floral"
+rosemary,"Herb, context","Flavoring, flavor","Umami, smell",Herbal
+rosemary branch,"Herb, context","Flavoring, flavor","Umami, smell",Floral
+rosemary leaves,"Herb, context","Flavoring, flavor","Umami, smell",Floral
+rum,"Beverage, context","Fermentation, flavor","Sweet, smell","Fruity, Smoky, Herbal"
+saffron,"Spice, context","Flavoring, Coloring, flavor","Spicy, Bitter, smell","Floral, Earthy"
+sage leaves,"Herb, context","Flavoring, flavor","Umami, smell",Herbal
+sake,"Beverage, context","Fermentation, flavor","Umami, smell",Yeasty
+salad,"Vegetable, Fruit, Dairy, Condiment, Oil, type can only belong to one or more of the following factors [Spice, Fruit, Vegetable, Dairy, Meat, Grain, Condiment, Seafood, Herb, Nut, Sweetener, Oil, Beverage, Fermenting Agent, Legume, Mushroom, Pasta, Bread, Sauce], flavor","Base, Flavoring, Garnishing, type can only belong to one or more of the following factors [Binding, Thickening, Flavoring, Sweetening, Preserving, Topping, Fermentation, Main Ingredient, Garnishing, Base, Tenderizing, Emulsifying, Coating, Moisturizing, Coloring, Binding Agent], smell","Sour, Salty, type can only belong to one or more of the following factors [Sweet, Salty, Spicy, Bitter, Sour, Umami], context","Fresh, Fruity, type can only belong to one or more of the following factors [Sweet, Sour, Spicy, Bitter, Umami, Fruity, Nutty, Smoky, Herbal, Earthy, Fishy, Yeasty, Citrusy, Milky, Pungent, Floral, Fresh, Savory, Neutral]"
+salad sauce,"Sauce, context","Flavoring, flavor","Sour, smell",Fresh
+salami,"Meat, context","Main Ingredient, flavor","Umami, smell",Smoky
+salmon,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+salmon bones broth,"Seafood, context","Base, flavor","Umami, smell",Fishy
+salmon fillet,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+salmon fillets,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+salt,"Condiment, context","Flavoring, flavor","Salty, smell",Neutral
+salt-roasted cashews,"Nut, context","Main Ingredient, flavor","Salty, smell",Nutty
+salt-roasted powder,"Condiment, context","Flavoring, flavor","Salty, smell",Savory
+salted butter,"Dairy, context","Emulsifying, flavor","Salty, smell",Milky
+salted cucumbers,"Vegetable, context","Preserving, flavor","Salty, smell",Fresh
+salted egg yolk,"Condiment, context","Flavoring, flavor","Salty, Umami, smell","Smoky, Umami"
+salted egg yolks,"Condiment, context","Flavoring, flavor","Salty, Umami, smell","Smoky, Umami"
+salted eggplant,"Vegetable, context","Main Ingredient, flavor","Salty, smell",Earthy
+samba biscuits,"Sweetener, Bread, Condiment, Grain, Oil, Sweetener, type","Topping, Base, Flavoring, Moisturizing, Binding, Sweetening, flavor","Sweet, Umami, smell","Sweet, Nutty, Floral"
+sandwich bread,"Bread, context","Base, flavor","Umami, smell",Yeasty
+sashimi soy sauce,"Condiment, context","Flavoring, flavor","Salty, Umami, smell","Umami, Savory"
+satay sauce,"Sauce, context","Flavoring, flavor","Spicy, Sour, Umami, smell","Smoky, Umami, Nutty"
+sauce,"Sauce, context","Flavoring, flavor","Umami, smell",Savory
+sausage,"Meat, context","Main Ingredient, flavor","Umami, smell",Smoky
+scallion,"Vegetable, context","Garnishing, flavor","Umami, smell",Fresh
+sea bass,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+sea bass fillet,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+sea worms,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+seafood mushrooms,"Mushroom, context","Main Ingredient, flavor","Umami, smell","Earthy"""
+seasoning,"Spice, context","Flavoring, flavor","Spicy, smell",Pungent
+seasoning powder,"Condiment, context","Flavoring, flavor","Salty, smell",Savory
+seaweed,"Seafood, context","Main Ingredient, flavor","Umami, smell",Savory
+seaweed salad,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fresh
+seed,"Grain, context","Thickening, flavor","Neutral, smell",Neutral
+self-raising flour,"Grain, context","Main Ingredient, flavor","Neutral, smell",Neutral
+sesame,"Nut, Grain, Oil, Condiment, flavor","Flavoring, Preserving, Topping, Emulsifying, Binding Agent, smell","Umami, Bitter, Sour, context","Nutty, Earthy, Fruity"
+sesame almonds,"Nut, context","Flavoring, flavor","Sweet, Sour, smell",Nutty
+sesame oil,"Oil, context","Flavoring, flavor","Umami, smell",Nutty
+sesame salt,"Nut, Condiment, Grain, flavor","Flavoring, Garnishing, smell","Salty, Umami, context","Nutty, Umami"
+shallot,"Vegetable, context","Flavoring, flavor","Umami, smell",Pungent
+shaoxing wine,"Beverage, context","Fermentation, flavor","Umami, smell",Yeasty
+sherry vinegar,"Condiment, context","Fermentation, flavor","Sour, smell",Fruity Yeasty Umami
+shiitake mushrooms,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+shortbread cookies,"Grain, Sweetener, Dairy, Condiment, Oil, Bread, flavor","Main Ingredient, Binding, Tenderizing, Emulsifying, Moisturizing","Sweet, smell","Sweet, Milky, Nutty, context"
+shortening,"Oil, context","Binding Agent, flavor","Neutral, smell",Neutral
+shoulder meat,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+shoulder ribs,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+shrimp,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fresh
+shrimp chips,"Seafood, context","Main Ingredient, flavor","Salty, smell",Umami
+shrimp flour,"Seafood, context","Flavoring, flavor","Umami, smell",Fishy
+shrimp paste,"Seafood, context","Fermentation, flavor","Umami, smell","Fishy, Pungent"
+shrimp powder,"Seafood, context","Flavoring, flavor","Umami, smell",Fishy
+shrimp salt,"Seafood, context","Flavoring, flavor","Salty, smell","Umami"""
+siracha chili sauce,"Condiment, context","Flavoring, flavor","Spicy, smell",Spicy
+skin,"Skin, context","Moisturizing, flavor","Neutral, smell",Earthy
+smoked bacon,"Meat, context","Main Ingredient, flavor","Salty, smell",Smoky
+smoked lemon sauce,"Sauce, context","Flavoring, flavor","Sour, Smoky, smell","Citrusy, Smoky"
+smoked meat ham,"Meat, context","Main Ingredient, flavor","Umami, smell",Smoky
+snail,"Seafood, context","Main Ingredient, flavor","Umami, smell",Earthy
+snakehead fish,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+snakehead fish fillets,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+snow peas,"Vegetable, context","Main Ingredient, flavor","Fresh, smell",Fresh
+soba noodles,"Grain, context","Main Ingredient, flavor","Umami, smell",Earthy
+sochu,"Beverage, context","Fermentation, flavor","Spicy, smell",Yeasty
+soda,"Beverage, context","Flavoring, flavor","Sweet, smell",Fruity
+sour apple,"Fruit, context","Flavoring, flavor","Sour, smell","Fruity, Citrusy"
+sour cream,"Dairy, context","Topping, Flavoring, Emulsifying, flavor","Sour, smell","Milky, Pungent"
+sour ears,"Fruit, context","Flavoring, flavor","Sour, smell",Fruity
+sour fish sauce,"Sauce, context","Fermentation, flavor","Sour, smell",Fishy
+sour mango,"Fruit, context","Flavoring, flavor","Sour, smell",Fruity
+sour vietnamese fermented rice,"Grain, context","Fermentation, flavor","Sour, smell",Yeasty
+soy milk,"Beverage, Legume, flavor","Main Ingredient, Base, smell","Umami, Sour, context","Milky, Earthy"
+soy sauce,"Condiment, context","Flavoring, flavor","Salty, Umami, smell","Umami, Smoky"
+spaghetti,"Pasta, context","Main Ingredient, flavor","Umami, smell",Neutral
+spaghetti noodles,"Pasta, context","Main Ingredient, flavor","Umami, smell",Neutral
+sparkling mineral water,"Beverage, context","Base, flavor","Neutral, smell",Fresh
+spice,"Spice, context","Flavoring, flavor","Spicy, smell",Pungent
+spinach,"Vegetable, context","Main Ingredient, flavor","Bitter, smell",Earthy
+spring onion,"Vegetable, context","Garnishing, flavor","Umami, smell",Earthy
+spring onions,"Vegetable, context","Garnishing, flavor","Umami, smell",Fresh
+sprout,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+squash,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+squid,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+squid tentacles,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+sriracha chili sauce,"Condiment, context","Flavoring, flavor","Spicy, smell",Spicy
+sriracha sauce,"Sauce, context","Flavoring, flavor","Spicy, smell",Spicy
+ssamjang sauce,"Sauce, context","Flavoring, Fermentation, Umami, flavor","Salty, Spicy, Sour, Umami, smell","Savory, Umami, Earthy, Smoky"
+star anise,"Spice, context","Flavoring, flavor","Spicy, smell",Floral
+steak,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+sticky rice,"Grain, context","Main Ingredient, flavor","Sweet, smell","Neutral"""
+sticky rice flour,"Grain, context","Thickening, Sweetening, Moisturizing, flavor","Sweet, smell","Neutral"""
+stone,"None, context","Binding Agent, flavor","Neutral, smell",Earthy
+straw mushroom,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+straw mushrooms,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+strawberry,"Fruit, context","Topping, flavor","Sweet, smell",Fruity
+sugar,"Sweetener, context","Sweetening, flavor","Sweet, smell",Sweet
+sugar rice,"Sweetener, context","Sweetening, flavor","Sweet, smell",Sweet
+sugar snap peas,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Fresh
+sugar syrup,"Sweetener, context","Sweetening, flavor","Sweet, smell",Sweet
+sunflower seeds,"Nut, context","Main Ingredient, flavor","Salty, smell",Nutty
+sweet,"Sweetener, context","Sweetening, flavor","Sweet, smell",Sweet
+sweet orange potatoes,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+sweet potato,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+sweet potatoes,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+sweet purple potatoes,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+sweet yellow potato,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+sweet&sour fish sauce,"Sauce, context","Flavoring, flavor","Sweet, Sour, Umami, smell","Fishy, Umami"
+sweet&sour tamarind sauce,"Sauce, context","Flavoring, flavor","Sour, Sweet, smell","Fruity, Sour"
+sweetened condensed milk,"Dairy, context","Sweetening, flavor","Sweet, smell",Milky
+sweetened yogurt,"Dairy, context","Sweetening, flavor","Sweet, smell",Milky
+tabasco sauce,"Sauce, context","Flavoring, flavor","Spicy, smell",Spicy
+tagliatelle noodles,"Pasta, context","Main Ingredient, flavor","Neutral, smell",Neutral
+tahini sauce,"Sauce, context","Emulsifying, flavor","Salty, smell",Nutty
+tamarind,"Fruit, Legume, context","Flavoring, Preserving, Souring, flavor","Sour, Bitter, smell","Fruity, Sour"
+tamarind pulp,"Fruit, Legume, context","Flavoring, Sweetening, Souring, flavor","Sour, Bitter, smell","Fruity, Sour"
+tamarind sauce,"Sauce, context","Flavoring, flavor","Sour, smell",Fruity
+tangerine,"Fruit, context","Flavoring, flavor","Sweet, Sour, smell",Citrusy
+tangzhong,"Grain, context","Thickening, flavor","Neutral, smell",Neutral
+tapioca pearls,"Grain, context","Thickening, flavor","Neutral, smell","Neutral"""
+tapioca starch,"Grain, context","Thickening, flavor","Neutral, smell","Neutral"""
+taro,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+taro tubers,"Vegetable, context","Main Ingredient, flavor","Sweet, smell","Earthy"""
+tarragon leaves,"Herb, context","Flavoring, flavor","Neutral, smell",Herbal
+tartar sauce,"Condiment, context","Emulsifying, flavor","Salty, smell",Fishy
+tea,"Beverage, context","Fermentation, flavor","Bitter, smell",Herbal
+tea leaves,"Beverage, context","Fermentation, flavor","Bitter, smell",Herbal
+tea po green tea pork belly,"Meat, Beverage, Condiment, flavor",N/A,"Salty, Umami, Sour, smell","Smoky, Savory, Herbal"
+tea po green tea pork sausage,"Meat, context","Main Ingredient, flavor","Umami, smell",Savory
+tequila,"Beverage, context","Fermentation, flavor","Spicy, smell",Smoky
+teriyaki sauce,"Sauce, context","Flavoring, flavor","Sweet, Salty, Umami, smell","Savory, Sweet"
+thai basil leaves,"Herb, context","Flavoring, flavor","Spicy, smell",Herbal
+thai red paste,"Condiment, context","Flavoring, flavor","Spicy, smell","Pungent"""
+the cake,"Sweetener, Grain, Oil, Condiment, Bread, Fermenting Agent, Sweetener, type","Main Ingredient, Sweetening, Binding, Tenderizing, Moisturizing, Flavoring, Topping, Base, Emulsifying, Coating, flavor","Sweet, Sour, Umami, smell","Sweet, Fruity, Nutty, Yeasty, Milky, Floral, Fresh, Savory"
+the chinese madder plant,"Herb, context","Coloring, flavor","Bitter, smell",Earthy
+thyme leaves,"Herb, context","Flavoring, flavor","Umami, smell",Earthy
+tiger prawns,"Seafood, context","Main Ingredient, flavor","Umami, smell","Fresh"""
+tilapia,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+tofu,"Legume, context","Main Ingredient, flavor","Umami, smell",Neutral
+tofu skin,"Legume, context","Main Ingredient, flavor","Umami, smell",Earthy
+tomato,"Vegetable, context","Main Ingredient, flavor","Sour, smell",Fresh
+tomato essence,"Vegetable, Condiment, Sauce, Flavoring, Base, Topping, Main Ingredient, Garnishing, Emulsifying, Binding Agent, Thickening, Moisturizing, Coloring, type","Flavoring, Base, Topping, Main Ingredient, Garnishing, Emulsifying, Binding Agent, Thickening, Moisturizing, Coloring, type","Sour, Umami, type","Fruity, Earthy, Fresh, Savory"
+tomato sauce,"Sauce, context","Flavoring, Base, flavor","Umami, Sour, Salty, smell","Earthy, Fruity, Savory"
+tortilla,"Grain, context","Main Ingredient, flavor","Salty, smell",Neutral
+tortilla chips,"Grain, context","Main Ingredient, flavor","Salty, smell",Neutral
+tuna,"Seafood, context","Main Ingredient, flavor","Umami, smell",Fishy
+turmeric,"Spice, context","Flavoring, Coloring, smell","Bitter, Spicy","Earthy, Pungent, flavor"
+turmeric branch,"Spice, context","Coloring, flavor","Bitter, smell",Earthy
+turmeric juice,"Spice, context","Flavoring, flavor","Bitter, smell","Earthy"""
+turmeric mixture,"Spice, context","Flavoring, Coloring, smell","Spicy, Bitter","Earthy, Pungent, flavor"
+turmeric powder,"Spice, context","Flavoring, Coloring, flavor","Spicy, Bitter, smell","Earthy, Pungent"
+udon noodles,"Pasta, context","Main Ingredient, flavor","Umami, smell",Neutral
+unsalted butter,"Dairy, context","Emulsifying, flavor","Umami, smell",Milky
+vanilla,"Sweetener, context","Flavoring, flavor","Sweet, smell",Floral
+vanilla bean,"Sweetener, context","Flavoring, flavor","Sweet, smell",Floral
+vanilla extract,"Condiment, context","Flavoring, flavor","Sweet, smell",Floral
+vanilla ice cream,"Dairy, context","Base, flavor","Sweet, smell",Milky
+vegetable,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+vegetable broth,"Vegetable, context","Base, flavor","Umami, smell",Earthy
+vegetable oil,"Oil, context","Emulsifying, flavor","Neutral, smell",Neutral
+vegetable salad,"Vegetable, context","Main Ingredient, flavor","Fresh, Sour, taste can vary based on vegetables used, smell","Earthy, Fresh"
+vermicelli,"Pasta, context","Main Ingredient, flavor","Neutral, smell",Neutral
+vietnamese coriander,"Herb, context","Flavoring, flavor","Spicy, smell","Herbal, Fresh"
+vietnamese lime leaves,"Herb, context","Flavoring, flavor","Sour, smell",Citrusy
+vinegar,"Condiment, context","Flavoring, flavor","Sour, smell",Sour
+virgin coconut oil,"Oil, context","Emulsifying, Moisturizing, flavor","Neutral, smell","Nutty, Fresh"
+virgin olive oil,"Oil, context","Emulsifying, flavor","Umami, smell",Fruity
+vodka,"Beverage, context","Fermentation, flavor","Neutral, smell",Neutral
+walnut,"Nut, context","Main Ingredient, flavor","Sweet, smell",Nutty
+water,"Beverage, context","Base, flavor","Neutral, smell",Fresh
+watermelon,"Fruit, context","Main Ingredient, flavor","Sweet, smell",Fruity
+wheat flour,"Grain, context","Main Ingredient, flavor","Neutral, smell",Nutty
+whipping cream,"Dairy, context","Topping, flavor","Sweet, smell",Milky
+whisk,"Condiment, context","Flavoring, flavor","Umami, smell",Savory
+white beans,"Legume, context","Main Ingredient, flavor","Umami, smell",Earthy
+white cauliflower,"Vegetable, context","Main Ingredient, flavor","Neutral, smell",Earthy
+white chocolate,"Sweetener, Dairy, context","Binding, Emulsifying, Sweetening, Coating, flavor","Sweet, smell","Milky, Sweet"
+white chrysanthemum mushrooms,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+white corn,"Grain, context","Main Ingredient, flavor","Sweet, smell",Earthy
+white milk,"Dairy, context","Main Ingredient, flavor","Neutral, smell",Milky
+white mushrooms,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+white onion,"Vegetable, context","Flavoring, flavor","Spicy, smell",Pungent
+white pepper,"Spice, context","Flavoring, flavor","Spicy, smell",Pungent
+white radish,"Vegetable, context","Main Ingredient, flavor","Umami, smell","Earthy"""
+white radishes,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
+white sesame,"Nut, context","Flavoring, flavor","Umami, smell",Nutty
+white vinegar,"Condiment, context","Flavoring, flavor","Sour, smell",Sour
+white wine,"Beverage, context","Fermentation, flavor","Sour, smell",Floral
+whole-wheat flour,"Grain, context","Main Ingredient, flavor","Neutral, smell",Nutty
+wild mushrooms,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+wine,"Beverage, context","Fermentation, flavor","Dry/Sour/Bitter, smell",Fruity/Earthy/Yeasty
+wine vinegar,"Condiment, context","Flavoring, flavor","Sour, smell","Fruity, Yeasty, Sour"
+wire,"Neutral, context","Binding Agent, flavor","Neutral, smell",Neutral
+wolfberry,"Fruit, context","Main Ingredient, flavor","Sweet, smell",Fruity
+wonton wrappers,"Grain, context","Binding, flavor","Neutral, smell",Neutral
+wood ear,"Mushroom, context","Main Ingredient, flavor","Umami, smell",Earthy
+wood ear mushrooms,"Mushroom, context","Main Ingredient, flavor","Umami, smell","Earthy"""
+worcestershire sauce,"Sauce, context","Flavoring, Tenderizing, flavor","Salty, Umami, smell","Pungent, Smoky"
+yeast,"Fermenting Agent, context","Fermentation, flavor","Umami, smell",Yeasty
+yellow bell peppers,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+yellow lemon peel,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+yellow mustard,"Condiment, context","Flavoring, flavor","Spicy, smell",Pungent
+yellow pepper,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Fresh
+yellow sweet potatoes,"Vegetable, context","Main Ingredient, flavor","Sweet, smell",Earthy
+yogurt,"Dairy, context","Fermentation, flavor","Sour, smell",Milky
+yogurt drink,"Dairy, context","Fermentation, flavor","Sour, smell",Milky
+yuzu juice,"Fruit, context","Flavoring, flavor","Sour, smell",Citrusy
+yuzu sauce,"Sauce, context","Flavoring, flavor","Sour, smell",Citrusy
+zucchini,"Vegetable, context","Main Ingredient, flavor","Umami, smell",Earthy
